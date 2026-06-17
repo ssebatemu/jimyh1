@@ -198,18 +198,8 @@ http://179.60.224.196:8000/play/a0hx/index.m3u8?PlaylistM3UCL
 https://go2thls.wns.live/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="232407" tvg-name="4k Travel TV" tvg-logo="https://stmify.com/wp-content/uploads/2024/11/354-s.webp", 4k Travel TV
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="301666" tvg-name="DeporTv.ar" tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg", DeporTv.ar
-http://181.224.255.210:8001/play/a0s8/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="300908" tvg-name="Eventos" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte.png", Eventos
-http://45.163.204.6:8000/play/a01s/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319875" tvg-name="ESPN 2 CO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png", ESPN 2 CO
-http://179.1.238.40:8000/play/a03m/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319862" tvg-name="ESPN 5" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png", ESPN 5
-http://200.215.249.71:8000/play/a07x?hls&PlaylistM3UCL
-#EXTINF:-1 tvg-id="319863" tvg-name="ESPN 6" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png", ESPN 6
-http://181.78.197.59:8000/play/a08c/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319864" tvg-name="ESPN 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png", ESPN 7
-http://38.187.7.251:8000/play/a0bv/index.m3u8?hls&PlaylistM3UCL
+
+
 #EXTINF:-1 tvg-id="312720" tvg-name="America TV 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina-mediano.png", America TV 2
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="312887" tvg-name="Tv Publica" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/television_publica_argentina-mediano.png", Tv Publica
@@ -232,12 +222,31 @@ http://181.209.96.155:10000/play/a15e/index.m3u8?PlaylistM3UCL
 http://181.209.96.155:10000/play/a12s/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="316674" tvg-name="Espn Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png", Espn Premium.ar
 http://181.209.96.155:10000/play/a15e/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="333513" tvg-name="Telemundo " tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png", Telemundo 
-http://132.255.210.69:9000/play/a06i/index.m3u8 ?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="300908" tvg-name="Eventos" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte.png", Eventos
+http://45.163.204.6:8000/play/a01s/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="319875" tvg-name="ESPN 2 CO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png", ESPN 2 CO
+http://179.1.238.40:8000/play/a03m/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="319862" tvg-name="ESPN 5" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png", ESPN 5
+http://200.215.249.71:8000/play/a07x?hls&PlaylistM3UCL
+#EXTINF:-1 tvg-id="319863" tvg-name="ESPN 6" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png", ESPN 6
+http://181.78.197.59:8000/play/a08c/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="319864" tvg-name="ESPN 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png", ESPN 7
+http://38.187.7.251:8000/play/a0bv/index.m3u8?hls&PlaylistM3UCL
+
+
 #EXTINF:-1 tvg-id="333516" tvg-name="Dsports" tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg", Dsports
 http://38.252.215.33:8000/play/a082/index.m3u8?hls&PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="301666" tvg-name="DeporTv.ar" tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg", DeporTv.ar
+http://181.224.255.210:8001/play/a0s8/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="333511" tvg-name="DSports 2" tvg-logo="https://alangulotvhd.com/img/logo-canal/dsports_2.webp", DSports 2
 https://tinyurl.com/35hxmhya?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="333513" tvg-name="Telemundo " tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png", Telemundo 
+http://132.255.210.69:9000/play/a06i/index.m3u8 ?PlaylistM3UCL
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png" group-title="Paramount+",DSports
 #EXTVLCOPT--http-reconnect=true
@@ -247,8 +256,6 @@ https://tinyurl.com/35hxmhya?PlaylistM3UCL
 #KODIPROP:inputstream.adaptive.license_key=9afc53e82bb24c20a5835a84138f6c13:abdd52917474f2342ff04f0d4722123a
 https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d952659d422b7/manifest.mpd
 
-
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png" group-title="Paramount+",DSports2
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -256,7 +263,6 @@ https://prope66bd35h.airspace-cdn.cbsivideo.com/out/v1/eb04c8bf15a94f14ad1d95265
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=010b4fa338184f52a712121ad62ae9b4:e310bad2a570b60f7799e2aa0fb33a71
 https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a463f9d5/manifest.mpd
- 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png" group-title="Paramount+",DSports+
 #EXTVLCOPT--http-reconnect=true
@@ -266,9 +272,13 @@ https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a
 #KODIPROP:inputstream.adaptive.license_key=41121cea7a3d49a78c9496d1b0d919e4:de048d4c2870b8d53961aaeac1804947
 https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
 
-#EXTINF:-1 tvg-id="312721" tvg-name="9 Litoral" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Canal_9_Litoral_%28Logo_2025%29.png", 9 Litoral
-https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="333510" tvg-name="Canal 21" tvg-logo="", Canal 21
-https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="333515" tvg-name="1" tvg-logo="", 1
-http://176.65.146.99:8401/play/a094/index.m3u8?PlaylistM3UCL
+#EXTINF:-1,Music 70s
+http://118.142.17.190:8278/now70hls/playlist.m3u8
+
+#EXTINF:-1,Music 80s
+http://118.142.17.190:8278/now80hls/playlist.m3u8
+
+#EXTINF:-1,Music 90s
+http://118.142.17.190:8278/now90hls/playlist.m3u8
+
+
