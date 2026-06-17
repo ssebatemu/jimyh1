@@ -1,0 +1,247 @@
+#EXTM3U x-tvg-url="http://www.m3u.cl/epg/m3u.xml" tv-test="jimyh1.m3u"
+#EXTINF:-1 tvg-name="+ Listas en M3U.CL" tvg-logo="https://www.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL * | CL
+https://videostreaming.cloudserverlatam.com:443/htbbgdnudk/htbbgdnudk/playlist.m3u8
+#EXTINF:-1 tvg-id="230937" tvg-name="America.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina-mediano.png", America.ar
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="230938" tvg-name="TVPublica.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/television_publica_argentina-mediano.png", TVPublica.ar
+https://g3.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232330" tvg-name="El Nueve.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_argentina-mediano.png", El Nueve.ar
+http://190.7.19.197:232/play/a03k/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232331" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
+http://190.7.19.197:232/play/a059/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232332" tvg-name="El Trece.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina-mediano.png", El Trece.ar
+http://190.7.19.197:232/play/a05a/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="279595" tvg-name="Net TV.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-YUPtSgpB6hX1BHQt7tH8GNazZoo3jT7_cg&s", Net TV.ar
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="279596" tvg-name="HGTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png", HGTV.ar
+http://181.209.96.155:10000/play/a12h/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="279597" tvg-name="DiscoveryHomeAndHealth.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png", DiscoveryHomeAndHealth.ar
+http://190.7.19.197:232/play/a064/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="279599" tvg-name="E! Entertainment.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png", E! Entertainment.ar
+http://8.243.126.131:8000/play/a0dz/index.m3u8?hls&PlaylistM3UCL
+#EXTINF:-1 tvg-id="279601" tvg-name="TLC.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png", TLC.ar
+http://190.108.83.69:8000/play/a0a4/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232343" tvg-name="TNT Novelas.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png", TNT Novelas.ar
+http://190.7.19.197:232/play/a00g/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="279602" tvg-name="Amc Series.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/amc_series-mediano.png", Amc Series.ar
+http://190.7.19.197:232/play/a052/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="279618" tvg-name="Lifetime.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png", Lifetime.ar
+http://190.90.22.42:5280/play/a0e7?PlaylistM3UCL
+#EXTINF:-1 tvg-id="279607" tvg-name="Hola TV.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png", Hola TV.ar
+http://148.222.230.144:8000/play/a0dq/index.m3u8?hls&PlaylistM3UCL
+#EXTINF:-1 tvg-id="232339" tvg-name="Discovery.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png", Discovery.ar
+http://190.7.19.197:232/play/a065/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="279603" tvg-name="National Geographic.ar" tvg-logo="https://www.nationalgeographicla.com/images/logo.png", National Geographic.ar
+http://181.224.255.210:8001/play/a0m2/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232337" tvg-name="History.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/historia_espana-mediano.png", History.ar
+http://190.7.19.197:232/play/a03h/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="280094" tvg-name="History 2.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png", History 2.ar
+http://190.7.19.197:232/play/a019/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232338" tvg-name="Animal Planet.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet_latinoamerica-mediano.png", Animal Planet.ar
+http://190.7.19.197:232/play/a081/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232495" tvg-name="Discovery Turbo.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png", Discovery Turbo.ar
+http://8.243.126.131:8000/play/a055/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="279606" tvg-name="Discovery World.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_world-mediano.png", Discovery World.ar
+http://181.224.255.210:8001/play/a0lt/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="279604" tvg-name="Discovery Theater.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_theater-mediano.png", Discovery Theater.ar
+http://181.224.255.210:8001/play/a0fc/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="279605" tvg-name="Discovery Science.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_science-mediano.png", Discovery Science.ar
+http://181.224.255.210:8001/play/a0mo/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="279608" tvg-name="Disney Channel.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png", Disney Channel.ar
+http://181.224.255.210:8001/play/a0oe/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="279609" tvg-name="Disney Junior.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_junior-mediano.png", Disney Junior.ar
+http://181.224.255.210:8001/play/a0ny/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="279610" tvg-name="Cartoon Network.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png", Cartoon Network.ar
+http://181.224.255.210:8001/play/a0py/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="279611" tvg-name="Cartoonito.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoonito-mediano.png", Cartoonito.ar
+http://200.35.176.154:8000/play/a011/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="279612" tvg-name="Discovery Kids.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png", Discovery Kids.ar
+http://181.224.255.210:8001/play/a0pv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232334" tvg-name="TNT Sports Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports-mediano.png", TNT Sports Premium.ar
+http://190.7.19.197:232/play/a037/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232333" tvg-name="Espn Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png", Espn Premium.ar
+http://190.7.19.197:232/play/a038/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232365" tvg-name="Espn.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png", Espn.ar
+http://190.7.19.197:232/play/a03n/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232366" tvg-name="Espn 2.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png", Espn 2.ar
+http://190.7.19.197:232/play/a03m/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232367" tvg-name="Espn 3.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte-mediano.png", Espn 3.ar
+http://190.7.19.197:232/play/a03o/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="279617" tvg-name="Espn 4.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png", Espn 4.ar
+http://190.7.19.197:232/play/a05t/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="279615" tvg-name="Fox Sports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Fox_Sports_Argentina_2026.webp", Fox Sports.ar
+http://190.7.19.197:232/play/a05u/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="279613" tvg-name="Fox Sports 2.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Fox_Sports_2_2026.png/revision/latest/scale-to-width-down/250?cb=20260204193820", Fox Sports 2.ar
+http://190.7.19.197:232/play/a03p/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="279614" tvg-name="Fox Sports 3.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Fox_Sports_3_2026.png/revision/latest/scale-to-width-down/250?cb=20260204193828", Fox Sports 3.ar
+http://190.7.19.197:232/play/a04x/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="279616" tvg-name="TyC Sports.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png", TyC Sports.ar
+http://190.7.19.197:232/play/a04w/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232361" tvg-name="HBO.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png", HBO.ar
+http://181.224.255.210:8001/play/a0f161/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232487" tvg-name="HBO Plus.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png", HBO Plus.ar
+http://8.243.126.131:8000/play/a0f5/index.m3u8?hls&PlaylistM3UCL
+#EXTINF:-1 tvg-id="232363" tvg-name="HBO 2.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png", HBO 2.ar
+http://190.7.19.197:232/play/a05g/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232486" tvg-name="HBO Family.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png", HBO Family.ar
+http://181.224.255.210:8001/play/a0nv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232517" tvg-name="HBO Xtreme.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png", HBO Xtreme.ar
+http://38.43.132.201:8000/play/a0pc/index.m3u8?hls&PlaylistM3UCL
+#EXTINF:-1 tvg-id="312165" tvg-name="HBO Pop.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png", HBO Pop.ar
+http://181.224.255.210:8001/play/a0on/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232488" tvg-name="HBO Mundi.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png", HBO Mundi.ar
+http://181.224.255.210:8001/play/a0rf/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232406" tvg-name="HBO Signature.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png", HBO Signature.ar
+http://181.224.255.210:8001/play/a0re/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232353" tvg-name="Amc.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png", Amc.ar
+http://190.7.19.197:232/play/a046/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232371" tvg-name="Cinecanal.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png", Cinecanal.ar
+http://190.7.19.197:232/play/a05y/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232354" tvg-name="Cinemax.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png", Cinemax.ar
+http://190.7.19.197:232/play/a009/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232342" tvg-name="FX.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png", FX.ar
+http://190.60.37.118:4000/play/a0bk?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232359" tvg-name="Studio Universal.ar" tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg", Studio Universal.ar
+http://190.7.19.197:232/play/a049/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232360" tvg-name="Space.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png", Space.ar
+http://190.7.19.197:232/play/a050/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232364" tvg-name="Star Channel.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png", Star Channel.ar
+http://190.7.19.197:232/play/a05w/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232336" tvg-name="Sony Channel.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png", Sony Channel.ar
+http://190.7.19.197:232/play/a01g/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232340" tvg-name="Sony Movies.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_movies-mediano.png", Sony Movies.ar
+http://190.7.19.197:232/play/a01i/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="321153" tvg-name="SONY CINE.mx" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es", SONY CINE.mx
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232356" tvg-name="TNT.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica-mediano.png", TNT.ar
+http://190.7.19.197:232/play/a060/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232341" tvg-name="Universal TV.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_tv-mediano.png", Universal TV.ar
+http://190.7.19.197:232/play/a03u/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232373" tvg-name="UNIVERSAL PREMIERE.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_premiere-mediano.png", UNIVERSAL PREMIERE.mx
+http://200.35.176.154:8000/play/a0rg/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232372" tvg-name="UNIVERSAL CINEMA.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_cinema-mediano.png", UNIVERSAL CINEMA.mx
+http://8.243.126.131:8000/play/a0de/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="279643" tvg-name="Golden.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png", Golden.ar
+http://190.60.37.118:4000/play/a08t?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232347" tvg-name="Golden Edge.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png", Golden Edge.ar
+http://179.1.225.6:8000/play/a0kg/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232411" tvg-name="Europa Europa.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/europa_europa-mediano.png", Europa Europa.ar
+http://190.7.19.197:232/play/a01o/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="281940" tvg-name="Cine Premium" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png", Cine Premium
+https://telco.apk-media.edge-apps.net/hls/d4bhf-fflam-b5fon-7kcff.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232374" tvg-name="Cine Familar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc6pEKlp2kZH2pKqF5chstFSTwZy5H8P8sBw&s", Cine Familar
+https://telco.apk-media.edge-apps.net/hls/14nj5-o3nib-lfdgo-ha1ib.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232350" tvg-name="Warner.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv-mediano.png", Warner.ar
+http://190.7.19.197:232/play/a01h/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232355" tvg-name="TNT Series.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png", TNT Series.ar
+http://190.7.19.197:232/play/a088/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="279598" tvg-name="AandE.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png", AandE.ar
+http://181.224.255.210:8001/play/a0edfhg/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="279282" tvg-name="AXN.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png", AXN.ar
+http://190.7.19.197:232/play/a00b/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="279642" tvg-name="UNIVERSAL REALITY.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_reality-mediano.png", UNIVERSAL REALITY.mx
+http://8.243.126.131:8000/play/a0is/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="305831" tvg-name="USA.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png", USA.ar
+http://190.60.37.118:4000/play/a08a?PlaylistM3UCL
+#EXTINF:-1 tvg-id="279644" tvg-name="DHE.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png", DHE.ar
+http://148.222.230.144:8000/play/a09k/index.m3u8?hls&PlaylistM3UCL
+#EXTINF:-1 tvg-id="279640" tvg-name="FilmAndArts.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png", FilmAndArts.ar
+http://190.7.19.197:232/play/a01e/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232409" tvg-name="TN.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/todo_notcias-mediano.png", TN.ar
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232375" tvg-name="C5N.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/c5n-mediano.png", C5N.ar
+http://190.7.19.197:232/play/a040/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232335" tvg-name="Cronica Tv.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cronica_television-mediano.png", Cronica Tv.ar
+https://g3.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true&PlaylistM3UCL
+#EXTINF:-1 tvg-id="280093" tvg-name="La Nacion+.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_nacion_mas-mediano.png", La Nacion+.ar
+http://190.7.19.197:232/play/a043/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232378" tvg-name="Canal 26.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/26_de_argentina-mediano.png", Canal 26.ar
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232376" tvg-name="A24.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_24-mediano.png", A24.ar
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="281933" tvg-name="France 24 en Español.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png", France 24 en Español.ar
+https://live.france24.com/live/F24_ES_HI_HLS/playlist.m3u8?hdnts=exp=1685952438~acl=/live/F24_ES_HI_HLS/*~id=distribution~hmac=f4e4caad32c493898c0d06d4de0850be8c2501790f3aa716e65d6e011641fbfa&partner=dish-mexico&PlaylistM3UCL
+#EXTINF:-1 tvg-id="322677" tvg-name="Bbc World News.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bbc_world_news-mediano.png", Bbc World News.ar
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="281932" tvg-name="Cnn en Español.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png", Cnn en Español.ar
+http://181.224.255.210:8001/play/a0q1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="322678" tvg-name="TV5 Monde" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv5monde-mediano.png", TV5 Monde
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8?hdnea=st%3D1780609158~exp%3D1780616358~acl%3D%2F%2A~hmac%3D948e22c7b30ca551a5b9085b41dc6d35883579e3446d046118368888513e8877&PlaylistM3UCL
+#EXTINF:-1 tvg-id="281934" tvg-name="TV Globo.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png/revision/latest?cb=20160114164123&path-prefix=es", TV Globo.ar
+http://190.7.19.197:232/play/a00w/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232505" tvg-name="Dw Español.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/deutsche_welle-mediano.png", Dw Español.ar
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="281936" tvg-name="Rai Italia.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/rai_italia_international-mediano.png", Rai Italia.ar
+http://190.7.19.197:232/play/a01b/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232368" tvg-name="Antena 3.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/antena_3-mediano.png", Antena 3.ar
+http://181.79.81.145:8000/play/a1bd?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232369" tvg-name="TVE.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tve_internacional-mediano.png", TVE.ar
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="279546" tvg-name="MTV.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mtv-mediano.png", MTV.ar
+http://181.224.255.210:8001/play/a0f9/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232410" tvg-name="TeleHit" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telehit_musica-mediano.png", TeleHit
+http://200.115.120.1:8000/play/ca093/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="279635" tvg-name="Zoom Back" tvg-logo="https://static.wixstatic.com/media/c5adb2_b7342f955e6e4caa93f70e3060748637~mv2.jpg/v1/fill/w_280,h_160,al_c,lg_1,q_80,enc_avif,quality_auto/Image-empty-state.jpg", Zoom Back
+http://45.184.87.142:8000/play/a02r?PlaylistM3UCL
+#EXTINF:-1 tvg-id="312889" tvg-name="Retroclub" tvg-logo="https://i.ibb.co/5ZpmjN4/retroclub.png", Retroclub
+https://video08.logicahost.com.br/retroclub/retroclub/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="279636" tvg-name="Stingray Concerts" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw4Sy8E1u9v1cw1goRM0i3nUKecEXlRlWNMQ&s", Stingray Concerts
+http://148.222.230.197:8000/play/a0f4/index.m3u8?hls&PlaylistM3UCL
+#EXTINF:-1 tvg-id="279545" tvg-name="El Gourmet.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet-mediano.png", El Gourmet.ar
+http://astra.fibernetisp.com.co/play/a0jm/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="281939" tvg-name="Food Network.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png", Food Network.ar
+http://190.60.37.118:4000/play/a0cg?PlaylistM3UCL
+#EXTINF:-1 tvg-id="281931" tvg-name="Sun Channel.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sun_channel-mediano.png", Sun Channel.ar
+http://190.60.37.118:4000/play/a00u?PlaylistM3UCL
+#EXTINF:-1 tvg-id="281935" tvg-name="Travel XP" tvg-logo="https://images.ctfassets.net/8utyj17y1gom/6iDVdlKIVCvA8vN9vnwCZN/8af005c9f99de54b8c29047307f36c76/Desktop_TVChannelPage_Travel-XP.png", Travel XP
+http://179.60.224.196:8000/play/a0hx/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="286914" tvg-name="GO 2 Travel" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAhFBMVEX///8UFBQAAAAgICDPz8/y8vKCgoIPDw/GxsaGhobX19fMzMwICAgRERENDQ1ZWVmwsLD19fU9PT3f39/t7e2YmJgZGRkyMjJ7e3ukpKRUVFSPj49zc3Pm5ubCwsJsbGyqqqpGRka3t7cnJydXV1c3NzdjY2MsLCxubm6VlZVOTk5AQEDfQOgXAAAFwklEQVR4nO2Z6VarSBSFwwEkEIYQSAKZBxM1vv/7dc3FZHdfXS1Le39/glSB1OaMxWQCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPgDisjzosIfGirZUIvZbHDer8I/bUix3kbtsWJ7oy5hOc5zfh/ljihOHElKdJ7ZsehBlDotaL0f71m/iSVR0lp0THdlB/mOYqcDnbs3+HVGk5", GO 2 Travel
+https://go2thls.wns.live/hls/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232407" tvg-name="4k Travel TV" tvg-logo="https://stmify.com/wp-content/uploads/2024/11/354-s.webp", 4k Travel TV
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="301666" tvg-name="DeporTv.ar" tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg", DeporTv.ar
+http://181.224.255.210:8001/play/a0s8/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="300908" tvg-name="Eventos" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte.png", Eventos
+http://45.163.204.6:8000/play/a01s/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="319875" tvg-name="ESPN 2 CO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png", ESPN 2 CO
+http://179.1.238.40:8000/play/a03m/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="319862" tvg-name="ESPN 5" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png", ESPN 5
+http://200.215.249.71:8000/play/a07x?hls&PlaylistM3UCL
+#EXTINF:-1 tvg-id="319863" tvg-name="ESPN 6" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png", ESPN 6
+http://181.78.197.59:8000/play/a08c/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="319864" tvg-name="ESPN 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png", ESPN 7
+http://38.187.7.251:8000/play/a0bv/index.m3u8?hls&PlaylistM3UCL
+#EXTINF:-1 tvg-id="312720" tvg-name="America TV 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina-mediano.png", America TV 2
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="312887" tvg-name="Tv Publica" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/television_publica_argentina-mediano.png", Tv Publica
+http://190.7.19.197:232/play/a03c/index.m3u8 ?PlaylistM3UCL
+#EXTINF:-1 tvg-id="312888" tvg-name="El Nueve.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_argentina-mediano.png", El Nueve.ar
+http://190.7.19.197:232/play/a03k/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="312719" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
+http://190.7.19.197:232/play/a059/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="332145" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
+http://181.209.91.106:2222/Live/120e4c580311c6685df90ec4dca2c0b1/telefe.playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="232408" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
+http://181.209.96.155:10000/play/a15g/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="333512" tvg-name="Telefe Rosario" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe Rosario
+https://cdn.pontiscloud.com/output/ARR2/TelefeRosarioH/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="333514" tvg-name="Telefe Cordoba" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe Cordoba
+https://cdn.pontiscloud.com/output/Canal8/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="332144" tvg-name="El Trece.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina-mediano.png", El Trece.ar
+http://181.209.96.155:10000/play/a15e/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="312988" tvg-name="TNT Sports Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports-mediano.png", TNT Sports Premium.ar
+http://181.209.96.155:10000/play/a12s/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="316674" tvg-name="Espn Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png", Espn Premium.ar
+http://181.209.96.155:10000/play/a15e/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="333513" tvg-name="Telemundo " tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png", Telemundo 
+http://132.255.210.69:9000/play/a06i/index.m3u8 ?PlaylistM3UCL
+#EXTINF:-1 tvg-id="333516" tvg-name="Dsports" tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg", Dsports
+http://38.252.215.33:8000/play/a082/index.m3u8?hls&PlaylistM3UCL
+#EXTINF:-1 tvg-id="333511" tvg-name="DSports 2" tvg-logo="https://alangulotvhd.com/img/logo-canal/dsports_2.webp", DSports 2
+https://tinyurl.com/35hxmhya?PlaylistM3UCL
+#EXTINF:-1 tvg-id="312721" tvg-name="9 Litoral" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Canal_9_Litoral_%28Logo_2025%29.png", 9 Litoral
+https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="333510" tvg-name="Canal 21" tvg-logo="", Canal 21
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="333515" tvg-name="1" tvg-logo="", 1
+http://176.65.146.99:8401/play/a094/index.m3u8?PlaylistM3UCL
