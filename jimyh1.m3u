@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml" tv-test="jimyh1.m3u"
+#EXTINF:-1,Music 70s
+http://118.142.17.190:8278/playlist.m3u8
 
 #EXTINF:-1 tvg-id="230937" tvg-name="America.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina-mediano.png", America.ar
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8?PlaylistM3UCL
@@ -186,6 +188,16 @@ http://45.184.87.142:8000/play/a02r?PlaylistM3UCL
 https://video08.logicahost.com.br/retroclub/retroclub/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="279636" tvg-name="Stingray Concerts" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw4Sy8E1u9v1cw1goRM0i3nUKecEXlRlWNMQ&s", Stingray Concerts
 http://148.222.230.197:8000/play/a0f4/index.m3u8?hls&PlaylistM3UCL
+
+#EXTINF:-1,Music 70s
+http://118.142.17.190:8278/now70hls/playlist.m3u8
+
+#EXTINF:-1,Music 80s
+http://118.142.17.190:8278/now80hls/playlist.m3u8
+
+#EXTINF:-1,Music 90s
+http://118.142.17.190:8278/now90hls/playlist.m3u8
+
 #EXTINF:-1 tvg-id="279545" tvg-name="El Gourmet.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet-mediano.png", El Gourmet.ar
 http://astra.fibernetisp.com.co/play/a0jm/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="281939" tvg-name="Food Network.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png", Food Network.ar
@@ -272,13 +284,32 @@ https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a
 #KODIPROP:inputstream.adaptive.license_key=41121cea7a3d49a78c9496d1b0d919e4:de048d4c2870b8d53961aaeac1804947
 https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
 
-#EXTINF:-1,Music 70s
-http://118.142.17.190:8278/now70hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/930x400/la_1_372x160.png" group-title="LG TV",La 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&preroll_duration=30&preroll=1
+#EXTINF:-1 tvg-id="ESBC4100001NZ" tvg-name="ESBC4100001NZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20260113T032322SQUARE.png" group-title="TV SAMSUNG",La 1
+https://jmp2.uk/stvp-ESBC4100001NZ
 
-#EXTINF:-1,Music 80s
-http://118.142.17.190:8278/now80hls/playlist.m3u8
+#EXTINF:-1 tvg-name="La 1 HD" group-title="The Netherlands - OTROS",La 1 HD
+http://176.65.146.93:8401/play/a095/index.m3u8
 
-#EXTINF:-1,Music 90s
-http://118.142.17.190:8278/now90hls/playlist.m3u8
+#EXTINF:-1 tvg-name="La 1 HD" group-title="The Netherlands - OTROS",La 1 HD
+http://176.65.146.189:8401/play/a094
+
+#EXTINF:-1 tvg-name="La 1 UHD" group-title="Desconocido - OTROS",La 1 UHD
+http://176.65.146.93:8401/play/a09a/index.m3u8
+
+#EXTINF:-1 tvg-name="La 1 UHD" group-title="The Netherlands - OTROS",La 1 UHD
+http://176.65.146.129:8401/play/a093/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/UNIVERSO_LOGO_color_black.png",Universo West
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc26110bb0d29d0e4452d42602846080:4a2e5782e26a3e2d7dd0431205c14518
+https://a116aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rwcf8uax9l/out/v1/13ccaaacbe1143e69b7732fced73f0ab/cenc.mpd
+
+
 
 
