@@ -198,6 +198,9 @@ http://118.142.17.190:8278/now80hls/playlist.m3u8
 #EXTINF:-1,Music 90s
 http://118.142.17.190:8278/now90hls/playlist.m3u8
 
+#EXTINF:-1,Music 00s
+http://118.142.17.190:8278/now00hls/playlist.m3u8
+
 #EXTINF:-1 tvg-id="279545" tvg-name="El Gourmet.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet-mediano.png", El Gourmet.ar
 http://astra.fibernetisp.com.co/play/a0jm/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="281939" tvg-name="Food Network.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png", Food Network.ar
@@ -302,28 +305,5 @@ http://176.65.146.93:8401/play/a09a/index.m3u8
 http://176.65.146.129:8401/play/a093/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/UNIVERSO_LOGO_color_black.png",Universo West
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc26110bb0d29d0e4452d42602846080:4a2e5782e26a3e2d7dd0431205c14518
-https://a116aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rwcf8uax9l/out/v1/13ccaaacbe1143e69b7732fced73f0ab/cenc.mpd
-
-#EXTINF:-1 ,Fox
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://live-pv-ta.amazon.fastly-edge.com/pdx-nitro/live/clients/dash/enc/pfcxjf1zas/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
-
-#EXTINF:-1 ,Telemundo-4k
-https://embedindia.st/embed/wc/2026-06-17/por-cod/telemundo-4k
-
-#EXTINF:-1 tvg-id="333512" tvg-name="Telefe Santa Fe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe Santa Fe
-https://cdnlb.gigared.com.ar/live/eds/Telefe_Santa_Fe/sa_live_dash/Telefe_Santa_Fe.mpd?ck=eyIwYWE3Njg3ZTM5ZTdlN2UyZTNkNjRkODdhMmZhMTkyMCI6IjUyM2NjODQ5ODVmYWRhZTk1Mjg5ZGQ4ODgzODEzM2M5In0%3D
-
-#EXTINF:-1 ,TNT Sports
-https://cdn03.gigared.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzgxODI1NDc5Iiwic2lwIjoiIiwicGF0aCI6IiIsInNlc3Npb25fY2RuX2lkIjoiMWVjZmZiYWE5MDI4MThjNyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTM4LjAuMTUyLjE0NiIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiMiIsInNvdXJjZXMiOlsxXX0=.6bAV-NWvdvLKqlRiR2p6KNkreyabwG59UObEK1kexAelW29VqDLiCABJ-RrlmKmk8CHI0AM6j-wUEXRKtOLhFA==/live/eds/TNT_Sports_Premium/sa_live_dash/TNT_Sports_Premium.mpd
-
+#EXTINF:-1 ,Dsports
+http://45.71.202.124:8000/play/a001/index.m3u8
