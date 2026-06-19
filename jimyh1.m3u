@@ -321,3 +321,6 @@ https://live-pv-ta.amazon.fastly-edge.com/pdx-nitro/live/clients/dash/enc/pfcxjf
 #EXTINF:-1 ,Telemundo-4k
 https://embedindia.st/embed/wc/2026-06-17/por-cod/telemundo-4k
 
+#EXTINF:-1 tvg-id="333512" tvg-name="Telefe Santa Fe" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe Santa Fe
+https://cdnlb.gigared.com.ar/live/eds/Telefe_Santa_Fe/sa_live_dash/Telefe_Santa_Fe.mpd?ck=eyIwYWE3Njg3ZTM5ZTdlN2UyZTNkNjRkODdhMmZhMTkyMCI6IjUyM2NjODQ5ODVmYWRhZTk1Mjg5ZGQ4ODgzODEzM2M5In0%3D
+
