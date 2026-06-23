@@ -1,36 +1,48 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml" tv-test="jimyh1.m3u"
-#EXTINF:-1,Music 70s
+#EXTINF:-1,Na
 http://118.142.17.190:8278/playlist.m3u8
 
 #EXTINF:-1 tvg-id="230937" tvg-name="America.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina-mediano.png", America.ar
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8?PlaylistM3UCL
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
 #EXTINF:-1 tvg-id="230938" tvg-name="TVPublica.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/television_publica_argentina-mediano.png", TVPublica.ar
-https://g3.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8?PlaylistM3UCL
+https://g3.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+
 #EXTINF:-1 tvg-id="232330" tvg-name="El Nueve.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_argentina-mediano.png", El Nueve.ar
-http://190.7.19.197:232/play/a03k/index.m3u8?PlaylistM3UCL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://190.7.19.197:232/play/a03k/index.m3u8
 
 #EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefe_ea48843cc9b8464bbdce2a27ce68980b.png" group-title=" ARGENTINA🇦🇷 WIFI PERSONAL", Telefe.ar
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
-#EXTHTTP:{"Origin":"https://portal.app.flow.com.py","Referer":"https://portal.app.flow.com.py/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
-https://cdn-py.cvattv.com.ar/live/c4eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://190.7.19.197:232/play/a059/index.m3u8
 
 #EXTINF:-1 tvg-id="232332" tvg-name="El Trece.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina-mediano.png", El Trece.ar
-http://190.7.19.197:232/play/a05a/index.m3u8?PlaylistM3UCL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://190.7.19.197:232/play/a05a/index.m3u8
+
 #EXTINF:-1 tvg-id="279595" tvg-name="Net TV.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-YUPtSgpB6hX1BHQt7tH8GNazZoo3jT7_cg&s", Net TV.ar
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?PlaylistM3UCL
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+
 #EXTINF:-1 tvg-id="279596" tvg-name="HGTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png", HGTV.ar
-http://181.209.96.155:10000/play/a12h/index.m3u8?PlaylistM3UCL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://181.209.96.155:10000/play/a12h/index.m3u8
+
 #EXTINF:-1 tvg-id="279597" tvg-name="DiscoveryHomeAndHealth.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png", DiscoveryHomeAndHealth.ar
-http://190.7.19.197:232/play/a064/index.m3u8?PlaylistM3UCL
+http://190.7.19.197:232/play/a064/index.m3u8
+
 #EXTINF:-1 tvg-id="279599" tvg-name="E! Entertainment.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png", E! Entertainment.ar
-http://8.243.126.131:8000/play/a0dz/index.m3u8?hls&PlaylistM3UCL
+http://8.243.126.131:8000/play/a0dz/index.m3u8
+
 #EXTINF:-1 tvg-id="279601" tvg-name="TLC.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png", TLC.ar
-http://190.108.83.69:8000/play/a0a4/index.m3u8?PlaylistM3UCL
+http://190.108.83.69:8000/play/a0a4/index.m3u8
+
 #EXTINF:-1 tvg-id="232343" tvg-name="TNT Novelas.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png", TNT Novelas.ar
-http://190.7.19.197:232/play/a00g/index.m3u8?PlaylistM3UCL
+http://190.7.19.197:232/play/a00g/index.m3u8
+
 #EXTINF:-1 tvg-id="279602" tvg-name="Amc Series.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/amc_series-mediano.png", Amc Series.ar
 http://190.7.19.197:232/play/a052/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="279618" tvg-name="Lifetime.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png", Lifetime.ar
@@ -260,7 +272,7 @@ http://38.187.7.251:8000/play/a0bv/index.m3u8?hls&PlaylistM3UCL
 #EXTINF:-1 tvg-id="333516" tvg-name="Dsports" tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg", Dsports
 http://38.252.215.33:8000/play/a082/index.m3u8?hls&PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="301666" tvg-name="DeporTv.ar" tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg", Dsports
+#EXTINF:-1 tvg-id="301666" tvg-name="Dsports.ar" tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg", Dsports
 http://181.224.255.210:8001/play/a0s8/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="333511" tvg-name="DSports 2" tvg-logo="https://alangulotvhd.com/img/logo-canal/dsports_2.webp", DSports 2
