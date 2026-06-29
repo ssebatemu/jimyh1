@@ -337,6 +337,14 @@ http://176.65.146.93:8401/play/a09a/index.m3u8
 http://176.65.146.129:8401/play/a093/index.m3u8
 
 
+#EXTINF:-1 tvg-id="312719" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
+https://max.donvpnapk.bid:443/live/@Victordevalm2/75MzvwGW8bEA/196941.ts
+#EXTINF:-1 tvg-id="332145" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
+https://max.donvpnapk.bid:443/live/@Victordevalm2/75MzvwGW8bEA/196942.ts
+#EXTINF:-1 tvg-id="232408" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
+https://max.donvpnapk.bid:443/live/@Victordevalm2/75MzvwGW8bEA/196943.ts
+
+
 
 
 
