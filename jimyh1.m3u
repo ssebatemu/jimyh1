@@ -16,7 +16,7 @@ http://190.7.19.197:232/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefe_ea48843cc9b8464bbdce2a27ce68980b.png" group-title=" ARGENTINA🇦🇷 WIFI PERSONAL", Telefe.ar
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://190.7.19.197:232/play/a059/index.m3u8
+http://181.209.91.106:2222/Live/120e4c580311c6685df90ec4dca2c0b1/telefe.playlist.m3u8
 
 #EXTINF:-1 tvg-id="232332" tvg-name="El Trece.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina-mediano.png", El Trece.ar
 #KODIPROP:inputstream=inputstream.adaptive
@@ -247,7 +247,7 @@ http://miotv.cc:8080/Lopez123/Lopez123/272041
 #EXTINF:-1 tvg-id="312719" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
 http://190.7.19.197:232/play/a059/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="332145" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
-http://181.209.91.106:2222/Live/120e4c580311c6685df90ec4dca2c0b1/telefe.playlist.m3u8?PlaylistM3UCL
+http://181.209.91.106:2222/Live/120e4c580311c6685df90ec4dca2c0b1/telefe.playlist.m3u8
 #EXTINF:-1 tvg-id="232408" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
 http://181.209.96.155:10000/play/a15g/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="333512" tvg-name="Telefe Rosario" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe Rosario
@@ -338,11 +338,11 @@ http://176.65.146.129:8401/play/a093/index.m3u8
 
 
 #EXTINF:-1 tvg-id="312719" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
-https://max.donvpnapk.bid:443/live/@Victordevalm2/75MzvwGW8bEA/196941.ts
+https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196943.ts
 #EXTINF:-1 tvg-id="332145" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
-https://max.donvpnapk.bid:443/live/@Victordevalm2/75MzvwGW8bEA/196942.ts
-#EXTINF:-1 tvg-id="232408" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
-https://max.donvpnapk.bid:443/live/@Victordevalm2/75MzvwGW8bEA/196943.ts
+https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196942.ts
+#EXTINF:-1 tvg-id="312888" tvg-name="El Nueve.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_argentina-mediano.png", El Nueve.ar
+https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196937.ts
 
 
 
