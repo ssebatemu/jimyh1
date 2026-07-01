@@ -292,7 +292,7 @@ https://tinyurl.com/35hxmhya?PlaylistM3UCL
 https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd
 
 #EXTINF:-1 tvg-id="333513" tvg-name="Telemundo " tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png", Telemundo 
-http://132.255.210.69:9000/play/a06i/index.m3u8 ?PlaylistM3UCL
+http://132.255.210.69:9000/play/a06i/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png" group-title="Paramount+", DSports
