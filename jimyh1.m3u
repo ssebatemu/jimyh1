@@ -250,8 +250,8 @@ http://190.7.19.197:232/play/a059/index.m3u8?PlaylistM3UCL
 http://181.209.91.106:2222/Live/120e4c580311c6685df90ec4dca2c0b1/telefe.playlist.m3u8
 #EXTINF:-1 tvg-id="232408" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
 http://181.209.96.155:10000/play/a15g/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="333512" tvg-name="Telefe Rosario" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe Rosario
-https://cdn.pontiscloud.com/output/ARR2/TelefeRosarioH/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="333512" tvg-name="Telefe Rosario" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
+http://138.59.227.20:8000/play/a08a/index.m3u8
 #EXTINF:-1 tvg-id="333514" tvg-name="Telefe Cordoba" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe Cordoba
 https://cdn.pontiscloud.com/output/Canal8/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="332144" tvg-name="El Trece.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina-mediano.png", El Trece.ar
@@ -260,18 +260,6 @@ http://181.209.96.155:10000/play/a15e/index.m3u8?PlaylistM3UCL
 http://181.209.96.155:10000/play/a12s/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="316674" tvg-name="Espn Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png", Espn Premium.ar
 http://181.209.96.155:10000/play/a15e/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="300908" tvg-name="Eventos" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte.png", Eventos
-http://45.163.204.6:8000/play/a01s/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319875" tvg-name="ESPN 2 CO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png", ESPN 2 CO
-http://179.1.238.40:8000/play/a03m/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319862" tvg-name="ESPN 5" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png", ESPN 5
-http://200.215.249.71:8000/play/a07x?hls&PlaylistM3UCL
-#EXTINF:-1 tvg-id="319863" tvg-name="ESPN 6" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png", ESPN 6
-http://181.78.197.59:8000/play/a08c/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319864" tvg-name="ESPN 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png", ESPN 7
-http://38.187.7.251:8000/play/a0bv/index.m3u8?hls&PlaylistM3UCL
-
 
 #EXTINF:-1 tvg-id="333516" tvg-name="Dsports" tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg", Dsports
 http://38.252.215.33:8000/play/a082/index.m3u8?hls&PlaylistM3UCL
@@ -336,13 +324,16 @@ http://176.65.146.93:8401/play/a09a/index.m3u8
 #EXTINF:-1 tvg-name="La 1 UHD" group-title="The Netherlands - OTROS",La 1 UHD
 http://176.65.146.129:8401/play/a093/index.m3u8
 
-
-#EXTINF:-1 tvg-id="312719" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196943.ts
-#EXTINF:-1 tvg-id="332145" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196942.ts
-#EXTINF:-1 tvg-id="312888" tvg-name="El Nueve.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_argentina-mediano.png", El Nueve.ar
-https://max.donvpnapk.bid:443/live/1f276640db761fd7/c6229aae137d9907/196937.ts
+#EXTINF:-1 tvg-id="300908" tvg-name="Eventos" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte.png", Eventos
+http://45.163.204.6:8000/play/a01s/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="319875" tvg-name="ESPN 2 CO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png", ESPN 2 CO
+http://179.1.238.40:8000/play/a03m/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="319862" tvg-name="ESPN 5" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png", ESPN 5
+http://200.215.249.71:8000/play/a07x?hls&PlaylistM3UCL
+#EXTINF:-1 tvg-id="319863" tvg-name="ESPN 6" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png", ESPN 6
+http://181.78.197.59:8000/play/a08c/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="319864" tvg-name="ESPN 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png", ESPN 7
+http://38.187.7.251:8000/play/a0bv/index.m3u8?hls&PlaylistM3UCL
 
 
 
