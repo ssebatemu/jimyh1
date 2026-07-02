@@ -168,7 +168,7 @@ http://148.222.230.144:8000/play/a09k/index.m3u8?hls&PlaylistM3UCL
 #EXTINF:-1 tvg-id="279640" tvg-name="FilmAndArts.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png", FilmAndArts.ar
 http://190.7.19.197:232/play/a01e/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="232409" tvg-name="TN.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/todo_notcias-mediano.png", TN.ar
-http://190.7.19.197:232/play/a060/index.m3u8
+http://190.7.19.197:232/play/a03l/index.m3u8
 #EXTINF:-1 tvg-id="232375" tvg-name="C5N.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/c5n-mediano.png", C5N.ar
 http://190.7.19.197:232/play/a040/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="232335" tvg-name="Cronica Tv.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cronica_television-mediano.png", Cronica Tv.ar
