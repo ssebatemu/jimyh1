@@ -96,7 +96,7 @@ http://190.7.19.197:232/play/a03p/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="279614" tvg-name="Fox Sports 3.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Fox_Sports_3_2026.png/revision/latest/scale-to-width-down/250?cb=20260204193828", Fox Sports 3.ar
 http://190.7.19.197:232/play/a04x/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="279616" tvg-name="TyC Sports.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png", TyC Sports.ar
-http://190.7.19.197:232/play/a04w/index.m3u8?PlaylistM3UCL
+http://38.252.215.33:8000/play/a02o/index.m3u8?hls
 #EXTINF:-1 tvg-id="232361" tvg-name="HBO.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png", HBO.ar
 http://181.224.255.210:8001/play/a0f161/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="232487" tvg-name="HBO Plus.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png", HBO Plus.ar
@@ -258,6 +258,18 @@ http://45.179.152.42:8000/play/a009
 
 #EXTINF:-1 tvg-id="333512" tvg-name="Telefe Rosario" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
 http://45.185.163.75:8000/play/a04p/index.m3u8
+
+#EXTINF:-1 tvg-id="232408" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
+http://181.78.192.238:8000/play/a2fq/index.m3u8
+
+#EXTINF:-1 tvg-id="232408" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
+http://181.78.192.238:8000/play/a25p/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="232408" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
+http://45.188.229.33:8000/play/a1dm/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="232408" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
+http://45.188.229.33:8000/play/a1cl/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="332144" tvg-name="El Trece.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina-mediano.png", El Trece.ar
 http://181.209.96.155:10000/play/a15e/index.m3u8?PlaylistM3UCL
