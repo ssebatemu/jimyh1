@@ -251,7 +251,7 @@ http://181.209.91.106:2222/Live/120e4c580311c6685df90ec4dca2c0b1/telefe.playlist
 #EXTINF:-1 tvg-id="232408" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
 http://181.209.96.155:10000/play/a15g/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="333512" tvg-name="Telefe Rosario" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
-http://138.59.227.20:8000/play/a08a/index.m3u8
+http://45.179.152.42:8000/play/a009
 
 #EXTINF:-1 tvg-id="332144" tvg-name="El Trece.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina-mediano.png", El Trece.ar
 http://181.209.96.155:10000/play/a15e/index.m3u8?PlaylistM3UCL
