@@ -167,18 +167,25 @@ http://190.60.37.118:4000/play/a08a?PlaylistM3UCL
 http://148.222.230.144:8000/play/a09k/index.m3u8?hls&PlaylistM3UCL
 #EXTINF:-1 tvg-id="279640" tvg-name="FilmAndArts.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png", FilmAndArts.ar
 http://190.7.19.197:232/play/a01e/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="232409" tvg-name="TN.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/todo_notcias-mediano.png", TN.ar
-http://190.7.19.197:232/play/a03l/index.m3u8
+http://45.6.4.35/TN/index.m3u8
+
 #EXTINF:-1 tvg-id="232375" tvg-name="C5N.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/c5n-mediano.png", C5N.ar
-http://190.7.19.197:232/play/a040/index.m3u8?PlaylistM3UCL
+http://45.6.4.35/C5N/index.m3u8
+
 #EXTINF:-1 tvg-id="232335" tvg-name="Cronica Tv.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cronica_television-mediano.png", Cronica Tv.ar
 https://g3.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true&PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="280093" tvg-name="La Nacion+.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_nacion_mas-mediano.png", La Nacion+.ar
-http://190.7.19.197:232/play/a043/index.m3u8?PlaylistM3UCL
+http://45.6.4.35/LA_NACION/index.m3u8
+
 #EXTINF:-1 tvg-id="232378" tvg-name="Canal 26.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/26_de_argentina-mediano.png", Canal 26.ar
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="232376" tvg-name="A24.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_24-mediano.png", A24.ar
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="281933" tvg-name="France 24 en Español.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png", France 24 en Español.ar
 https://live.france24.com/live/F24_ES_HI_HLS/playlist.m3u8?hdnts=exp=1685952438~acl=/live/F24_ES_HI_HLS/*~id=distribution~hmac=f4e4caad32c493898c0d06d4de0850be8c2501790f3aa716e65d6e011641fbfa&partner=dish-mexico&PlaylistM3UCL
 #EXTINF:-1 tvg-id="322677" tvg-name="Bbc World News.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bbc_world_news-mediano.png", Bbc World News.ar
