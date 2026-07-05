@@ -215,18 +215,6 @@ https://video08.logicahost.com.br/retroclub/retroclub/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-id="279636" tvg-name="Stingray Concerts" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw4Sy8E1u9v1cw1goRM0i3nUKecEXlRlWNMQ&s", Stingray Concerts
 http://148.222.230.197:8000/play/a0f4/index.m3u8?hls&PlaylistM3UCL
 
-#EXTINF:-1,Music 70s
-http://118.142.17.190:8278/now70hls/playlist.m3u8
-
-#EXTINF:-1,Music 80s
-http://118.142.17.190:8278/now80hls/playlist.m3u8
-
-#EXTINF:-1,Music 90s
-http://118.142.17.190:8278/now90hls/playlist.m3u8
-
-#EXTINF:-1,Music 00s
-http://118.142.17.190:8278/now00hls/playlist.m3u8
-
 #EXTINF:-1 tvg-id="279545" tvg-name="El Gourmet.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet-mediano.png", El Gourmet.ar
 http://astra.fibernetisp.com.co/play/a0jm/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="281939" tvg-name="Food Network.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png", Food Network.ar
@@ -249,7 +237,7 @@ http://190.7.19.197:232/play/a03c/index.m3u8 ?PlaylistM3UCL
 http://190.7.19.197:232/play/a03k/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="312888" tvg-name="El Nueve.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_argentina-mediano.png", El Nueve.ar
-http://miotv.cc:8080/Lopez123/Lopez123/272041
+http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0ce/index.m3u8?device_id=128d77dcfd8d
 
 #EXTINF:-1 tvg-id="312719" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
 http://190.7.19.197:232/play/a059/index.m3u8?PlaylistM3UCL
