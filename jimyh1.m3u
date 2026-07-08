@@ -9,26 +9,18 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://g3.mc-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="232330" tvg-name="El Nueve.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_argentina-mediano.png", El Nueve.ar
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 http://45.6.4.35/EL_NUEVE/index.m3u8
 
 #EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefe_ea48843cc9b8464bbdce2a27ce68980b.png" group-title=" ARGENTINA🇦🇷 WIFI PERSONAL", Telefe.ar
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://45.188.229.33:8000/play/a1cl/index.m3u8?hls
+http://45.188.229.33:8000/play/a1cl/index.m3u8
 
 #EXTINF:-1 tvg-id="232332" tvg-name="El Trece.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina-mediano.png", El Trece.ar
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dt/index.m3u8?device_id=128d77dcfd8d
 
 #EXTINF:-1 tvg-id="279595" tvg-name="Net TV.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-YUPtSgpB6hX1BHQt7tH8GNazZoo3jT7_cg&s", Net TV.ar
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="279596" tvg-name="HGTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png", HGTV.ar
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 http://181.209.96.155:10000/play/a12h/index.m3u8
 
 #EXTINF:-1 tvg-id="279597" tvg-name="DiscoveryHomeAndHealth.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png", DiscoveryHomeAndHealth.ar
@@ -95,6 +87,10 @@ http://200.35.176.154:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="279612" tvg-name="Discovery Kids.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png", Discovery Kids.ar
 http://181.224.255.210:8001/play/a0pv/index.m3u8
 
+
+
+
+
 #EXTINF:-1 tvg-id="232334" tvg-name="TNT Sports Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports-mediano.png", TNT Sports Premium.ar
 http://190.7.19.197:232/play/a037/index.m3u8
 
@@ -124,6 +120,10 @@ http://190.7.19.197:232/play/a04x/index.m3u8
 
 #EXTINF:-1 tvg-id="279616" tvg-name="TyC Sports.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png", TyC Sports.ar
 http://38.252.215.33:8000/play/a02o/index.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="232361" tvg-name="HBO.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png", HBO.ar
 http://181.224.255.210:8001/play/a0f161/index.m3u8
@@ -231,6 +231,10 @@ http://148.222.230.144:8000/play/a09k/index.m3u8
 http://190.7.19.197:232/play/a01e/index.m3u8
 
 
+
+
+
+
 #EXTINF:-1 tvg-id="232409" tvg-name="TN.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/todo_notcias-mediano.png", TN.ar
 http://45.6.4.35/TN/index.m3u8
 
@@ -252,59 +256,80 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 
 #EXTINF:-1 tvg-id="281933" tvg-name="France 24 en Español.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png", France 24 en Español.ar
 https://live.france24.com/live/F24_ES_HI_HLS/playlist.m3u8?hdnts=exp=1685952438~acl=/live/F24_ES_HI_HLS/*~id=distribution~hmac=f4e4caad32c493898c0d06d4de0850be8c2501790f3aa716e65d6e011641fbfa&partner=dish-mexico&PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="322677" tvg-name="Bbc World News.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bbc_world_news-mediano.png", Bbc World News.ar
-https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8?PlaylistM3UCL
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+
 #EXTINF:-1 tvg-id="281932" tvg-name="Cnn en Español.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png", Cnn en Español.ar
-http://181.224.255.210:8001/play/a0q1/index.m3u8?PlaylistM3UCL
+http://181.224.255.210:8001/play/a0q1/index.m3u8
+
 #EXTINF:-1 tvg-id="322678" tvg-name="TV5 Monde" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv5monde-mediano.png", TV5 Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8?hdnea=st%3D1780609158~exp%3D1780616358~acl%3D%2F%2A~hmac%3D948e22c7b30ca551a5b9085b41dc6d35883579e3446d046118368888513e8877&PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="281934" tvg-name="TV Globo.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png/revision/latest?cb=20160114164123&path-prefix=es", TV Globo.ar
-http://190.7.19.197:232/play/a00w/index.m3u8?PlaylistM3UCL
+http://190.7.19.197:232/play/a00w/index.m3u8
+
 #EXTINF:-1 tvg-id="232505" tvg-name="Dw Español.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/deutsche_welle-mediano.png", Dw Español.ar
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8?PlaylistM3UCL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
 #EXTINF:-1 tvg-id="281936" tvg-name="Rai Italia.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/rai_italia_international-mediano.png", Rai Italia.ar
-http://190.7.19.197:232/play/a01b/index.m3u8?PlaylistM3UCL
+http://190.7.19.197:232/play/a01b/index.m3u8
+
 #EXTINF:-1 tvg-id="232368" tvg-name="Antena 3.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/antena_3-mediano.png", Antena 3.ar
-http://181.79.81.145:8000/play/a1bd?PlaylistM3UCL
+http://181.79.81.145:8000/play/a1bd
+
 #EXTINF:-1 tvg-id="232369" tvg-name="TVE.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tve_internacional-mediano.png", TVE.ar
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8?PlaylistM3UCL
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+
 #EXTINF:-1 tvg-id="279546" tvg-name="MTV.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mtv-mediano.png", MTV.ar
-http://181.224.255.210:8001/play/a0f9/index.m3u8?PlaylistM3UCL
+http://181.224.255.210:8001/play/a0f9/index.m3u8
+
 #EXTINF:-1 tvg-id="232410" tvg-name="TeleHit" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telehit_musica-mediano.png", TeleHit
-http://200.115.120.1:8000/play/ca093/index.m3u8?PlaylistM3UCL
+http://200.115.120.1:8000/play/ca093/index.m3u8
+
 #EXTINF:-1 tvg-id="279635" tvg-name="Zoom Back" tvg-logo="https://static.wixstatic.com/media/c5adb2_b7342f955e6e4caa93f70e3060748637~mv2.jpg/v1/fill/w_280,h_160,al_c,lg_1,q_80,enc_avif,quality_auto/Image-empty-state.jpg", Zoom Back
-http://45.184.87.142:8000/play/a02r?PlaylistM3UCL
+http://45.184.87.142:8000/play/a02r
+
 #EXTINF:-1 tvg-id="312889" tvg-name="Retroclub" tvg-logo="https://i.ibb.co/5ZpmjN4/retroclub.png", Retroclub
-https://video08.logicahost.com.br/retroclub/retroclub/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
+https://video08.logicahost.com.br/retroclub/retroclub/playlist.m3u8
+
 #EXTINF:-1 tvg-id="279636" tvg-name="Stingray Concerts" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw4Sy8E1u9v1cw1goRM0i3nUKecEXlRlWNMQ&s", Stingray Concerts
-http://148.222.230.197:8000/play/a0f4/index.m3u8?hls&PlaylistM3UCL
+http://148.222.230.197:8000/play/a0f4/index.m3u8
 
 #EXTINF:-1 tvg-id="279545" tvg-name="El Gourmet.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet-mediano.png", El Gourmet.ar
-http://astra.fibernetisp.com.co/play/a0jm/index.m3u8?PlaylistM3UCL
+http://astra.fibernetisp.com.co/play/a0jm/index.m3u8
+
 #EXTINF:-1 tvg-id="281939" tvg-name="Food Network.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png", Food Network.ar
-http://190.60.37.118:4000/play/a0cg?PlaylistM3UCL
+http://190.60.37.118:4000/play/a0cg
+
 #EXTINF:-1 tvg-id="281931" tvg-name="Sun Channel.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sun_channel-mediano.png", Sun Channel.ar
-http://190.60.37.118:4000/play/a00u?PlaylistM3UCL
+http://190.60.37.118:4000/play/a00u
+
 #EXTINF:-1 tvg-id="281935" tvg-name="Travel XP" tvg-logo="https://images.ctfassets.net/8utyj17y1gom/6iDVdlKIVCvA8vN9vnwCZN/8af005c9f99de54b8c29047307f36c76/Desktop_TVChannelPage_Travel-XP.png", Travel XP
-http://179.60.224.196:8000/play/a0hx/index.m3u8?PlaylistM3UCL
+http://179.60.224.196:8000/play/a0hx/index.m3u8
+
 #EXTINF:-1 tvg-id="286914" tvg-name="GO 2 Travel" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAhFBMVEX///8UFBQAAAAgICDPz8/y8vKCgoIPDw/GxsaGhobX19fMzMwICAgRERENDQ1ZWVmwsLD19fU9PT3f39/t7e2YmJgZGRkyMjJ7e3ukpKRUVFSPj49zc3Pm5ubCwsJsbGyqqqpGRka3t7cnJydXV1c3NzdjY2MsLCxubm6VlZVOTk5AQEDfQOgXAAAFwklEQVR4nO2Z6VarSBSFwwEkEIYQSAKZBxM1vv/7dc3FZHdfXS1Le39/glSB1OaMxWQCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPgDisjzosIfGirZUIvZbHDer8I/bUix3kbtsWJ7oy5hOc5zfh/ljihOHElKdJ7ZsehBlDotaL0f71m/iSVR0lp0THdlB/mOYqcDnbs3+HVGk5", GO 2 Travel
-https://go2thls.wns.live/hls/stream.m3u8?PlaylistM3UCL
+https://go2thls.wns.live/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="232407" tvg-name="4k Travel TV" tvg-logo="https://stmify.com/wp-content/uploads/2024/11/354-s.webp", 4k Travel TV
-https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8?PlaylistM3UCL
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+
 
 
 #EXTINF:-1 tvg-id="312720" tvg-name="America TV 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina-mediano.png", America TV 2
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8?PlaylistM3UCL
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
+
 #EXTINF:-1 tvg-id="312887" tvg-name="Tv Publica" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/television_publica_argentina-mediano.png", Tv Publica
-http://190.7.19.197:232/play/a03c/index.m3u8 ?PlaylistM3UCL
+http://190.7.19.197:232/play/a03c/index.m3u8 
+
 #EXTINF:-1 tvg-id="312888" tvg-name="El Nueve.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_argentina-mediano.png", El Nueve.ar
-http://190.7.19.197:232/play/a03k/index.m3u8?PlaylistM3UCL
+http://190.7.19.197:232/play/a03k/index.m3u8
 
 #EXTINF:-1 tvg-id="312888" tvg-name="El Nueve.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_argentina-mediano.png", El Nueve.ar
 http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0ce/index.m3u8?device_id=128d77dcfd8d
 
 #EXTINF:-1 tvg-id="312719" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
-http://190.7.19.197:232/play/a059/index.m3u8?PlaylistM3UCL
+http://190.7.19.197:232/play/a059/index.m3u8
 
 #EXTINF:-1 tvg-id="332145" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
 http://181.209.91.106:2222/Live/120e4c580311c6685df90ec4dca2c0b1/telefe.playlist.m3u8
@@ -322,30 +347,34 @@ http://45.185.163.75:8000/play/a04p/index.m3u8
 http://oscam281w.ooguy.com:5000/kodi/1234/TBS1/a0dv/index.m3u8?device_id=128d77dcfd8d
 
 #EXTINF:-1 tvg-id="232408" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
-http://181.78.192.238:8000/play/a25p/index.m3u8?hls
+http://181.78.192.238:8000/play/a25p/index.m3u8
 
 #EXTINF:-1 tvg-id="232408" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
-http://45.188.229.33:8000/play/a1dm/index.m3u8?hls
+http://45.188.229.33:8000/play/a1dm/index.m3u8
 
 #EXTINF:-1 tvg-id="232408" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
-http://45.188.229.33:8000/play/a1cl/index.m3u8?hls
+http://45.188.229.33:8000/play/a1cl/index.m3u8
 
 #EXTINF:-1 tvg-id="332144" tvg-name="El Trece.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina-mediano.png", El Trece.ar
-http://181.209.96.155:10000/play/a15e/index.m3u8?PlaylistM3UCL
+http://181.209.96.155:10000/play/a15e/index.m3u8
+
 #EXTINF:-1 tvg-id="312988" tvg-name="TNT Sports Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports-mediano.png", TNT Sports Premium.ar
-http://181.209.96.155:10000/play/a12s/index.m3u8?PlaylistM3UCL
+http://181.209.96.155:10000/play/a12s/index.m3u8
+
 #EXTINF:-1 tvg-id="316674" tvg-name="Espn Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png", Espn Premium.ar
-http://181.209.96.155:10000/play/a15e/index.m3u8?PlaylistM3UCL
+http://181.209.96.155:10000/play/a15e/index.m3u8
+
 
 #EXTINF:-1 tvg-id="333516" tvg-name="Dsports" tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg", Dsports
-http://38.252.215.33:8000/play/a082/index.m3u8?hls&PlaylistM3UCL
+http://38.252.215.33:8000/play/a082/index.m3u8
+
 
 #EXTINF:-1 tvg-id="301666" tvg-name="Dsports.ar" tvg-logo="https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg", Dsports
-http://181.224.255.210:8001/play/a0s8/index.m3u8?PlaylistM3UCL
+http://181.224.255.210:8001/play/a0s8/index.m3u8
+
 
 #EXTINF:-1 tvg-id="333511" tvg-name="DSports 2" tvg-logo="https://alangulotvhd.com/img/logo-canal/dsports_2.webp", DSports 2
-https://tinyurl.com/35hxmhya?PlaylistM3UCL
-
+https://tinyurl.com/35hxmhya
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg", Telemundo
 http://177.245.131.133:8080/telemundo/index.m3u8
@@ -396,15 +425,20 @@ http://176.65.146.93:8401/play/a09a/index.m3u8
 http://176.65.146.129:8401/play/a093/index.m3u8
 
 #EXTINF:-1 tvg-id="300908" tvg-name="Eventos" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte.png", Eventos
-http://45.163.204.6:8000/play/a01s/index.m3u8?PlaylistM3UCL
+http://45.163.204.6:8000/play/a01s/index.m3u8
+
 #EXTINF:-1 tvg-id="319875" tvg-name="ESPN 2 CO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png", ESPN 2 CO
-http://179.1.238.40:8000/play/a03m/index.m3u8?PlaylistM3UCL
+http://179.1.238.40:8000/play/a03m/index.m3u8
+
 #EXTINF:-1 tvg-id="319862" tvg-name="ESPN 5" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png", ESPN 5
-http://200.215.249.71:8000/play/a07x?hls&PlaylistM3UCL
+http://200.215.249.71:8000/play/a07x
+
 #EXTINF:-1 tvg-id="319863" tvg-name="ESPN 6" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png", ESPN 6
-http://181.78.197.59:8000/play/a08c/index.m3u8?PlaylistM3UCL
+http://181.78.197.59:8000/play/a08c/index.m3u8
+
 #EXTINF:-1 tvg-id="319864" tvg-name="ESPN 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png", ESPN 7
-http://38.187.7.251:8000/play/a0bv/index.m3u8?hls&PlaylistM3UCL
+http://38.187.7.251:8000/play/a0bv/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="333514" tvg-name="Telefe Cordoba" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Canal 7
