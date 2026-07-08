@@ -379,7 +379,7 @@ http://45.188.229.33:8000/play/a1dm/index.m3u8
 http://45.188.229.33:8000/play/a1cl/index.m3u8
 
 #EXTINF:-1 tvg-id="332144" tvg-name="El Trece.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina-mediano.png", El Trece.ar
-http://181.209.96.155:10000/play/a15e/index.m3u8
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dt/index.m3u8?device_id=128d77dcfd8d
 
 
 
@@ -387,10 +387,10 @@ http://181.209.96.155:10000/play/a15e/index.m3u8
 
 
 #EXTINF:-1 tvg-id="312988" tvg-name="TNT Sports Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports-mediano.png", TNT Sports Premium.ar
-http://181.209.96.155:10000/play/a12s/index.m3u8
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0g0/index.m3u8?device_id=128d77dcfd8d
 
 #EXTINF:-1 tvg-id="316674" tvg-name="Espn Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png", Espn Premium.ar
-http://181.209.96.155:10000/play/a15e/index.m3u8
+http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dr/index.m3u8?device_id=128d77dcfd8d
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png" group-title="Paramount+", DSports
 #EXTVLCOPT--http-reconnect=true
