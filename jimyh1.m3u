@@ -247,13 +247,13 @@ http://190.7.19.197:232/play/a01e/index.m3u8
 http://45.188.229.33:8000/play/a1ax/index.m3u8
 
 #EXTINF:-1 tvg-id="232375" tvg-name="C5N.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/c5n-mediano.png", C5N.ar
-http://45.6.4.35/C5N/index.m3u8
+http://190.7.19.197:232/play/a040/index.m3u8
 
 #EXTINF:-1 tvg-id="232335" tvg-name="Cronica Tv.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cronica_television-mediano.png", Cronica Tv.ar
 https://g3.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true&PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="280093" tvg-name="La Nacion+.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_nacion_mas-mediano.png", La Nacion+.ar
-http://45.6.4.35/LA_NACION/index.m3u8
+http://190.7.19.197:232/play/a043/index.m3u8
 
 #EXTINF:-1 tvg-id="232378" tvg-name="Canal 26.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/26_de_argentina-mediano.png", Canal 26.ar
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
