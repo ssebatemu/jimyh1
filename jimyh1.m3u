@@ -300,7 +300,7 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:-1 tvg-id="279546" tvg-name="MTV.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mtv-mediano.png", MTV.ar
 http://181.224.255.210:8001/play/a0f9/index.m3u8
 
-#EXTINF:-1 tvg-id="232410" tvg-name="TeleHit" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telehit_musica-mediano.png", TeleHit
+#EXTINF:-1 tvg-id="232410" tvg-name="TeleHit" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telehit_musica-mediano.png", Telehit.uy
 http://200.115.120.1:8000/play/ca093/index.m3u8
 
 #EXTINF:-1 tvg-id="279635" tvg-name="Zoom Back" tvg-logo="https://static.wixstatic.com/media/c5adb2_b7342f955e6e4caa93f70e3060748637~mv2.jpg/v1/fill/w_280,h_160,al_c,lg_1,q_80,enc_avif,quality_auto/Image-empty-state.jpg", Zoom Back
