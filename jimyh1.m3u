@@ -245,9 +245,11 @@ http://190.7.19.197:232/play/a01e/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=bf813dc4a32e0e9bcbce4446a65f4b12:eb9973b1a30c76812aa7ca8864b6a3c1
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-channel.png", ENT Channel
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-family.png", ENT Family
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 
 
 
