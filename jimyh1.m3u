@@ -248,7 +248,7 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master
 #EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-family.png", ENT Family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1 tvg-id="232354" tvg-name="Cinemax.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png", Cinemax Premium
+#EXTINF:-1  tvg-name="Cinemax" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png", Cinemax Premium
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
