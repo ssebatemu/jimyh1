@@ -46,7 +46,7 @@ http://190.7.19.197:232/play/a052/index.m3u8
 http://190.90.22.42:5280/play/a0e7
 
 #EXTINF:-1 tvg-id="279607" tvg-name="Hola TV.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png", Hola TV.ar
-http://148.222.230.144:8000/play/a0dq/index.m3u8
+http://45.188.229.33:8000/play/a1im/index.m3u8
 
 #EXTINF:-1 tvg-id="232339" tvg-name="Discovery.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png", Discovery.ar
 http://45.188.229.33:8000/play/a1ds/index.m3u8
