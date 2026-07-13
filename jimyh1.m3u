@@ -481,13 +481,13 @@ http://45.163.204.6:8000/play/a01s/index.m3u8
 http://179.1.238.40:8000/play/a03m/index.m3u8
 
 #EXTINF:-1 tvg-id="319862" tvg-name="ESPN 5" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png", ESPN 5.uy
-http://200.215.249.71:8000/play/a07x
+http://45.188.229.33:8000/play/a12n/index.m3u8
 
 #EXTINF:-1 tvg-id="319863" tvg-name="ESPN 6" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png", ESPN 6.uy
-http://181.78.197.59:8000/play/a08c/index.m3u8
+http://45.188.229.33:8000/play/a12h/index.m3u8
 
 #EXTINF:-1 tvg-id="319864" tvg-name="ESPN 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png", ESPN 7.uy
-http://38.187.7.251:8000/play/a0bv/index.m3u8
+http://45.188.229.33:8000/play/a190/index.m3u8
 
 
 
