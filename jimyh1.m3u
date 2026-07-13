@@ -43,10 +43,14 @@ http://190.7.19.197:232/play/a00g/index.m3u8
 http://190.7.19.197:232/play/a052/index.m3u8
 
 #EXTINF:-1 tvg-id="279618" tvg-name="Lifetime.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png", Lifetime.ar
-http://190.90.22.42:5280/play/a0e7
+http://45.188.229.33:8000/play/a19a/index.m3u8
 
 #EXTINF:-1 tvg-id="279607" tvg-name="Hola TV.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png", Hola TV.ar
 http://45.188.229.33:8000/play/a1im/index.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="232339" tvg-name="Discovery.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png", Discovery.ar
 http://45.188.229.33:8000/play/a1ds/index.m3u8
