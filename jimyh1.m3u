@@ -25,7 +25,7 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="279596" tvg-name="HGTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png", HGTV.ar
-http://181.209.96.155:10000/play/a12h/index.m3u8
+http://45.188.229.33:8000/play/a11r/index.m3u8
 
 #EXTINF:-1 tvg-id="279597" tvg-name="DiscoveryHomeAndHealth.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png", DiscoveryHomeAndHealth.ar
 http://190.7.19.197:232/play/a064/index.m3u8
@@ -49,7 +49,7 @@ http://190.90.22.42:5280/play/a0e7
 http://148.222.230.144:8000/play/a0dq/index.m3u8
 
 #EXTINF:-1 tvg-id="232339" tvg-name="Discovery.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png", Discovery.ar
-http://190.7.19.197:232/play/a065/index.m3u8
+http://45.188.229.33:8000/play/a1ds/index.m3u8
 
 #EXTINF:-1 tvg-id="279603" tvg-name="National Geographic.ar" tvg-logo="https://www.nationalgeographicla.com/images/logo.png", National Geographic.ar
 http://181.224.255.210:8001/play/a0m2/index.m3u8
