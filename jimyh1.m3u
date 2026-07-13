@@ -412,7 +412,7 @@ http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0g0/index.m3u8?device_id=128d77
 #EXTINF:-1 tvg-id="316674" tvg-name="Espn Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png", Espn Premium.ar
 http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dr/index.m3u8?device_id=128d77dcfd8d
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png" group-title="Paramount+", DSports Argentina.uy
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png" group-title="Paramount+", DSports.uy
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -514,3 +514,32 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/lsilniwjf7/out/v1/fc40
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/lsilniwjf7/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
+
+
+
+#EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/a/m/am_rica.png" group-title="Argentina", America.ar
+http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/81276.m3u8
+
+#EXTINF:-1 tvg-id="121dtv.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/t/v/tv_p_blica.png" group-title="Argentina", TVPublica.ar
+http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/81265.m3u8
+
+#EXTINF:-1 tvg-id="122dtv.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/e/l/el_nueve.png" group-title="Argentina", El Nueve.ar
+http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/81271.m3u8
+
+#EXTINF:-1 tvg-id="123dtv.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/t/e/telefe.png" group-title="Argentina", Telefe.ar
+http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/81285.m3u8
+
+#EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/e/l/el_trece_1.png" group-title="Argentina", El Trece.ar
+http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/81266.m3u8
+
+#EXTINF:-1 tvg-id="716dtv.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/t/n/tn_hd_1.png" group-title="Argentina", TN.ar
+http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/81324.m3u8
+
+#EXTINF:-1 tvg-id="717dtv.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/c/5/c5n.png" group-title="Argentina", C5N.ar
+http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/81274.m3u8
+
+#EXTINF:-1 tvg-id="719dtv.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/a/2/a24_hd.png" group-title="Argentina", A24.ar
+http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/81289.m3u8
+
+#EXTINF:-1 tvg-id="720dtv.cl" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/c/a/canal_103.png" group-title="Argentina", Canal 26.ar
+http://daleplay.vip:80/live/hghc4@3gf(n)!/kmgd56(e)3@400/81310.m3u8
