@@ -15,7 +15,7 @@ http://45.188.229.33:8000/play/a1aw/index.m3u8
 http://45.188.229.33:8000/play/a1cl/index.m3u8
 
 #EXTINF:-1 tvg-id="232332" tvg-name="El Trece.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina-mediano.png", El Trece.ar
-http://oscam281w.ooguy.com:5000/lucho/1234/TBS1/a0dt/index.m3u8?device_id=128d77dcfd8d
+http://45.188.229.33:8000/play/a1dk/index.m3u8
 
 #EXTINF:-1 tvg-id="279595" tvg-name="Net TV.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-YUPtSgpB6hX1BHQt7tH8GNazZoo3jT7_cg&s", Net TV.ar
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
@@ -237,7 +237,7 @@ http://8.243.126.131:8000/play/a0is/index.m3u8
 http://190.60.37.118:4000/play/a08a
 
 #EXTINF:-1 tvg-id="279644" tvg-name="DHE.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png", DHE.ar
-http://148.222.230.144:8000/play/a09k/index.m3u8
+http://179.1.225.6:8000/play/a0l8/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="279640" tvg-name="FilmAndArts.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png", FilmAndArts.ar
 http://190.7.19.197:232/play/a01e/index.m3u8
@@ -473,6 +473,7 @@ http://132.255.210.69:9000/play/a06i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/930x400/la_1_372x160.png" group-title="LG TV",La 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&preroll_duration=30&preroll=1
+
 #EXTINF:-1 tvg-id="ESBC4100001NZ" tvg-name="ESBC4100001NZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4100001NZ_20260113T032322SQUARE.png" group-title="TV SAMSUNG",La 1
 https://jmp2.uk/stvp-ESBC4100001NZ
 
@@ -525,41 +526,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="DSports 1 HD (ar)" group-title="Deportes",DSports 1 HD (ar)
-http://oscam281w.ooguy.com:5000/B866V2/1234/Deportes/a0h6/index.m3u8?device_id=c33c588009b9
 
-#EXTINF:-1 tvg-id="" tvg-name="DSports 2 HD (ar)" group-title="Deportes",DSports 2 HD (ar)
-http://oscam281w.ooguy.com:5000/B866V2/1234/Deportes/a0h4/index.m3u8?device_id=c33c588009b9
-
-#EXTINF:-1 tvg-id="" tvg-name="TyC Sports HD (ar)" group-title="Deportes",TyC Sports HD (ar)
-http://oscam281w.ooguy.com:5000/B866V2/1234/Deportes/a0ft/index.m3u8?device_id=c33c588009b9
-
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports HD (ar)" group-title="Deportes",TNT Sports HD (ar)
-http://oscam281w.ooguy.com:5000/B866V2/1234/Deportes/a0g0/index.m3u8?device_id=c33c588009b9
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium HD (ar)" group-title="Deportes",ESPN Premium HD (ar)
-http://oscam281w.ooguy.com:5000/B866V2/1234/Deportes/a0dr/index.m3u8?device_id=c33c588009b9
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 HD (ar)" group-title="Deportes",ESPN 1 HD (ar)
-http://oscam281w.ooguy.com:5000/B866V2/1234/Deportes/a0ch/index.m3u8?device_id=c33c588009b9
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD (ar)" group-title="Deportes",ESPN 2 HD (ar)
-http://oscam281w.ooguy.com:5000/B866V2/1234/Deportes/a0cg/index.m3u8?device_id=c33c588009b9
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD (ar)" group-title="Deportes",ESPN 3 HD (ar)
-http://oscam281w.ooguy.com:5000/B866V2/1234/Deportes/a0ci/index.m3u8?device_id=c33c588009b9
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD (ar)" group-title="Deportes",ESPN 4 HD (ar)
-http://oscam281w.ooguy.com:5000/B866V2/1234/Deportes/a0dp/index.m3u8?device_id=c33c588009b9
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD (ar)" group-title="Deportes",Fox Sports 1 HD (ar)
-http://oscam281w.ooguy.com:5000/B866V2/1234/Deportes/a0dq/index.m3u8?device_id=c33c588009b9
-
-#EXTINF:-1 tvg-id="" tvg-name="Telefe HD" group-title="Noticias",Telefe HD
-http://oscam281w.ooguy.com:5000/B866V2/1234/Noticias/a0dv/index.m3u8?device_id=c33c588009b9
-
-#EXTINF:-1 tvg-id="" tvg-name="Telefe HD" group-title="TBS1",Telefe HD
-http://oscam281w.ooguy.com:5000/B866V2/1234/TBS1/a0dv/index.m3u8?device_id=c33c588009b9
 
 
