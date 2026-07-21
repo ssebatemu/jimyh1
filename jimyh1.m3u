@@ -261,8 +261,8 @@ http://38.211.145.109:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-family.png", FMH Family
 http://38.211.145.109:8000/play/a046/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-family.png", ENT Family
-https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-family.png", Movie Acces
+http://45.5.118.188:8000/play/a06g/index.m3u8?hls
 
 
 
@@ -485,10 +485,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619&avod=1&coppa=0&td=6&
 https://jmp2.uk/stvp-ESBC4100001NZ
 
 #EXTINF:-1 tvg-id="300908" tvg-name="Eventos" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte.png", Eventos
-http://45.163.204.6:8000/play/a01s/index.m3u8
+http://179.1.143.53:8000/play/a00c/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="319875" tvg-name="ESPN 2 CO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png", ESPN 2 CO
-http://179.1.238.40:8000/play/a03m/index.m3u8
+http://147.75.122.125:8000/play/a03q/index.m3u8
 
 #EXTINF:-1 tvg-id="319862" tvg-name="ESPN 5" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png", ESPN 5.uy
 http://45.188.229.33:8000/play/a12n/index.m3u8
