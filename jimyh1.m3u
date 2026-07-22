@@ -270,6 +270,12 @@ http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
 #EXTINF:-1 tvg-logo="", Clover
 http://147.75.122.125:8000/play/a021/index.m3u8
 
+#EXTINF:-1 tvg-logo="", Golden Premiere
+http://45.5.118.188:8000/play/a00p/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="", Golden Premiere
+http://45.5.118.188:8000/play/a00q/index.m3u8?hls
+
 
 
 
