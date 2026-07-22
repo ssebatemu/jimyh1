@@ -264,6 +264,9 @@ http://38.211.145.109:8000/play/a046/index.m3u8?hls
 #EXTINF:-1 tvg-logo="", Movie Acces
 http://45.5.118.188:8000/play/a06g/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="", Nitro
+http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
+
 
 
 
