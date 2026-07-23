@@ -268,7 +268,7 @@ http://45.5.118.188:8000/play/a06g/index.m3u8?hls
 http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="", Clover
-http://147.75.122.125:8000/play/a021/index.m3u8
+http://186.33.57.216:8000/play/a11b/index.m3u8
 
 #EXTINF:-1 tvg-logo="", Golden Premiere
 http://45.5.118.188:8000/play/a00p/index.m3u8?hls
@@ -286,8 +286,15 @@ http://200.229.147.210:9999/play/a05k/index.m3u8
 #EXTINF:-1 tvg-logo="", Multipremier
 http://24.152.54.30:8085/play/a042/index.m3u8
 
+#EXTINF:-1 tvg-logo="", Creo Movie
+http://24.152.54.30:8085/play/a042/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Cine Prime
+http://190.61.114.186:8000/play/a04u/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="", Cinema Platino
+http://181.78.15.155:9800/play/a00e
 
 
 #EXTINF:-1 tvg-id="232409" tvg-name="TN.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/todo_notcias-mediano.png", TN.ar
