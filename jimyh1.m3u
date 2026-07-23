@@ -276,6 +276,17 @@ http://45.5.118.188:8000/play/a00p/index.m3u8?hls
 #EXTINF:-1 tvg-logo="", Golden Premiere
 http://45.5.118.188:8000/play/a00q/index.m3u8?hls
 
+#EXTINF:-1 tvg-logo="", MX Prime
+http://190.211.172.203:4000/play/a0xu/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Multicinema
+http://200.229.147.210:9999/play/a05k/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="", Multipremier
+http://24.152.54.30:8085/play/a042/index.m3u8
+
+
 
 
 
