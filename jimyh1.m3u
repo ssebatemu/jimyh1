@@ -287,7 +287,7 @@ http://200.229.147.210:9999/play/a05k/index.m3u8
 http://24.152.54.30:8085/play/a042/index.m3u8
 
 #EXTINF:-1 tvg-logo="", Creo Movie
-http://24.152.54.30:8085/play/a042/index.m3u8
+http://170.82.115.98:8000/play/a04b/index.m3u8
 
 #EXTINF:-1 tvg-logo="", Cine Prime
 http://190.61.114.186:8000/play/a04u/index.m3u8
