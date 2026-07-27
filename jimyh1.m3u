@@ -297,6 +297,8 @@ http://45.239.31.254:8000/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-logo="", AVI
 http://45.239.31.254:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-logo="", AVI Rewinds
+http://45.239.31.254:8000/play/a007/index.m3u8
 
 #EXTINF:-1 tvg-logo="", Cinema Platino
 http://181.78.15.155:9800/play/a00e
