@@ -31,7 +31,7 @@ http://45.188.229.33:8000/play/a11r/index.m3u8
 http://190.7.19.197:232/play/a064/index.m3u8
 
 #EXTINF:-1 tvg-id="279599" tvg-name="E! Entertainment.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png", E! Entertainment.ar
-http://8.243.126.131:8000/play/a0dz/index.m3u8
+http://181.78.50.91:8000/play/a01w/index.m3u8
 
 #EXTINF:-1 tvg-id="279601" tvg-name="TLC.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png", TLC.ar
 http://190.108.83.69:8000/play/a0a4/index.m3u8
@@ -68,7 +68,7 @@ http://190.7.19.197:232/play/a019/index.m3u8
 http://190.7.19.197:232/play/a081/index.m3u8
 
 #EXTINF:-1 tvg-id="232495" tvg-name="Discovery Turbo.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png", Discovery Turbo.ar
-http://8.243.126.131:8000/play/a055/index.m3u8
+http://186.148.175.138:8000/play/a05l
 
 #EXTINF:-1 tvg-id="279606" tvg-name="Discovery World.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_world-mediano.png", Discovery World.ar
 http://181.224.255.210:8001/play/a0lt/index.m3u8
@@ -131,7 +131,7 @@ http://190.7.19.197:232/play/a03p/index.m3u8
 http://190.7.19.197:232/play/a04x/index.m3u8
 
 #EXTINF:-1 tvg-id="279616" tvg-name="TyC Sports.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png", TyC Sports.ar
-http://181.209.39.82:8000/play/a06x/index.m3u8
+http://38.44.109.41:8003/play/a02l/index.m3u8
 
 
 
