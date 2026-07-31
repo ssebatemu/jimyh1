@@ -268,8 +268,8 @@ http://45.5.118.188:8000/play/a06g/index.m3u8?hls
 #EXTINF:-1 tvg-logo="", Nitro
 http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="", Clover
-http://186.33.57.216:8000/play/a11b/index.m3u8
+#EXTINF:-1 tvg-logo="", CLOVER Channel
+http://45.188.229.33:8000/play/a1ka/index.m3u8
 
 #EXTINF:-1 tvg-logo="", Golden Premiere
 http://45.5.118.188:8000/play/a00p/index.m3u8?hls
