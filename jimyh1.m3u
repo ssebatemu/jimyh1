@@ -212,6 +212,12 @@ http://179.1.225.6:8000/play/a0kg/index.m3u8
 #EXTINF:-1 tvg-id="232411" tvg-name="Europa Europa.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/europa_europa-mediano.png", Europa Europa.ar
 http://190.7.19.197:232/play/a01o/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-channel.png", ENT Channel
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-family.png", ENT Family
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+
 #EXTINF:-1 tvg-id="281940" tvg-name="Cine Premium" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png", Cine Premium
 https://telco.apk-media.edge-apps.net/hls/d4bhf-fflam-b5fon-7kcff.m3u8
 
