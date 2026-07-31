@@ -395,8 +395,8 @@ http://200.115.120.1:8000/play/ca093/index.m3u8
 #EXTINF:-1 tvg-id="279635" tvg-name="Zoom Back" tvg-logo="https://static.wixstatic.com/media/c5adb2_b7342f955e6e4caa93f70e3060748637~mv2.jpg/v1/fill/w_280,h_160,al_c,lg_1,q_80,enc_avif,quality_auto/Image-empty-state.jpg", Zoom Back
 http://45.184.87.142:8000/play/a02r
 
-#EXTINF:-1 tvg-id="312889" tvg-name="Retroclub" tvg-logo="https://i.ibb.co/5ZpmjN4/retroclub.png", Retroclub
-https://video08.logicahost.com.br/retroclub/retroclub/playlist.m3u8
+#EXTINF:-1 tvg-id="312889" tvg-name="Retroclub" tvg-logo="", Retro Music TV
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="279636" tvg-name="Stingray Concerts" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw4Sy8E1u9v1cw1goRM0i3nUKecEXlRlWNMQ&s", Stingray Concerts
 http://190.93.229.30:8000/play/a07t/index.m3u8?hls
