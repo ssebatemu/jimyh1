@@ -227,6 +227,8 @@ https://telco.apk-media.edge-apps.net/hls/14nj5-o3nib-lfdgo-ha1ib.m3u8
 #EXTINF:-1 tvg-id="232350" tvg-name="Warner.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv-mediano.png", Warner.ar
 http://190.7.19.197:232/play/a01h/index.m3u8
 
+
+
 #EXTINF:-1 tvg-id="232355" tvg-name="TNT Series.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png", TNT Series.ar
 http://190.7.19.197:232/play/a088/index.m3u8
 
