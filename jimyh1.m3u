@@ -165,7 +165,7 @@ http://181.224.255.210:8001/play/a0re/index.m3u8
 http://181.224.255.210:8001/play/a0f7/index.m3u8
 
 #EXTINF:-1 tvg-id="232371" tvg-name="Cinecanal.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png", Cinecanal.ar
-http://cdnhrz01.latincable.com.pe/Panel-Cinecanal-HD/index.m3u8
+http://177.53.153.207:8000/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-id="232354" tvg-name="Cinemax.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png", Cinemax.ar
 http://38-252-223-1.latincable.com.pe/Cinemax/index.m3u8
