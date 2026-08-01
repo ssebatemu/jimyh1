@@ -28,7 +28,7 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 http://45.188.229.33:8000/play/a11r/index.m3u8
 
 #EXTINF:-1 tvg-id="279597" tvg-name="DiscoveryHomeAndHealth.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png", DiscoveryHomeAndHealth.ar
-http://190.7.19.197:232/play/a064/index.m3u8
+http://a-ziptv.env.pm:8000/play/a08f/index.m3u8
 
 #EXTINF:-1 tvg-id="279599" tvg-name="E! Entertainment.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png", E! Entertainment.ar
 http://181.78.50.91:8000/play/a01w/index.m3u8
@@ -40,7 +40,7 @@ http://190.108.83.69:8000/play/a0a4/index.m3u8
 http://190.7.19.197:232/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-id="279602" tvg-name="Amc Series.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/amc_series-mediano.png", Amc Series.ar
-http://190.7.19.197:232/play/a052/index.m3u8
+http://181.224.255.210:8001/play/a0qn/index.m3u8
 
 #EXTINF:-1 tvg-id="279618" tvg-name="Lifetime.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png", Lifetime.ar
 http://45.188.229.33:8000/play/a19a/index.m3u8
