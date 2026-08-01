@@ -289,9 +289,6 @@ http://200.229.147.210:9999/play/a05k/index.m3u8
 #EXTINF:-1 tvg-logo="", Multipremier
 http://24.152.54.30:8085/play/a042/index.m3u8
 
-#EXTINF:-1 tvg-logo="", Creo Movie
-http://170.82.115.98:8000/play/a04b/index.m3u8
-
 #EXTINF:-1 tvg-logo="", Cine Prime
 http://190.61.114.186:8000/play/a04u/index.m3u8
 
@@ -306,8 +303,7 @@ http://201.187.96.54:8000/play/104
 
 #EXTINF:-1 tvg-logo="", Cinema Platino
 http://181.78.15.155:9800/play/a00e
-#EXTINF:-1 tvg-logo="", Imperio TV
-https://live20.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="279643" tvg-name="Golden.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png", Golden.ar
 #KODIPROP:inputstream=inputstream.adaptive
@@ -341,7 +337,7 @@ http://planettvweb.com:8091/Carmen65/RMap9748d/11839
 http://planettvweb.com:8091/Carmen65/RMap9748d/11863
 
 #EXTINF:-1 tvg-id="232335" tvg-name="Cronica Tv.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cronica_television-mediano.png", Cronica Tv.ar
-hhttps://m3ukodiiptv.alwaysdata.net/root/youtube/yt_stream.php?id=https://www.youtube.com/watch?v=hw4uHyct4vg
+https://m3ukodiiptv.alwaysdata.net/root/youtube/yt_stream.php?id=https://www.youtube.com/watch?v=hw4uHyct4vg
 
 #EXTINF:-1 tvg-id="280093" tvg-name="La Nacion+.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_nacion_mas-mediano.png", La Nacion+.ar
 http://planettvweb.com:8091/Carmen65/RMap9748d/11878
