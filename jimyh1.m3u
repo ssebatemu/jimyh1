@@ -174,16 +174,16 @@ http://38-252-223-1.latincable.com.pe/Cinemax/index.m3u8
 http://190.60.37.118:4000/play/a0bk
 
 #EXTINF:-1 tvg-id="232359" tvg-name="Studio Universal.ar" tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg", Studio Universal.ar
-http://190.7.19.197:232/play/a049/index.m3u8
+http://138.59.227.20:8000/play/a067/index.m3u8
 
 #EXTINF:-1 tvg-id="232360" tvg-name="Space.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png", Space.ar
-http://190.7.19.197:232/play/a050/index.m3u8
+http://181.224.255.210:8001/play/a0ma/index.m3u8
 
 #EXTINF:-1 tvg-id="232364" tvg-name="Star Channel.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png", Star Channel.ar
-http://190.7.19.197:232/play/a05w/index.m3u8
+http://181.224.255.210:8001/play/a0oh/index.m3u8
 
 #EXTINF:-1 tvg-id="232336" tvg-name="Sony Channel.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png", Sony Channel.ar
-http://190.7.19.197:232/play/a01g/index.m3u8
+http://181.224.255.210:8001/play/a0oc/index.m3u8
 
 #EXTINF:-1 tvg-id="232340" tvg-name="Sony Movies.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_movies-mediano.png", Sony Movies.ar
 http://190.7.19.197:232/play/a01i/index.m3u8
@@ -192,10 +192,10 @@ http://190.7.19.197:232/play/a01i/index.m3u8
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="232356" tvg-name="TNT.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica-mediano.png", TNT.ar
-http://190.7.19.197:232/play/a060/index.m3u8
+http://38-252-223-1.latincable.com.pe/TNT-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="232341" tvg-name="Universal TV.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_tv-mediano.png", Universal TV.ar
-http://190.7.19.197:232/play/a03u/index.m3u8
+http://181.224.255.210:8001/play/a0lp/index.m3u8
 
 #EXTINF:-1 tvg-id="232373" tvg-name="UNIVERSAL PREMIERE.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_premiere-mediano.png", Universal Premiere.uy
 http://200.35.176.154:8000/play/a0rg/index.m3u8
