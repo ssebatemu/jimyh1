@@ -37,7 +37,7 @@ http://181.78.50.91:8000/play/a01w/index.m3u8
 http://190.108.83.69:8000/play/a0a4/index.m3u8
 
 #EXTINF:-1 tvg-id="232343" tvg-name="TNT Novelas.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png", TNT Novelas.ar
-http://190.7.19.197:232/play/a00g/index.m3u8
+http://138.59.227.20:8000/play/a08e/index.m3u8
 
 #EXTINF:-1 tvg-id="279602" tvg-name="Amc Series.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/amc_series-mediano.png", Amc Series.ar
 http://181.224.255.210:8001/play/a0qn/index.m3u8
@@ -128,7 +128,7 @@ http://158.172.155.130:8000/play/a09x/index.m3u8
 http://158.172.155.130:8000/play/a0da/index.m3u8
 
 #EXTINF:-1 tvg-id="279614" tvg-name="Fox Sports 3.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Fox_Sports_3_2026.png/revision/latest/scale-to-width-down/250?cb=20260204193828", Fox Sports 3.ar
-http://158.172.155.130:8000/play/a04x/index.m3u8
+http://138.59.227.20:8000/play/a06y/index.m3u8
 
 #EXTINF:-1 tvg-id="279616" tvg-name="TyC Sports.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png", TyC Sports.ar
 http://38.44.109.41:8003/play/a02l/index.m3u8
