@@ -15,7 +15,7 @@ http://45.188.229.33:8000/play/a1aw/index.m3u8
 http://45.188.229.33:8000/play/a1cl/index.m3u8
 
 #EXTINF:-1 tvg-id="232332" tvg-name="El Trece.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina-mediano.png", El Trece.ar
-http://45.188.229.33:8000/play/a1dk/index.m3u8
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8|referer=https://www.eltrecetv.com.ar/
 
 #EXTINF:-1 tvg-id="279595" tvg-name="Net TV.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-YUPtSgpB6hX1BHQt7tH8GNazZoo3jT7_cg&s", Net TV.ar
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
@@ -471,8 +471,7 @@ http://45.188.229.33:8000/play/a1dk/index.m3u8?hls
 #EXTINF:-1 tvg-id="332144" tvg-name="El Trece.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina-mediano.png", El Trece.ar
 http://138.59.227.20:8000/play/a07b/index.m3u8
 
-#EXTINF:-1 tvg-id="332144" tvg-name="El Trece.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina-mediano.png", El Trece.ar
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8|referer=https://www.eltrecetv.com.ar/
+
 
 
 
