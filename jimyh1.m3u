@@ -59,13 +59,13 @@ http://181.209.38.115:8000/play/a02g/index.m3u8
 http://181.224.255.210:8001/play/a0m2/index.m3u8
 
 #EXTINF:-1 tvg-id="232337" tvg-name="History.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/historia_espana-mediano.png", History.ar
-http://158.172.155.130:8000/play/a0dy/index.m3u8
+http://181.209.38.115:8000/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-id="280094" tvg-name="History 2.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png", History 2.ar
-http://158.172.155.130:8000/play/a008/index.m3u8
+http://181.209.38.115:8000/play/a05b/index.m3u8
 
 #EXTINF:-1 tvg-id="232338" tvg-name="Animal Planet.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet_latinoamerica-mediano.png", Animal Planet.ar
-http://181.224.255.210:8001/play/a0lz/index.m3u8
+http://181.209.38.115:8000/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-id="232495" tvg-name="Discovery Turbo.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png", Discovery Turbo.ar
 http://186.148.175.138:8000/play/a05l
@@ -165,7 +165,7 @@ http://181.224.255.210:8001/play/a0re/index.m3u8
 http://181.224.255.210:8001/play/a0f7/index.m3u8
 
 #EXTINF:-1 tvg-id="232371" tvg-name="Cinecanal.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png", Cinecanal.ar
-http://177.53.153.207:8000/play/a00y/index.m3u8
+http://181.209.38.115:8000/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-id="232354" tvg-name="Cinemax.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png", Cinemax.ar
 http://38-252-223-1.latincable.com.pe/Cinemax/index.m3u8
@@ -174,16 +174,16 @@ http://38-252-223-1.latincable.com.pe/Cinemax/index.m3u8
 http://190.60.37.118:4000/play/a0bk
 
 #EXTINF:-1 tvg-id="232359" tvg-name="Studio Universal.ar" tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg", Studio Universal.ar
-http://138.59.227.20:8000/play/a067/index.m3u8
+http://181.209.38.115:8000/play/a01a/index.m3u8
 
 #EXTINF:-1 tvg-id="232360" tvg-name="Space.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png", Space.ar
-http://158.172.155.130:8000/play/a00s/index.m3u8
+http://181.209.38.115:8000/play/a031/index.m3u8
 
 #EXTINF:-1 tvg-id="232364" tvg-name="Star Channel.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png", Star Channel.ar
-http://181.224.255.210:8001/play/a0oh/index.m3u8
+http://181.209.38.115:8000/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-id="232336" tvg-name="Sony Channel.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png", Sony Channel.ar
-http://177.53.153.207:8000/play/a00l/index.m3u8
+http://181.209.38.115:8000/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-id="232340" tvg-name="Sony Movies.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sony_movies-mediano.png", Sony Movies.ar
 http://177.53.153.207:8000/play/a00n/index.m3u8
