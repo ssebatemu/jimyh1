@@ -110,10 +110,10 @@ http://138.59.227.20:8000/play/a06z/index.m3u8
 http://138.59.227.20:8000/play/a086/index.m3u8
 
 #EXTINF:-1 tvg-id="232365" tvg-name="Espn.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png", Espn.ar
-http://181.224.255.210:8001/play/a0sd/index.m3u8
+http://181.209.38.115:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-id="232366" tvg-name="Espn 2.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png", Espn 2.ar
-http://181.224.255.210:8001/play/a0oj/index.m3u8
+http://181.209.38.115:8000/play/a02z/index.m3u8
 
 #EXTINF:-1 tvg-id="232367" tvg-name="Espn 3.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte-mediano.png", Espn 3.ar
 http://181.224.255.210:8001/play/a0ps/index.m3u8
@@ -131,7 +131,7 @@ http://181.209.38.115:8000/play/a00h/index.m3u8
 http://181.209.38.115:8000/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-id="279616" tvg-name="TyC Sports.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png", TyC Sports.ar
-http://38.44.109.41:8003/play/a02l/index.m3u8
+http://181.209.38.115:8000/play/a00k/index.m3u8
 
 
 
