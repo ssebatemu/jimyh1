@@ -222,6 +222,12 @@ https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master
 #EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-family.png", ENT Family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://fmh.la/img/logo_movies.png", FMH Movies
+http://38.211.145.109:8000/play/a042/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://fmh.la/img/logo_family.png", FMH Family
+http://38.211.145.109:8000/play/a046/index.m3u8?hls
+
 #EXTINF:-1 tvg-id="281940" tvg-name="Cine Premium" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png", Cine Premium
 https://telco.apk-media.edge-apps.net/hls/d4bhf-fflam-b5fon-7kcff.m3u8
 
@@ -261,11 +267,7 @@ http://186.33.57.100:8000/play/a1b8/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=bf813dc4a32e0e9bcbce4446a65f4b12:eb9973b1a30c76812aa7ca8864b6a3c1
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://fmh.la/img/logo_movies.png", FMH Movies
-http://38.211.145.109:8000/play/a042/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://fmh.la/img/logo_family.png", FMH Family
-http://38.211.145.109:8000/play/a046/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="", Movie Acces
 http://45.5.118.188:8000/play/a06g/index.m3u8?hls
