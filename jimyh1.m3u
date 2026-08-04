@@ -198,10 +198,10 @@ http://181.209.38.115:8000/play/a033/index.m3u8
 #EXTINF:-1 tvg-id="232341" tvg-name="Universal TV.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_tv-mediano.png", Universal TV.ar
 http://181.209.38.115:8000/play/a01e/index.m3u8
 
-#EXTINF:-1 tvg-id="232373" tvg-name="UNIVERSAL PREMIERE.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_premiere-mediano.png", Universal Premiere.uy
+#EXTINF:-1 tvg-id="232373" tvg-name="UNIVERSAL PREMIERE.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_premiere-mediano.png", UNIVERSAL PREMIERE.mx
 http://200.35.176.154:8000/play/a0rg/index.m3u8
 
-#EXTINF:-1 tvg-id="232372" tvg-name="UNIVERSAL CINEMA.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_cinema-mediano.png", Universal Cinema.uy
+#EXTINF:-1 tvg-id="232372" tvg-name="UNIVERSAL CINEMA.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_cinema-mediano.png", UNIVERSAL CINEMA.mx
 http://181.78.50.91:8000/play/a05y/index.m3u8
 
 #EXTINF:-1 tvg-id="279643" tvg-name="Golden.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png", Golden.ar
