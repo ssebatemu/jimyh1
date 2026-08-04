@@ -193,7 +193,7 @@ http://177.53.153.207:8000/play/a00n/index.m3u8
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="232356" tvg-name="TNT.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica-mediano.png", TNT.ar
-http://181.209.38.115:8000/play/a033/index.m3u8
+http://181.209.38.115:8000/play/a033/index.m3u8 
 
 #EXTINF:-1 tvg-id="232341" tvg-name="Universal TV.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_tv-mediano.png", Universal TV.ar
 http://181.209.38.115:8000/play/a01e/index.m3u8
