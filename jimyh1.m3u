@@ -122,13 +122,13 @@ http://181.224.255.210:8001/play/a0ps/index.m3u8
 http://181.224.255.210:8001/play/a0og/index.m3u8
 
 #EXTINF:-1 tvg-id="279615" tvg-name="Fox Sports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Fox_Sports_Argentina_2026.webp", Fox Sports.ar
-http://158.172.155.130:8000/play/a09x/index.m3u8
+http://181.209.38.115:8000/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-id="279613" tvg-name="Fox Sports 2.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Fox_Sports_2_2026.png/revision/latest/scale-to-width-down/250?cb=20260204193820", Fox Sports 2.ar
-http://158.172.155.130:8000/play/a0da/index.m3u8
+http://181.209.38.115:8000/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-id="279614" tvg-name="Fox Sports 3.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Fox_Sports_3_2026.png/revision/latest/scale-to-width-down/250?cb=20260204193828", Fox Sports 3.ar
-http://138.59.227.20:8000/play/a06y/index.m3u8
+http://181.209.38.115:8000/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-id="279616" tvg-name="TyC Sports.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png", TyC Sports.ar
 http://38.44.109.41:8003/play/a02l/index.m3u8
