@@ -40,7 +40,7 @@ http://190.108.83.69:8000/play/a0a4/index.m3u8
 http://181.209.38.115:8000/play/a02w/index.m3u8
 
 #EXTINF:-1 tvg-id="279602" tvg-name="Amc Series.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/amc_series-mediano.png", Amc Series.ar
-http://181.224.255.210:8001/play/a0qn/index.m3u8
+http://181.209.38.115:8000/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-id="279618" tvg-name="Lifetime.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png", Lifetime.ar
 http://45.188.229.33:8000/play/a19a/index.m3u8
@@ -161,8 +161,9 @@ http://181.224.255.210:8001/play/a0rf/index.m3u8
 #EXTINF:-1 tvg-id="232406" tvg-name="HBO Signature.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png", HBO Signature.ar
 http://181.224.255.210:8001/play/a0re/index.m3u8
 
+
 #EXTINF:-1 tvg-id="232353" tvg-name="Amc.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png", Amc.ar
-http://181.224.255.210:8001/play/a0f7/index.m3u8
+http://181.209.38.115:8000/play/a00s/index.m3u8
 
 #EXTINF:-1 tvg-id="232371" tvg-name="Cinecanal.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png", Cinecanal.ar
 http://181.209.38.115:8000/play/a00w/index.m3u8
@@ -171,7 +172,7 @@ http://181.209.38.115:8000/play/a00w/index.m3u8
 http://38-252-223-1.latincable.com.pe/Cinemax/index.m3u8
 
 #EXTINF:-1 tvg-id="232342" tvg-name="FX.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png", FX.ar
-http://190.60.37.118:4000/play/a0bk
+http://181.209.38.115:8000/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-id="232359" tvg-name="Studio Universal.ar" tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg", Studio Universal.ar
 http://181.209.38.115:8000/play/a01a/index.m3u8
@@ -192,10 +193,10 @@ http://177.53.153.207:8000/play/a00n/index.m3u8
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="232356" tvg-name="TNT.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica-mediano.png", TNT.ar
-http:\\158.172.155.130:8000\play\a00i\index.m3u8
+http://181.209.38.115:8000/play/a033/index.m3u8
 
 #EXTINF:-1 tvg-id="232341" tvg-name="Universal TV.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_tv-mediano.png", Universal TV.ar
-http://181.224.255.210:8001/play/a0lp/index.m3u8
+http://181.209.38.115:8000/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-id="232373" tvg-name="UNIVERSAL PREMIERE.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_premiere-mediano.png", Universal Premiere.uy
 http://200.35.176.154:8000/play/a0rg/index.m3u8
@@ -208,6 +209,9 @@ http://190.60.37.118:4000/play/a08t
 
 #EXTINF:-1 tvg-id="232347" tvg-name="Golden Edge.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png", Golden Edge.ar
 http://179.1.225.6:8000/play/a0kg/index.m3u8
+
+#EXTINF:-1 tvg-id="232350" tvg-name="Warner.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv-mediano.png", Warner.ar
+http://181.209.38.115:8000/play/a01h/index.m3u8
 
 #EXTINF:-1 tvg-id="232411" tvg-name="Europa Europa.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/europa_europa-mediano.png", Europa Europa.ar
 http://a-ziptv.env.pm:8000/play/a07t/index.m3u8
@@ -224,10 +228,16 @@ https://telco.apk-media.edge-apps.net/hls/d4bhf-fflam-b5fon-7kcff.m3u8
 #EXTINF:-1 tvg-id="232374" tvg-name="Cine Familar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc6pEKlp2kZH2pKqF5chstFSTwZy5H8P8sBw&s", Cine Familar
 https://telco.apk-media.edge-apps.net/hls/14nj5-o3nib-lfdgo-ha1ib.m3u8
 
-#EXTINF:-1 tvg-id="232350" tvg-name="Warner.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv-mediano.png", Warner.ar
-http://158.172.155.130:8000/play/a0dv/index.m3u8
 
 
+#EXTINF:-1 tvg-id="305831" tvg-name="USA.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png", USA.ar
+http://190.60.37.118:4000/play/a08a
+
+#EXTINF:-1 tvg-id="279644" tvg-name="DHE.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png", DHE.ar
+http://179.1.225.6:8000/play/a0l8/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="279640" tvg-name="FilmAndArts.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png", FilmAndArts.ar
+http://181.224.255.210:8001/play/a0ql/index.m3u8
 
 #EXTINF:-1 tvg-id="232355" tvg-name="TNT Series.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png", TNT Series.ar
 http://181.224.255.210:8001/play/a0ls/index.m3u8
@@ -241,14 +251,7 @@ http://181.224.255.210:8001/play/a0m8/index.m3u8
 #EXTINF:-1 tvg-id="279642" tvg-name="UNIVERSAL REALITY.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_reality-mediano.png", Universal Reality.uy
 http://186.33.57.100:8000/play/a1b8/index.m3u8
 
-#EXTINF:-1 tvg-id="305831" tvg-name="USA.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png", USA.ar
-http://190.60.37.118:4000/play/a08a
 
-#EXTINF:-1 tvg-id="279644" tvg-name="DHE.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png", DHE.ar
-http://179.1.225.6:8000/play/a0l8/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="279640" tvg-name="FilmAndArts.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png", FilmAndArts.ar
-http://181.224.255.210:8001/play/a0ql/index.m3u8
 
 
 #EXTINF:-1  tvg-name="Cinemax" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png", Cinemax Premium
