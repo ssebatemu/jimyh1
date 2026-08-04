@@ -248,7 +248,7 @@ http://181.224.255.210:8001/play/a0edfhg/index.m3u8
 #EXTINF:-1 tvg-id="279282" tvg-name="AXN.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png", AXN.ar
 http://181.224.255.210:8001/play/a0m8/index.m3u8
 
-#EXTINF:-1 tvg-id="279642" tvg-name="UNIVERSAL REALITY.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_reality-mediano.png", Universal Reality.uy
+#EXTINF:-1 tvg-id="279642" tvg-name="UNIVERSAL REALITY.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_reality-mediano.png", UNIVERSAL REALITY.mx
 http://186.33.57.100:8000/play/a1b8/index.m3u8
 
 
