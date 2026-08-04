@@ -11,7 +11,7 @@ http://181.209.38.115:8000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="232330" tvg-name="El Nueve.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_argentina-mediano.png", El Nueve.ar
 http://15.204.246.24:8080/elnueveHD/index.m3u8
 
-#EXTINF:-1 tvg-id="TELEFE" tvg-logo="https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefe_ea48843cc9b8464bbdce2a27ce68980b.png" group-title=" ARGENTINA🇦🇷 WIFI PERSONAL", Telefe.ar
+#EXTINF:-1 tvg-id="232408" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
 http://45.188.229.33:8000/play/a1cl/index.m3u8
 
 #EXTINF:-1 tvg-id="232332" tvg-name="El Trece.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina-mediano.png", El Trece.ar
