@@ -6,7 +6,7 @@ http://118.142.17.190:8278/playlist.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="230938" tvg-name="TVPublica.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/television_publica_argentina-mediano.png", TVPublica.ar
-http://45.188.229.33:8000/play/a1aw/index.m3u8
+http://181.209.38.115:8000/play/a00q/index.m3u8
 
 #EXTINF:-1 tvg-id="232330" tvg-name="El Nueve.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_argentina-mediano.png", El Nueve.ar
 http://15.204.246.24:8080/elnueveHD/index.m3u8
@@ -37,7 +37,7 @@ http://181.78.50.91:8000/play/a01w/index.m3u8
 http://190.108.83.69:8000/play/a0a4/index.m3u8
 
 #EXTINF:-1 tvg-id="232343" tvg-name="TNT Novelas.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png", TNT Novelas.ar
-http://158.172.155.130:8000/play/a09s/index.m3u8
+http://181.209.38.115:8000/play/a02w/index.m3u8
 
 #EXTINF:-1 tvg-id="279602" tvg-name="Amc Series.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/amc_series-mediano.png", Amc Series.ar
 http://181.224.255.210:8001/play/a0qn/index.m3u8
@@ -53,7 +53,7 @@ http://45.188.229.33:8000/play/a1im/index.m3u8
 
 
 #EXTINF:-1 tvg-id="232339" tvg-name="Discovery.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png", Discovery.ar
-http://45.188.229.33:8000/play/a1ds/index.m3u8
+http://181.209.38.115:8000/play/a02g/index.m3u8
 
 #EXTINF:-1 tvg-id="279603" tvg-name="National Geographic.ar" tvg-logo="https://www.nationalgeographicla.com/images/logo.png", National Geographic.ar
 http://181.224.255.210:8001/play/a0m2/index.m3u8
