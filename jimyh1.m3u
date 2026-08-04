@@ -1,5 +1,4 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml, https://www.open-epg.com/files/uruguay.xml, https://www.open-epg.com/files/mexico2.xml" tv-test="jimyh1.m3u"
-#EXTINF:-1,Na
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml,https://www.open-epg.com/files/uruguay.xml,https://www.open-epg.com/files/mexico2.xml"
 http://118.142.17.190:8278/playlist.m3u8
 
 #EXTINF:-1 tvg-id="230937" tvg-name="America.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina-mediano.png", America.ar
