@@ -561,7 +561,18 @@ https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a
 #KODIPROP:inputstream.adaptive.license_key=41121cea7a3d49a78c9496d1b0d919e4:de048d4c2870b8d53961aaeac1804947
 https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",ESPN.ar
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=2000
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTVLCOPT:http-referrer=http://ts1.tvcluboficial.com
+#EXTVLCOPT:http-header=X-App:di
+#EXTVLCOPT:http-header=X-Version:10/1.0.9
+#EXTVLCOPT:http-header=X-Hash:LCanxF9D42z-2eRKFLlFkH5_mGs6KZiI2kXm-2rFJJ6j1dU6nAxaGhg9B5w-8bs3LpFlEfynRAa7trY_msvJ9A-Pw-gTu72dZZ-VXnzpZ3ipV8VxM_7rOCduL6qMf_bHoEqu-aAbQmKwMIWY4TqpMneEaL1wqiSw4lO424WdcCqn__wRG3-TVwZBuXAaew-NtidiJBxUPQ-35BZMfGv9pAsAZB9AUjZugPFJfLdb_hrbPBW0umRZGorAPSce57PKz6xCLCKqkjhHNzA_AQeuoWkiFViOVcRvDIUiX_tirmm3NHSrM6RPdpyjZVMOLQaUHBAakCg_9bUvm-OvmPLzYCZqRvJq0L6WECwUg-2ESGPyJ6fCk1r_N-b2t7zMZgz8rbXt-F5vi31dX0UibpFZfmbZMEdPtmuYR0ibUh0Lf325fhv-SxXuF1z2V94VM1SsCigEgQuL8kubHCZ3CcdoYdtQsaLB9tdHj8BIJ9hTwYN4WTm5HYG8_ARWaT1MU17jGk1EDFR4J8UAlSpeeLPSu0auBhFI_qeEvyHpUkPQvDyuiysY_9jpbyCXCpGJkt3PyQuyhvm_fy-910hF9bRmXFVHXP7nG7RI-7qck1t63JepBgKRRylke9ieDN_NyotF
+#EXTVLCOPT:http-header=X-Did:37ab0879dbae63a4
+#EXTVLCOPT:http-header=Connection:Keep-Alive
+http://tv.m3uts.xyz/stream/secure/T_-bCN43/1161.m3u8
 
 
 
