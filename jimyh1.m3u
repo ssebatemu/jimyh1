@@ -406,7 +406,7 @@ http://200.115.120.1:8000/play/ca093/index.m3u8
 #EXTINF:-1 tvg-id="312889" tvg-name="Retroclub" tvg-logo="", Retro Music TV
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="279636" tvg-name="Stingray Concerts" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw4Sy8E1u9v1cw1goRM0i3nUKecEXlRlWNMQ&s", Stingray Concerts
+#EXTINF:-1 tvg-id="279636" tvg-name="Stingray Concerts" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw4Sy8E1u9v1cw1goRM0i3nUKecEXlRlWNMQ&s", STINGRAY CONCERTS HD.co
 http://190.93.229.30:8000/play/a07t/index.m3u8?hls
 
 
