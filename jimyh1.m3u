@@ -325,7 +325,7 @@ http://45.5.118.188:8000/play/a00p/index.m3u8?hls
 #EXTINF:-1 tvg-logo="", Golden Premiere
 http://45.5.118.188:8000/play/a00q/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="", MX Prime
+#EXTINF:-1 tvg-logo="", MAX PRIME.mx
 http://190.211.172.203:4000/play/a0xu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://megacable.com.mx/images/canales/thumbs/458_multicinema_imagen_1718839802.png", Multicinema
