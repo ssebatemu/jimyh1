@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml,https://www.open-epg.com/files/uruguay.xml,https://www.open-epg.com/files/mexico2.xml,https://www.open-epg.com/files/colombia2.xml"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml,https://www.open-epg.com/files/uruguay.xml,https://www.open-epg.com/files/mexico2.xml,https://www.open-epg.com/files/colombia2.xml,https://www.open-epg.com/files/peru.xml"
 #EXTINF:-1,N
 http://118.142.17.190:8278/playlist.m3u8
 
@@ -316,7 +316,7 @@ http://45.5.118.188:8000/play/a06g/index.m3u8?hls
 #EXTINF:-1 tvg-logo="", Nitro
 http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="", CLOVER Channel
+#EXTINF:-1 tvg-logo="", Clover.pe
 http://45.188.229.33:8000/play/a1ka/index.m3u8
 
 #EXTINF:-1 tvg-logo="", Golden Premiere
@@ -332,7 +332,7 @@ http://190.211.172.203:4000/play/a0xu/index.m3u8
 http://200.229.147.210:9999/play/a05k/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multipremier-mediano.png", Multipremier
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multipremier-mediano.png", Multipremier.pe
 http://24.152.54.30:8085/play/a042/index.m3u8
 
 #EXTINF:-1 tvg-logo="", Cine Prime
@@ -423,7 +423,7 @@ http://181.224.255.210:8001/play/a0q1/index.m3u8
 #EXTINF:-1 tvg-id="322678" tvg-name="TV5 Monde" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv5monde-mediano.png", TV 5 Monde.uy
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8?hdnea=st%3D1780609158~exp%3D1780616358~acl%3D%2F%2A~hmac%3D948e22c7b30ca551a5b9085b41dc6d35883579e3446d046118368888513e8877&PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="281934" tvg-name="TV Globo.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png/revision/latest?cb=20160114164123&path-prefix=es", TV Globo.ar
+#EXTINF:-1 tvg-id="281934" tvg-name="TV Globo.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png/revision/latest?cb=20160114164123&path-prefix=es", TV5 Monde.pe
 http://190.7.19.197:232/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-id="232505" tvg-name="Dw Español.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/deutsche_welle-mediano.png", Dw Español.ar
@@ -454,7 +454,7 @@ http://132.255.210.69:9000/play/a06i/index.m3u8
 #EXTINF:-1 tvg-id="279546" tvg-name="MTV.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mtv-mediano.png", MTV.ar
 http://181.224.255.210:8001/play/a0f9/index.m3u8
 
-#EXTINF:-1 tvg-id="232410" tvg-name="TeleHit" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telehit_musica-mediano.png", Telehit.uy
+#EXTINF:-1 tvg-id="232410" tvg-name="TeleHit" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telehit_musica-mediano.png", Telehit.pe
 http://200.115.120.1:8000/play/ca093/index.m3u8
 
 #EXTINF:-1 tvg-id="312889" tvg-name="Retroclub" tvg-logo="", Retro Music TV
