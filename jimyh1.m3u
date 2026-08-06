@@ -451,16 +451,14 @@ http://132.255.210.69:9000/play/a06i/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="312889" tvg-name="Retroclub" tvg-logo="", Retro Music TV
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="279546" tvg-name="MTV.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mtv-mediano.png", MTV.ar
 http://181.224.255.210:8001/play/a0f9/index.m3u8
 
 #EXTINF:-1 tvg-id="232410" tvg-name="TeleHit" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telehit_musica-mediano.png", Telehit.pe
 http://200.115.120.1:8000/play/ca093/index.m3u8
-
-#EXTINF:-1 tvg-id="312889" tvg-name="Retroclub" tvg-logo="", Retro Music TV
-https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="279636" tvg-name="Stingray Concerts" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw4Sy8E1u9v1cw1goRM0i3nUKecEXlRlWNMQ&s", STINGRAY CONCERTS HD.co
 http://190.93.229.30:8000/play/a07t/index.m3u8?hls
@@ -604,7 +602,7 @@ https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a
 #KODIPROP:inputstream.adaptive.license_key=41121cea7a3d49a78c9496d1b0d919e4:de048d4c2870b8d53961aaeac1804947
 https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",ESPN.ar
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", ESPN.ar
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=2000
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -620,10 +618,10 @@ http://tv.m3uts.xyz/stream/secure/T_-bCN43/1161.m3u8
 
 
 
-#EXTINF:-1 tvg-id="300908" tvg-name="Eventos" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte.png", ESPN 2 HD.co
+#EXTINF:-1 tvg-id="300908" tvg-name="Eventos" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte.png", ESPN 2.co
 http://179.1.143.53:8000/play/a00c/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="319875" tvg-name="ESPN 2 CO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png", ESPN 2 HD.co
+#EXTINF:-1 tvg-id="319875" tvg-name="ESPN 2 CO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png", ESPN 2.co
 http://147.75.122.125:8000/play/a03q/index.m3u8
 
 #EXTINF:-1 tvg-id="319862" tvg-name="ESPN 5" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png", ESPN 5 HD.co
