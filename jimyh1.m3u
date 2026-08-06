@@ -319,11 +319,7 @@ http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://cloverchannel.com/wp-content/uploads/2024/11/Clover_7.png.webp", Clover.pe
 http://45.188.229.33:8000/play/a1ka/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png", Golden Premier HD.co
-http://45.5.118.188:8000/play/a00p/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png", Golden Premier HD.co
-http://45.5.118.188:8000/play/a00q/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/legacy/2016/LOGO-MAX-PRIME.jpg", MAX PRIME.mx
 http://190.211.172.203:4000/play/a0xu/index.m3u8
@@ -357,6 +353,12 @@ http://181.78.15.155:9800/play/a00e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=38dbcf2d094923f94aca4f913045e993:a475a0bcc6f77b04f07ed1487619d626
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ox4csgyamg/out/v1/95cf9c4df3d542f6812f382a52771327/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png", Golden Premier HD.co
+http://45.5.118.188:8000/play/a00p/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png", Golden Premier HD.co
+http://45.5.118.188:8000/play/a00q/index.m3u8?hls
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Golden Edge.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png", Golden Edge.ar
