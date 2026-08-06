@@ -325,7 +325,7 @@ http://45.5.118.188:8000/play/a00p/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png", Golden Premier HD.co
 http://45.5.118.188:8000/play/a00q/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="", MAX PRIME.mx
+#EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/legacy/2016/LOGO-MAX-PRIME.jpg", MAX PRIME.mx
 http://190.211.172.203:4000/play/a0xu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://megacable.com.mx/images/canales/thumbs/458_multicinema_imagen_1718839802.png", Multicinema
@@ -347,11 +347,11 @@ http://181.78.121.15:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_5SWgu8sXFUNWQ3La5CDUbHGTTwpS6aRPfHuRFmAnhB5O-6xZNNGIMNdx&s=10", Rewinds
 http://201.187.96.54:8000/play/104
 
-#EXTINF:-1 tvg-logo="", Cinema Platino
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Cinema_Platino_%282025%29.png/revision/latest/scale-to-width-down/340?cb=20251024020326", Cinema Platino
 http://181.78.15.155:9800/play/a00e
 
 
-#EXTINF:-1 tvg-id="279643" tvg-name="Golden.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png", Golden.ar
+#EXTINF:-1 tvg-id="" tvg-name="Golden.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png", Golden.ar
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -359,14 +359,14 @@ http://181.78.15.155:9800/play/a00e
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ox4csgyamg/out/v1/95cf9c4df3d542f6812f382a52771327/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="232347" tvg-name="Golden Edge.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png", Golden Edge.ar
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png", Golden Edge.ar
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae4cbc34d4b1645f6c7b26410dde7b58:647478cd3bd0dfb3e820249296c23096
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/xv3tnoayi8/out/v1/46aaaeb778de4cd39893d88a7f93b05a/cenc.mpd
 
-#EXTINF:-1 tvg-id="232347" tvg-name="Golden Edge.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png", Golden Plus.uy
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png", Golden Plus.uy
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
