@@ -511,7 +511,7 @@ http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
 
 #EXTINF:-1 tvg-id="232408" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
-http://oscam281w.ooguy.com:5000/server/1234/TBS1/a0dv/index.m3u8?device_id=128d77dcfd8d
+http://181.209.38.115:8000/play/a00p/index.m3u8
 
 #EXTINF:-1 tvg-id="333512" tvg-name="Telefe Rosario" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
 http://45.179.152.42:8000/play/a009
