@@ -110,10 +110,16 @@ http://138.59.227.20:8000/play/a06z/index.m3u8
 http://138.59.227.20:8000/play/a086/index.m3u8
 
 #EXTINF:-1 tvg-id="232365" tvg-name="Espn.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png", Espn.ar
-http://181.209.38.115:8000/play/a00b/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
+https://edge-live31-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2MTEwMjI5Iiwic2lwIjoiMTgxLjQ1LjE0NS4yMzUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvSEJPSEQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImI2NmVmZjhmNjZkYzQzYjMiLCJzZXNzaW9uX2lkIjoiYjI2YTNlNzgxMWIzZTdlMTVmMWZhZTFhMTdhYWU0NTItMTc4NTkzNzQzMC0zOTAiLCJjbGllbnRfaWQiOiJmbG93OjEzOTA1Mi0tZmxvdzoxMzkwNTI6UCIsImRldmljZV9pZCI6ImIyNmEzZTc4MTFiM2U3ZTE1ZjFmYWUxYTE3YWFlNDUyIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiOTQiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.pF_atXLZ4R_0fG7dC30AZNT-khCwoLGfuqNfjYi5B85APZFdtYXs6mY_9ryZ-RIrVIFbbnCmj8GjtUlgFhtJCg==/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd|Origin=https://portal.app.flow.com.py&Referer=https://portal.app.flow.com.py/
+
 
 #EXTINF:-1 tvg-id="232366" tvg-name="Espn 2.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png", Espn 2.ar
-http://181.209.38.115:8000/play/a02z/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
+https://edge-live31-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2MTEwMjI5Iiwic2lwIjoiMTgxLjQ1LjE0NS4yMzUiLCJwYXRoIjoiL2xpdmUvYzRlZHMvSEJPSEQvU0FfTGl2ZV9kYXNoX2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImI2NmVmZjhmNjZkYzQzYjMiLCJzZXNzaW9uX2lkIjoiYjI2YTNlNzgxMWIzZTdlMTVmMWZhZTFhMTdhYWU0NTItMTc4NTkzNzQzMC0zOTAiLCJjbGllbnRfaWQiOiJmbG93OjEzOTA1Mi0tZmxvdzoxMzkwNTI6UCIsImRldmljZV9pZCI6ImIyNmEzZTc4MTFiM2U3ZTE1ZjFmYWUxYTE3YWFlNDUyIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiOTQiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.pF_atXLZ4R_0fG7dC30AZNT-khCwoLGfuqNfjYi5B85APZFdtYXs6mY_9ryZ-RIrVIFbbnCmj8GjtUlgFhtJCg==/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd|Origin=https://portal.app.flow.com.py&Referer=https://portal.app.flow.com.py/
+
 
 #EXTINF:-1 tvg-id="232367" tvg-name="Espn 3.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte-mediano.png", Espn 3.ar
 http://181.224.255.210:8001/play/a0ps/index.m3u8
