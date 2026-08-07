@@ -711,7 +711,260 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/lsilniwjf7/out/v1/fc40
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd
 
 
+#EXTINF:-1 tvg-logo="", HGTV.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4f3b8b73a7f4eb1d43bcabcd81bf7ad:7df5b06ac1fa4003e1b6308490921283
+https://live1-ott.izzigo.tv/14/out/u/dash/DISCOVERY-HOME-AND-GARDEN-HD/default.mpd
 
+
+
+#EXTINF:-1 tvg-logo="", DISCOVERY HOME AND HEALTH.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0765f676e30b1b98386230b52eed3518:326266d16296e3bbe1dfcc274853dadb
+https://live1-ott.izzigo.tv/13/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="", ENTERTAINMENT.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66a5d89630a3e2263f63f42221a4f3e8:362b8d4aa289042e473ed064a722611b
+https://live1-ott.izzigo.tv/13/out/u/dash/E-Entertainment-HD/default.mpd
+
+
+#EXTINF:-1 tvg-logo="", TLC.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42ca82249b49382dd7156dd18a292e8c:7c26bb855d762211182e7eac31376aee
+https://live1-ott.izzigo.tv/11/out/u/dash/TLC-HD/default.mpd
+
+
+#EXTINF:-1 tvg-logo="", TNT NOVELAS.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b3f9a0375499c62b6f5ff778dc46bb43:c0d7bd6d44c2bd79e46e8dc22e53cceb
+https://live1-ott.izzigo.tv/11/out/u/dash/TNT-NOVELAS-HD/default.mpd
+ 
+
+#EXTINF:-1 tvg-logo="", AMC SERIES.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7f17a97ad60b44791b59611754cee68:6aaa00f8c250cf28a10ce84b8748ea94
+https://live1-ott.izzigo.tv/14/out/u/dash/AMC-SERIES-HD/default.mpd
+ 
+#EXTINF:-1 tvg-logo="", LIFETIME.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6561801b75ab25819fc7ede365375df7:3555b344c54204d5f02a753d354d2f8c
+https://live1-ott.izzigo.tv/13/out/u/dash/LIFETIME-HD/default.mpd
+ 
+#EXTINF:-1 tvg-logo="", HOLA TV.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3324372c149efbd4755e94a5989f4eef:8ed2cae763c527146b490acb667e3221
+https://live1-ott.izzigo.tv/11/out/u/dash/HOLA-TV-HD/default.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="", HBO.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5e43e324b6cd33b92c9ac8c398bb3c8:c8c7f804f0ecfc8fc0d53dff48d7ece1
+https://live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd
+
+
+
+#EXTINF:-1 tvg-logo="", AMC.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=97cfeda35c2f42d6c2be729ea2945b12:59c1f3c384bd0a25e817539d5fe6e24b 
+https://live1-ott.izzigo.tv/14/out/u/dash/AMC-HD/default.mpd
+
+
+#EXTINF:-1 tvg-logo="", CINECANAL.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e87d24ed7b54576895548ffa65eab1d:1e5d7c9e67248af38e48ec56d2241507
+https://live1-ott.izzigo.tv/14/out/u/dash/CINECANAL-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="", CINEMAX.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa6d1b52dd986d8faab9cca6adb8874b:6022259ba9edb1fe66b4507b51e1c12f
+https://live1-ott.izzigo.tv/15/out/u/dash/CINEMAX-HD/default.mpd
+
+
+
+#EXTINF:-1 tvg-logo="", FX.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ce1ec3e2402a170cbe13b79ce9bb30f:82fdcfde32cc02673547e58b50e2b5ae
+https://live1-ott.izzigo.tv/13/out/u/dash/FX-HD/default.mpd
+ 
+
+
+#EXTINF:-1 tvg-logo="", STUDIO UNIVERSAL.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=77b7711693a9f32c0bd81ef8782f716b:0802df5ea0615ca2638b3b38f9ab3926
+https://live1-ott.izzigo.tv/11/out/u/dash/STUDIO-UNIVERSAL-HD/default.mpd
+
+
+#EXTINF:-1 tvg-logo="", SPACE.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=02849e7ba3c2e527a9a8152ff111fc22:87af284b8fc6be1cbf693f20175671a9 
+https://live1-ott.izzigo.tv/11/out/u/dash/SPACE-HD/default.mpd
+ 
+
+#EXTINF:-1 tvg-logo="", STAR CHANNEL.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b482bd74b9fccb810bf94a3b3732c0f9:9207af2617ac4df3ee6860719a53eb8b
+https://live1-ott.izzigo.tv/12/out/u/dash/STAR-CHANNEL-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="", SONY.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47b8d1118047c47ff9d794fca6c9997a:97af829b2dd037fb85550b85b0757685
+https://live1-ott.izzigo.tv/13/out/u/dash/SONY-HD/default.mpd
+
+
+#EXTINF:-1 tvg-logo="", SONY MOVIES.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6c0b2a5a6d7aa72f6f76f3607364cea:29772b450393146e8d1b56107f5163a2
+https://live1-ott.izzigo.tv/14/out/u/dash/SONY-MOVIES-HD/default.mpd
+
+
+
+#EXTINF:-1 tvg-logo="", TNT.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d764404feb21d09fab3a9b752eb8eaa:bc9772714ccc6df4e384f8bc7f600204
+https://live1-ott.izzigo.tv/12/out/u/dash/TNT-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="", UNIVERSAL CHANNEL.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=840bcd9ffdd5721c40b0ade4d9b68246:d19d330de1f428d1902bc1629a65c0bf
+https://live1-ott.izzigo.tv/14/out/u/dash/UNIVERSAL-CHANNEL-HD/default.mpd
+
+
+#EXTINF:-1 tvg-logo="", UNIVERSAL PREMIERE.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ccd5dd0c86a40ed719b83e1801bcd88:6d5e62525837ba9b7e09cfb8716116ba
+https://live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd
+
+
+#EXTINF:-1 tvg-logo="", UNIVERSAL CINEMA.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44a9e6477651b3b47f3a2b727d562835:1b87070d9fad5dee0a35ff014a2063a7
+https://live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-CINEMA-HD/default.mpd
+
+
+#EXTINF:-1 tvg-logo="", GOLDEN.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc0e4c7dfb10d483357572000180cca5:247351382fcd721f2872c4bda15c5245
+https://live1-ott.izzigo.tv/13/out/u/dash/GOLDEN-SD/default.mpd
+
+#EXTINF:-1 tvg-logo="", GOLDEN PLUS.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3555824ee6a09d671a2362f37f5a39b9:f240e5b5e8a27ca8550f23a553451a90
+https://live1-ott.izzigo.tv/14/out/u/dash/GOLDEN-PLUS-HD/default.mpd
+
+
+#EXTINF:-1 tvg-logo="", WARNER.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a62d210f0f907a0ebfb84a790d42780b:590779be25e38a41d817f6ad13f5b070
+https://live1-ott.izzigo.tv/15/out/u/dash/WARNER-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="", EUROPA.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=23ca6a142d580eb99bd14dda4b023b5d:d0534260b536e85d76efe8576afcf473
+https://live1-ott.izzigo.tv/11/out/u/dash/EUROPA-HD/default.mpd
+ 
+
+#EXTINF:-1 tvg-logo="", USA NETWORK.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c760bcb13f83a8d66f4c676f04c23d81:e024f5099f059ce93607812e5b406360
+https://live1-ott.izzigo.tv/15/out/u/dash/USA-HD/default.mpd
+
+
+#EXTINF:-1 tvg-logo="", FILM AND ARTS.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31107b01ab02c96457fe0a000f3e0569:c024c45d71db474d2fa121729e596ca8
+https://live1-ott.izzigo.tv/14/out/u/dash/FILM-AND-ARTS-HD/default.mpd
+ 
+
+#EXTINF:-1 tvg-logo="", TNT SERIES.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c7c3c7a05812a5245d64c0eced08a41:e56c4dedfa6c51f617cc7c9d2d61f7a8
+https://live1-ott.izzigo.tv/11/out/u/dash/TNT-SERIES-HD/default.mpd
+
+
+
+#EXTINF:-1 tvg-logo="", AAndE MUNDO.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=baef272fb12886463f3b299ac6b4ffa6:bc285ae166674480abb4966f4a306327
+https://live1-ott.izzigo.tv/13/out/u/dash/AANDE-HD/default.mpd
+
+
+#EXTINF:-1 tvg-logo="", AXN.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=976d703cb95202a808972c722544fae1:562775b170402c6e2309ff69b9e48e82
+https://live1-ott.izzigo.tv/13/out/u/dash/AXN-HD/default.mpd
+
+
+#EXTINF:-1 tvg-logo="", UNIVERSAL REALITY.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=02a02bce7a3c518386e0da4e5ec0188d:071c7cc4c2f33e1e2d3fa3807d1bbbcc
+https://live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd
 
 
 
