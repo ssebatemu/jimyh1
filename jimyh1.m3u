@@ -336,56 +336,12 @@ http://201.187.96.54:8000/play/104
 http://181.78.15.155:9800/play/a00e
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Golden.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png", Golden.ar
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=38dbcf2d094923f94aca4f913045e993:a475a0bcc6f77b04f07ed1487619d626
-https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ox4csgyamg/out/v1/95cf9c4df3d542f6812f382a52771327/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png", Golden Premier HD.ar
-http://45.5.118.188:8000/play/a00p/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png", Golden Premier HD.ar
-http://45.5.118.188:8000/play/a00q/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png", Golden.co
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=38dbcf2d094923f94aca4f913045e993:a475a0bcc6f77b04f07ed1487619d626
-https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ox4csgyamg/out/v1/95cf9c4df3d542f6812f382a52771327/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png", Golden Premier HD.co
-http://45.5.118.188:8000/play/a00p/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png", Golden Premier HD.co
-http://45.5.118.188:8000/play/a00q/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png", Golden.pe
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=38dbcf2d094923f94aca4f913045e993:a475a0bcc6f77b04f07ed1487619d626
-https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ox4csgyamg/out/v1/95cf9c4df3d542f6812f382a52771327/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png", Golden Premier HD.pe
 http://45.5.118.188:8000/play/a00p/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png", Golden Premier HD.pe
-http://45.5.118.188:8000/play/a00q/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png", Golden.uy
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=38dbcf2d094923f94aca4f913045e993:a475a0bcc6f77b04f07ed1487619d626
-https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/ox4csgyamg/out/v1/95cf9c4df3d542f6812f382a52771327/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png", Golden Premier HD.uy
-http://45.5.118.188:8000/play/a00p/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png", Golden Premier HD.uy
 http://45.5.118.188:8000/play/a00q/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="" tvg-name="Golden Edge.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png", Golden Edge.ar
@@ -402,6 +358,20 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/xv3tno
 #KODIPROP:inputstream.adaptive.license_key=ed5849d33e07606d6118d7fb26b90cd0:63670e57e70353ca526fb07a8d7ddb7b
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/o09knwldwh/out/v1/15f9f74c888e4fdd9815ea94635ae4db/cenc.mpd
 
+
+#EXTINF:-1 tvg-logo="", WARNER CHANNEL.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a62d210f0f907a0ebfb84a790d42780b:590779be25e38a41d817f6ad13f5b070
+https://live1-ott.izzigo.tv/15/out/u/dash/WARNER-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="", UNIVERSAL.MX
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=840bcd9ffdd5721c40b0ade4d9b68246:d19d330de1f428d1902bc1629a65c0bf
+https://live1-ott.izzigo.tv/14/out/u/dash/UNIVERSAL-CHANNEL-HD/default.mpd
 
 
 
