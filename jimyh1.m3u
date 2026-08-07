@@ -173,7 +173,7 @@ http://181.209.38.115:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="232371" tvg-name="Cinecanal.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png", Cinecanal.ar
 http://181.209.38.115:8000/play/a00w/index.m3u8
 
-#EXTINF:-1 tvg-id="232354" tvg-name="Cinemax.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png", Cinemax.ar
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax.co" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png", Cinemax.co
 http://186.33.57.100:8000/play/a2ap/index.m3u8
 
 #EXTINF:-1 tvg-id="232342" tvg-name="FX.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png", FX.ar
