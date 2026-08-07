@@ -359,19 +359,70 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/xv3tno
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/o09knwldwh/out/v1/15f9f74c888e4fdd9815ea94635ae4db/cenc.mpd
 
 
-#EXTINF:-1 tvg-logo="", WARNER CHANNEL.mx
+#EXTINF:-1 tvg-logo="", Globo.ar
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bcfe92161ae5c20d6ffec80cbad9f74b:6e74e556df5223c5a5102d4846b5670a
+https://live1-ott.izzigo.tv/13/out/u/dash/TV-GLOBO-SD/default.mpd
+
+#EXTINF:-1 tvg-logo="", UNIVERSAL CHANNEL.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=840bcd9ffdd5721c40b0ade4d9b68246:d19d330de1f428d1902bc1629a65c0bf
+https://live1-ott.izzigo.tv/14/out/u/dash/UNIVERSAL-CHANNEL-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="", WARNER.mx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a62d210f0f907a0ebfb84a790d42780b:590779be25e38a41d817f6ad13f5b070
 https://live1-ott.izzigo.tv/15/out/u/dash/WARNER-HD/default.mpd
 
-#EXTINF:-1 tvg-logo="", UNIVERSAL.MX
+#EXTINF:-1 tvg-logo="", STAR CHANNEL.mx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=840bcd9ffdd5721c40b0ade4d9b68246:d19d330de1f428d1902bc1629a65c0bf
-https://live1-ott.izzigo.tv/14/out/u/dash/UNIVERSAL-CHANNEL-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=b482bd74b9fccb810bf94a3b3732c0f9:9207af2617ac4df3ee6860719a53eb8b
+https://live1-ott.izzigo.tv/12/out/u/dash/STAR-CHANNEL-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="", GOLDEN.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc0e4c7dfb10d483357572000180cca5:247351382fcd721f2872c4bda15c5245
+https://live1-ott.izzigo.tv/13/out/u/dash/GOLDEN-SD/default.mpd
+
+#EXTINF:-1 tvg-logo="", GOLDEN EDGE.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=98aa90cb620b972a0d0d66a51cdaca56:6e8bd53378356ed7f5103d91efb5e54e
+https://live1-ott.izzigo.tv/13/out/u/dash/GOLDEN-EDGE-SD/default.mpd
+
+#EXTINF:-1 tvg-logo="", TNT.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d764404feb21d09fab3a9b752eb8eaa:bc9772714ccc6df4e384f8bc7f600204
+https://live1-ott.izzigo.tv/12/out/u/dash/TNT-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="", CINEMAX.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa6d1b52dd986d8faab9cca6adb8874b:6022259ba9edb1fe66b4507b51e1c12f
+https://live1-ott.izzigo.tv/15/out/u/dash/CINEMAX-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="", CINECANAL.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e87d24ed7b54576895548ffa65eab1d:1e5d7c9e67248af38e48ec56d2241507
+https://live1-ott.izzigo.tv/14/out/u/dash/CINECANAL-HD/default.mpd
+
+
 
 
 
