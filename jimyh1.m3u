@@ -293,6 +293,12 @@ http://181.224.255.210:8001/play/a0m8/index.m3u8
 #EXTVLCOPT:http-header=Connection:Keep-Alive
 http://tv.m3uts.xyz/stream/secure/T_-bCN43/1006.m3u8
 
+#EXTINF:-1 tvg-logo="-1", hbo.ar
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5e43e324b6cd33b92c9ac8c398bb3c8:c8c7f804f0ecfc8fc0d53dff48d7ece1
+https://live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
 
 
 
