@@ -292,22 +292,6 @@ http://181.224.255.210:8001/play/a0m8/index.m3u8
 #EXTVLCOPT:http-header=Connection:Keep-Alive
 http://tv.m3uts.xyz/stream/secure/T_-bCN43/1006.m3u8
 
-#EXTINF:-1 tvg-logo="-1", hbo.ar
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e5e43e324b6cd33b92c9ac8c398bb3c8:c8c7f804f0ecfc8fc0d53dff48d7ece1
-https://live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
-
-
-
-#EXTINF:-1  tvg-name="Cinemax" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png", Cinemax Premium
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf813dc4a32e0e9bcbce4446a65f4b12:eb9973b1a30c76812aa7ca8864b6a3c1
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd
-
 #EXTINF:-1 tvg-id="1159" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Mas vistos",Cine 2025
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=2000
@@ -330,23 +314,17 @@ http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://cloverchannel.com/wp-content/uploads/2024/11/Clover_7.png.webp", Clover.pe
 http://45.188.229.33:8000/play/a1ka/index.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/legacy/2016/LOGO-MAX-PRIME.jpg", MAX PRIME.mx
+#EXTINF:-1 tvg-logo="", Max Prime
 http://190.211.172.203:4000/play/a0xu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://megacable.com.mx/images/canales/thumbs/458_multicinema_imagen_1718839802.png", Multicinema
 http://200.229.147.210:9999/play/a05k/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multipremier-mediano.png", Multipremier.pe
 http://24.152.54.30:8085/play/a042/index.m3u8
 
 #EXTINF:-1 tvg-logo="", Cine Prime
 http://190.61.114.186:8000/play/a04u/index.m3u8
-
-#EXTINF:-1 tvg-logo="", AVI Accion
-http://45.239.31.254:8000/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-logo="", AVI
 http://181.78.121.15:8000/play/a00f/index.m3u8
