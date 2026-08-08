@@ -633,6 +633,30 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/lsilniwjf7/out/v1/fc40
 #KODIPROP:inputstream.adaptive.license_key=0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd
 
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-id="230937" tvg-name="America.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina-mediano.png", America.ar
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
+#EXTINF:-1 tvg-id="230938" tvg-name="TVPublica.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/television_publica_argentina-mediano.png", TVPublica.ar
+https://g4.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="232330" tvg-name="El Nueve.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_argentina-mediano.png", El Nueve.ar
+http://15.204.246.24:8080/elnueveHD/index.m3u8
+
+#EXTINF:-1 tvg-id="232408" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
+http://45.188.229.33:8000/play/a1cl/index.m3u8
+
+#EXTINF:-1 tvg-id="232332" tvg-name="El Trece.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina-mediano.png", El Trece.ar
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8|referer=https://www.eltrecetv.com.ar/
+
+#EXTINF:-1 tvg-id="279595" tvg-name="Net TV.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-YUPtSgpB6hX1BHQt7tH8GNazZoo3jT7_cg&s", Net TV.ar
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="", HGTV.mx
 #KODIPROP:inputstream=inputstream.adaptive
@@ -658,7 +682,7 @@ https://live1-ott.izzigo.tv/13/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.m
 https://live1-ott.izzigo.tv/13/out/u/dash/E-Entertainment-HD/default.mpd
 
 
-#EXTINF:-1 tvg-logo="", TLC.mx
+#EXTINF:-1 tvg-logo="", DISCOVERY TLC.mx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -698,12 +722,157 @@ https://live1-ott.izzigo.tv/11/out/u/dash/HOLA-TV-HD/default.mpd
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="", DISCOVERY CHANNEL HD.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f2c6d8a46280fe52bf23c5eff6b9abc:85f45d230efd697375da7b373e682053
+https://live1-ott.izzigo.tv/13/out/u/dash/DISCOVERY-CHANNEL-HD/default.mpd
+
+
+#EXTINF:-1 tvg-logo="", NATIONAL GEOGRAPHIC.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=157c0fb2bfdc323521d52ab43b7fa131:6c4af37b6abc72cbcd91aa7716968336
+https://live1-ott.izzigo.tv/14/out/u/dash/NAT-GEO-HD/default.mpd
+
+
+#EXTINF:-1 tvg-logo="", HISTORY.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1264e3667616b52060028be25404d6a4:470720a6152157a5d3c5de89de1b909c
+https://live1-ott.izzigo.tv/15/out/u/dash/HISTORY-CHANNEL-HD/default.mpd
+
+
+#EXTINF:-1 tvg-logo="", HISTORY2.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14402e6154aafa2b79408ea5c1651b1c:6a38619d21191891d09b357a6b1cabd1
+https://live1-ott.izzigo.tv/13/out/u/dash/HISTORY-2-HD/default.mpd
+
+
+#EXTINF:-1 tvg-logo="", ANIMAL PLANET.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecc518be0092c0ed80d8b1eeb243c5b6:7292a98762ff0ce0cf7ab33158f95ecf
+https://live1-ott.izzigo.tv/12/out/u/dash/ANIMAL-PLANET-HD/default.mpd
+ 
+
+#EXTINF:-1 tvg-logo="", DISCOVERY TURBO.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4bae4a7baa977c5b1a253adc589b6a7:ed5aa984b371395293b2c2a27125509c
+https://live1-ott.izzigo.tv/14/out/u/dash/DISCOVERY-TURBO-HD/default.mpd
+
+
+#EXTINF:-1 tvg-logo="", DISCOVERY WORLD.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff9f289f4bad2b970deb5b9d56acb84a:8f920a61965245ffac8bb0c698845ff5
+https://live1-ott.izzigo.tv/12/out/u/dash/DISCOVERY-WORLD-HD/default.mpd
+
+
+#EXTINF:-1 tvg-logo="", DISCOVERY THEATER.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6fa84513dfc29251a24917125905d8b:54124304e26cb27f4d0f51b126829e30
+https://live1-ott.izzigo.tv/12/out/u/dash/DISCOVERY-THEATER-HD/default.mpd
+ 
+
+#EXTINF:-1 tvg-logo="", DISCOVERY SCIENCE.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6a1dfce06caf463d29b91fc890baad1:4ce50c2ee03a4fbec5ddbf57bc8e6c8b
+https://live1-ott.izzigo.tv/14/out/u/dash/DISCOVERY-SCIENCE-HD/default.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="", DISNEY.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f047ea1abdca6f03117454c4de0b6d5b:b038c8c8f114c568956d428e80ae38d7
+https://live1-ott.izzigo.tv/12/out/u/dash/DISNEY-CHANNEL-HD/default.mpd
+
+
+#EXTINF:-1 tvg-logo="", DISNEY JR.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d41d2ae9b0d875ba12e97c5a3f3eec82:3a443892e1ad1158c6fd2bf9c9146eb6
+https://live1-ott.izzigo.tv/15/out/u/dash/DISNEY-JR-HD/default.mpd
+ 
+
+#EXTINF:-1 tvg-logo="", CARTOON NETWORK.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85d06ba283f3b18bb14f9f8d59b8fb82:6659fed472544289adee986c1d33fa79
+https://live1-ott.izzigo.tv/14/out/u/dash/CARTOON-NETWORK-HD/default.mpd
+ 
+
+#EXTINF:-1 tvg-logo="", DISCOVERY KIDS.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9201c07931b74c37c4e30a9e96b64c30:8e1ce4f1b1185f64e42f9974cbad1442
+https://live1-ott.izzigo.tv/11/out/u/dash/DISCOVERY-KIDS-HD/default.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="", HBO.mx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e5e43e324b6cd33b92c9ac8c398bb3c8:c8c7f804f0ecfc8fc0d53dff48d7ece1
 https://live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd
+
+#EXTINF:-1 tvg-id="232487" tvg-name="HBO Plus.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png", HBO Plus.ar
+http://181.119.215.61:8000/play/a0l4/index.m3u8
+
+#EXTINF:-1 tvg-id="232363" tvg-name="HBO 2.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png", HBO 2.ar
+http://181.119.86.1:8000/play/a048
+
+#EXTINF:-1 tvg-id="232486" tvg-name="HBO Family.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png", HBO Family.ar
+http://181.224.255.210:8001/play/a0nv/index.m3u8
+
+#EXTINF:-1 tvg-id="232517" tvg-name="HBO Xtreme.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png", HBO Xtreme.ar
+http://38.43.132.201:8000/play/a0pc/index.m3u8
+
+#EXTINF:-1 tvg-id="312165" tvg-name="HBO Pop.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png", HBO Pop.ar
+http://181.224.255.210:8001/play/a0on/index.m3u8
+
+#EXTINF:-1 tvg-id="232488" tvg-name="HBO Mundi.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png", HBO Mundi.ar
+http://181.224.255.210:8001/play/a0rf/index.m3u8
+
+#EXTINF:-1 tvg-id="232406" tvg-name="HBO Signature.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png", HBO Signature.ar
+http://181.224.255.210:8001/play/a0re/index.m3u8
 
 
 
@@ -778,7 +947,8 @@ https://live1-ott.izzigo.tv/13/out/u/dash/SONY-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=d6c0b2a5a6d7aa72f6f76f3607364cea:29772b450393146e8d1b56107f5163a2
 https://live1-ott.izzigo.tv/14/out/u/dash/SONY-MOVIES-HD/default.mpd
 
-
+#EXTINF:-1 tvg-id="321153" tvg-name="SONY CINE.mx" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es", SONY CINE.mx
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="", TNT.mx
 #KODIPROP:inputstream=inputstream.adaptive
@@ -810,13 +980,11 @@ https://live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=44a9e6477651b3b47f3a2b727d562835:1b87070d9fad5dee0a35ff014a2063a7
 https://live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-CINEMA-HD/default.mpd
 
+#EXTINF:-1 tvg-id="279643" tvg-name="Golden.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png", Golden.ar
+http://190.60.37.118:4000/play/a08t
 
-#EXTINF:-1 tvg-logo="", GOLDEN.mx
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc0e4c7dfb10d483357572000180cca5:247351382fcd721f2872c4bda15c5245
-https://live1-ott.izzigo.tv/13/out/u/dash/GOLDEN-SD/default.mpd
+#EXTINF:-1 tvg-id="232347" tvg-name="Golden Edge.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png", Golden Edge.ar
+http://181.225.190.242:8000/play/a01w
 
 #EXTINF:-1 tvg-logo="", GOLDEN PLUS.mx
 #KODIPROP:inputstream=inputstream.adaptive
@@ -839,6 +1007,24 @@ https://live1-ott.izzigo.tv/15/out/u/dash/WARNER-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=23ca6a142d580eb99bd14dda4b023b5d:d0534260b536e85d76efe8576afcf473
 https://live1-ott.izzigo.tv/11/out/u/dash/EUROPA-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-channel.png", ENT Channel
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-family.png", ENT Family
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://fmh.la/img/logo_movies.png", FMH Movies
+http://38.211.145.109:8000/play/a042/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://fmh.la/img/logo_family.png", FMH Family
+http://38.211.145.109:8000/play/a046/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="281940" tvg-name="Cine Premium" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png", Cine Premium
+https://telco.apk-media.edge-apps.net/hls/d4bhf-fflam-b5fon-7kcff.m3u8
+
+#EXTINF:-1 tvg-id="232374" tvg-name="Cine Familar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc6pEKlp2kZH2pKqF5chstFSTwZy5H8P8sBw&s", Cine Familar
+https://telco.apk-media.edge-apps.net/hls/14nj5-o3nib-lfdgo-ha1ib.m3u8
  
 
 #EXTINF:-1 tvg-logo="", USA NETWORK.mx
@@ -888,6 +1074,187 @@ https://live1-ott.izzigo.tv/13/out/u/dash/AXN-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=02a02bce7a3c518386e0da4e5ec0188d:071c7cc4c2f33e1e2d3fa3807d1bbbcc
 https://live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd
+
+
+#EXTINF:-1 tvg-id="1159" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Mas vistos",Cine 2025
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=2000
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTVLCOPT:http-referrer=http://ts1.tvcluboficial.com
+#EXTVLCOPT:http-header=X-App:di
+#EXTVLCOPT:http-header=X-Version:10/1.0.9
+#EXTVLCOPT:http-header=X-Hash=LCanxF9D42z-2eRKFLlFkH5_mGs6KZiI2kXm-2rFJJ6j1dU6nAxaGhg9B5w-8bs3LpFlEfynRAa7trY_msvJ9A-Pw-gTu72dZZ-VXnzpZ3ipV8VxM_7rOCduL6qMf_bHoEqu-aAbQmKwMIWY4TqpMneEaL1wqiSw4lO424WdcCqn__wRG3-TVwZBuXAaew-NtidiJBxUPQ-35BZMfGv9pAsAZB9AUjZugPFJfLdb_hrbPBW0umRZGorAPSce57PKz6xCLCKqkjhHNzA_AQeuoWkiFViOVcRvDIUiX_tirmm3NHSrM6RPdpyjZVMOLQaUHBAakCg_9bUvm-OvmPLzYCZqRvJq0L6WECwUg-2ESGPyJ6fCk1r_N-b2t7zMZgz8rbXt-F5vi31dX0UibpFZfmbZMEdPtmuYR0ibUh0Lf325fhv-SxXuF1z2V94VM1SsCigEgQuL8kubHCZ3CcdoYdtQsaLB9tdHj8BIJ9hTwYN4WTm5HYG8_ARWaT1MU17jGk1EDFR4J8UAlSpeeLPSu0auBhFI_qeEvyHpUkPQvDyuiysY_9jpbyCXCpGJkt3PyQuyhvm_fy-910hF9bRmXFVHXP7nG7RI-7qck1t63JepBgKRRylke9ieDN_NyotF
+#EXTVLCOPT:http-header=X-Did=37ab0879dbae63a4
+#EXTVLCOPT:http-header=Connection:Keep-Alive
+http://tv.m3uts.xyz/stream/secure/T_-bCN43/1159.m3u8
+
+#EXTINF:-1 tvg-logo="", Movie Acces
+http://45.5.118.188:8000/play/a06g/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Nitro.svg/1920px-Nitro.svg.png", Nitro
+http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://cloverchannel.com/wp-content/uploads/2024/11/Clover_7.png.webp", Clover.pe
+http://45.188.229.33:8000/play/a1ka/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Max Prime
+http://190.211.172.203:4000/play/a0xu/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://megacable.com.mx/images/canales/thumbs/458_multicinema_imagen_1718839802.png", Multicinema
+http://200.229.147.210:9999/play/a05k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multipremier-mediano.png", Multipremier.pe
+http://24.152.54.30:8085/play/a042/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Cine Prime
+http://190.61.114.186:8000/play/a04u/index.m3u8
+
+#EXTINF:-1 tvg-logo="", AVI
+http://181.78.121.15:8000/play/a00f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_5SWgu8sXFUNWQ3La5CDUbHGTTwpS6aRPfHuRFmAnhB5O-6xZNNGIMNdx&s=10", Rewinds
+http://201.187.96.54:8000/play/104
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Cinema_Platino_%282025%29.png/revision/latest/scale-to-width-down/340?cb=20251024020326", Cinema Platino
+http://181.78.15.155:9800/play/a00e
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="232409" tvg-name="TN.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/todo_notcias-mediano.png", TN.ar
+http://planettvweb.com:8091/Carmen65/RMap9748d/11839
+
+#EXTINF:-1 tvg-id="232375" tvg-name="C5N.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/c5n-mediano.png", C5N.ar
+http://planettvweb.com:8091/Carmen65/RMap9748d/11863
+
+#EXTINF:-1 tvg-id="232335" tvg-name="Cronica Tv.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cronica_television-mediano.png", Cronica Tv.ar
+https://m3ukodiiptv.alwaysdata.net/root/youtube/yt_stream.php?id=https://www.youtube.com/watch?v=hw4uHyct4vg
+
+#EXTINF:-1 tvg-id="280093" tvg-name="La Nacion+.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_nacion_mas-mediano.png", La Nacion+.ar
+https://m3ukodiiptv.alwaysdata.net/root/youtube/yt_stream.php?id=https://www.youtube.com/watch?v=FEWZjXJ7M0c
+
+#EXTINF:-1 tvg-id="232378" tvg-name="Canal 26.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/26_de_argentina-mediano.png", Canal 26.ar
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+#EXTINF:-1 tvg-id="232376" tvg-name="A24.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_24-mediano.png", A24.ar
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+ 
+
+
+
+
+
+#EXTINF:-1 tvg-id="281933" tvg-name="France 24 en Español.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png", France 24 en Español.ar
+https://live.france24.com/live/F24_ES_HI_HLS/playlist.m3u8?hdnts=exp=1685952438~acl=/live/F24_ES_HI_HLS/*~id=distribution~hmac=f4e4caad32c493898c0d06d4de0850be8c2501790f3aa716e65d6e011641fbfa&partner=dish-mexico&PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo="", Bbc World News.ar
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f254df8628d9aa549e8280df8e844817:2f4d4f09cee314824fa702e5a59a43cf
+https://live1-ott.izzigo.tv/15/out/u/dash/BBC-NEWS-HD/default.mpd
+
+
+
+#EXTINF:-1 tvg-logo="", CNN EN ESPAÑOL.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3a704793810e4848980bf8ebe11ba72:8a761310bfa7436136729b23ea590185
+https://live1-ott.izzigo.tv/13/out/u/dash/CNN-EN-ESPANOL-SD/default.mpd
+ 
+
+#EXTINF:-1 tvg-logo="", TV 5 Monde.uy
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb80d09d70628c20bb91cf65a195e1f9:6115b75f155d1a7a686a525fbd6ca2f6
+https://live1-ott.izzigo.tv/13/out/u/dash/TV5-SD/default.mpd
+
+
+
+#EXTINF:-1 tvg-logo="", TV Globo.ar
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bcfe92161ae5c20d6ffec80cbad9f74b:6e74e556df5223c5a5102d4846b5670a
+https://live1-ott.izzigo.tv/13/out/u/dash/TV-GLOBO-SD/default.mpd
+
+
+
+
+#EXTINF:-1 tvg-id="232505" tvg-name="Dw Español.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/deutsche_welle-mediano.png", Dw Español.ar
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="",  Rai Italia.ar
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=65b6395665d92c16e12f202c9480c425:eda358f71a474029f1580327ae6766e1
+https://live1-ott.izzigo.tv/15/out/u/dash/RAI-HD/default.mpd
+ 
+
+#EXTINF:-1 tvg-logo="", ANTENA 3.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bcfe92161ae5c20d6ffec80cbad9f74b:6e74e556df5223c5a5102d4846b5670a
+https://live1-ott.izzigo.tv/15/out/u/dash/ANTENA-3-HD/default.mpd
+
+
+
+#EXTINF:-1 tvg-id="232369" tvg-name="TVE.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tve_internacional-mediano.png", TVE.ar
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+
+#EXTINF:-1 tvg-logo="", TELEMUNDO.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=87234ef8a0328b000941fd18bd75d78e:2bbbeb8783509a4e77e3b79cd7b1869f
+https://live1-ott.izzigo.tv/13/out/u/dash/TELEMUNDO-HD/default.mpd
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="312889" tvg-name="Retroclub" tvg-logo="", Retro Music TV
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="", MTV.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac11ba753fcabc56b965e1801ff8df19:64a7852cc7737515ac71c017f03fdd32
+https://live1-ott.izzigo.tv/12/out/u/dash/MTV-HD/default.mpd
+
+
+
+#EXTINF:-1 tvg-logo="", TELEHIT.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ed36c5f7d0775e21f0748dd17520bc9:654256cc5939f6d502969b4fbbc47286
+https://live1-ott.izzigo.tv/15/out/u/dash/TELEHIT-SD/default.mpd
+
+
+#EXTINF:-1 tvg-logo="", STINGRAY CONCERTS HD.co
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c361a0f2a76761e14179c991a369efa:194e5b2c55ab9a77f41ab0907b9c6e27
+https://live1-ott.izzigo.tv/15/out/u/dash/SKY-STINGRAY-CONCERT-HD/default.mpd
+
+
+
+
+
+
 
 
 
