@@ -41,7 +41,7 @@ https://live1-ott.izzigo.tv/13/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.m
 #KODIPROP:inputstream.adaptive.license_key=66a5d89630a3e2263f63f42221a4f3e8:362b8d4aa289042e473ed064a722611b
 https://live1-ott.izzigo.tv/13/out/u/dash/E-Entertainment-HD/default.mpd
 
-#EXTINF:-1 tvg-id="279601" tvg-name="TLC.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png", TLC.ar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png", DISCOVERY TLC.mx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -383,14 +383,14 @@ https://telco.apk-media.edge-apps.net/hls/14nj5-o3nib-lfdgo-ha1ib.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png", Syfy.mx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png", USA NETWORK.mx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c760bcb13f83a8d66f4c676f04c23d81:e024f5099f059ce93607812e5b406360
 https://live1-ott.izzigo.tv/15/out/u/dash/USA-HD/default.mpd
 
-#EXTINF:-1 tvg-id="279644" tvg-name="DHE.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png", DHE.ar
+#EXTINF:-1 tvg-id="279644" tvg-name="DHE.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png", DHE.co
 http://179.1.225.6:8000/play/a0l8/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png", film&arts.mx
@@ -545,7 +545,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #KODIPROP:inputstream.adaptive.license_key=65b6395665d92c16e12f202c9480c425:eda358f71a474029f1580327ae6766e1
 https://live1-ott.izzigo.tv/15/out/u/dash/RAI-HD/default.mpd
 
-#EXTINF:-1 tvg-id="232368" tvg-name="Antena 3.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/antena_3-mediano.png", Antena 3.ar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/antena_3-mediano.png", ANTENA 3.mx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
