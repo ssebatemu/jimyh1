@@ -27,14 +27,14 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-id="279596" tvg-name="HGTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png", HGTV.ar
 http://45.188.229.33:8000/play/a11r/index.m3u8
 
-#EXTINF:-1 tvg-id="279597" tvg-name="DiscoveryHomeAndHealth.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png", DiscoveryHomeAndHealth.ar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png", Discovery Home & Health.mx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0765f676e30b1b98386230b52eed3518:326266d16296e3bbe1dfcc274853dadb
 https://live1-ott.izzigo.tv/13/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.mpd
 
-#EXTINF:-1 tvg-id="279599" tvg-name="E! Entertainment.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png", E! Entertainment.ar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png", E!.mx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -80,7 +80,7 @@ https://live1-ott.izzigo.tv/11/out/u/dash/HOLA-TV-HD/default.mpd
 
 
 
-#EXTINF:-1 tvg-id="232339" tvg-name="Discovery.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png", Discovery.ar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png", Discovery HD.mx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -94,7 +94,7 @@ https://live1-ott.izzigo.tv/13/out/u/dash/DISCOVERY-CHANNEL-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=157c0fb2bfdc323521d52ab43b7fa131:6c4af37b6abc72cbcd91aa7716968336
 https://live1-ott.izzigo.tv/14/out/u/dash/NAT-GEO-HD/default.mpd
 
-#EXTINF:-1 tvg-id="232337" tvg-name="History.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/historia_espana-mediano.png", History.ar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/historia_espana-mediano.png", History HD.mx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -108,7 +108,7 @@ https://live1-ott.izzigo.tv/15/out/u/dash/HISTORY-CHANNEL-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=14402e6154aafa2b79408ea5c1651b1c:6a38619d21191891d09b357a6b1cabd1
 https://live1-ott.izzigo.tv/13/out/u/dash/HISTORY-2-HD/default.mpd
 
-#EXTINF:-1 tvg-id="232338" tvg-name="Animal Planet.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet_latinoamerica-mediano.png", Animal Planet.ar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet_latinoamerica-mediano.png", Animal Planet.mx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
