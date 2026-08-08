@@ -569,14 +569,26 @@ http://132.255.210.69:9000/play/a06i/index.m3u8
 #EXTINF:-1 tvg-id="312889" tvg-name="Retroclub" tvg-logo="", Retro Music TV
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="279546" tvg-name="MTV.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mtv-mediano.png", MTV.ar
-http://181.224.255.210:8001/play/a0f9/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mtv-mediano.png", MTV.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac11ba753fcabc56b965e1801ff8df19:64a7852cc7737515ac71c017f03fdd32
+https://live1-ott.izzigo.tv/12/out/u/dash/MTV-HD/default.mpd
 
-#EXTINF:-1 tvg-id="232410" tvg-name="TeleHit" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telehit_musica-mediano.png", Telehit.pe
-http://200.115.120.1:8000/play/ca093/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telehit_musica-mediano.png", TELEHIT.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ed36c5f7d0775e21f0748dd17520bc9:654256cc5939f6d502969b4fbbc47286
+https://live1-ott.izzigo.tv/15/out/u/dash/TELEHIT-SD/default.mpd
 
-#EXTINF:-1 tvg-id="279636" tvg-name="Stingray Concerts" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw4Sy8E1u9v1cw1goRM0i3nUKecEXlRlWNMQ&s", STINGRAY CONCERTS HD.co
-http://190.93.229.30:8000/play/a07t/index.m3u8?hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw4Sy8E1u9v1cw1goRM0i3nUKecEXlRlWNMQ&s", STINGRAY CONCERTS HD.co
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c361a0f2a76761e14179c991a369efa:194e5b2c55ab9a77f41ab0907b9c6e27
+https://live1-ott.izzigo.tv/15/out/u/dash/SKY-STINGRAY-CONCERT-HD/default.mpd
 
 
 
