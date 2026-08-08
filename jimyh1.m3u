@@ -1251,7 +1251,8 @@ https://live1-ott.izzigo.tv/15/out/u/dash/TELEHIT-SD/default.mpd
 https://live1-ott.izzigo.tv/15/out/u/dash/SKY-STINGRAY-CONCERT-HD/default.mpd
 
 
-
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/COCINA.png" group-title="┃ES┃ ESTILO DE VIDA",┃ES┃ CANAL COCINA UHD 4K
+http://nexusconnects.org:80/play/live.php?mac=00:1B:79:35:03:89&stream=897218&extension=ts&play_token=qQLnwEUM7v
 
 
 
