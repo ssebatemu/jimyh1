@@ -526,8 +526,12 @@ https://live.france24.com/live/F24_ES_HI_HLS/playlist.m3u8?hdnts=exp=1685952438~
 #EXTINF:-1 tvg-id="322677" tvg-name="Bbc World News.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bbc_world_news-mediano.png", Bbc World News.ar
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 
-#EXTINF:-1 tvg-id="281932" tvg-name="Cnn en Español.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png", Cnn en Español.ar
-http://181.224.255.210:8001/play/a0q1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png", CNN EN ESPAÑOL.mx
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3a704793810e4848980bf8ebe11ba72:8a761310bfa7436136729b23ea590185
+https://live1-ott.izzigo.tv/13/out/u/dash/CNN-EN-ESPANOL-SD/default.mpd
 
 #EXTINF:-1 tvg-id="322678" tvg-name="TV5 Monde" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tv5monde-mediano.png", TV 5 Monde.uy
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8?hdnea=st%3D1780609158~exp%3D1780616358~acl%3D%2F%2A~hmac%3D948e22c7b30ca551a5b9085b41dc6d35883579e3446d046118368888513e8877&PlaylistM3UCL
@@ -555,11 +559,13 @@ https://live1-ott.izzigo.tv/15/out/u/dash/ANTENA-3-HD/default.mpd
 #EXTINF:-1 tvg-id="232369" tvg-name="TVE.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tve_internacional-mediano.png", TVE.ar
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/930x400/la_1_372x160.png",La 1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&preroll_duration=30&preroll=1
 
 #EXTINF:-1 tvg-id="333513" tvg-name="Telemundo " tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png", TELEMUNDO.mx
-http://132.255.210.69:9000/play/a06i/index.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=87234ef8a0328b000941fd18bd75d78e:2bbbeb8783509a4e77e3b79cd7b1869f
+https://live1-ott.izzigo.tv/13/out/u/dash/TELEMUNDO-HD/default.mpd
 
 
 
