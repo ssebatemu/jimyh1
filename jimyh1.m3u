@@ -48,7 +48,7 @@ https://live1-ott.izzigo.tv/13/out/u/dash/E-Entertainment-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=42ca82249b49382dd7156dd18a292e8c:7c26bb855d762211182e7eac31376aee
 https://live1-ott.izzigo.tv/11/out/u/dash/TLC-HD/default.mpd
 
-#EXTINF:-1 tvg-id="232343" tvg-name="TNT Novelas.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png", TNT Novelas.ar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png", TNT NOVELAS.mx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -62,7 +62,7 @@ https://live1-ott.izzigo.tv/11/out/u/dash/TNT-NOVELAS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=a7f17a97ad60b44791b59611754cee68:6aaa00f8c250cf28a10ce84b8748ea94
 https://live1-ott.izzigo.tv/14/out/u/dash/AMC-SERIES-HD/default.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png", Lifetime.co
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png", LIFETIME.mx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -101,7 +101,7 @@ https://live1-ott.izzigo.tv/14/out/u/dash/NAT-GEO-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=1264e3667616b52060028be25404d6a4:470720a6152157a5d3c5de89de1b909c
 https://live1-ott.izzigo.tv/15/out/u/dash/HISTORY-CHANNEL-HD/default.mpd
 
-#EXTINF:-1 tvg-id="280094" tvg-name="History 2.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png", History 2.ar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png", H2.mx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -115,7 +115,7 @@ https://live1-ott.izzigo.tv/13/out/u/dash/HISTORY-2-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=ecc518be0092c0ed80d8b1eeb243c5b6:7292a98762ff0ce0cf7ab33158f95ecf
 https://live1-ott.izzigo.tv/12/out/u/dash/ANIMAL-PLANET-HD/default.mpd
 
-#EXTINF:-1 tvg-id="232495" tvg-name="Discovery Turbo.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png", Discovery Turbo.ar
+#EXTINF:-1 tvg-id="232495" tvg-name="Discovery Turbo.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png", DISCOVERY TURBO.mx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -148,35 +148,35 @@ https://live1-ott.izzigo.tv/14/out/u/dash/DISCOVERY-SCIENCE-HD/default.mpd
 
 
 
-#EXTINF:-1 tvg-id="279608" tvg-name="Disney Channel.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png", Disney Channel.ar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png", Disney Channel.mx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f047ea1abdca6f03117454c4de0b6d5b:b038c8c8f114c568956d428e80ae38d7
 https://live1-ott.izzigo.tv/12/out/u/dash/DISNEY-CHANNEL-HD/default.mpd
 
-#EXTINF:-1 tvg-id="279609" tvg-name="Disney Junior.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_junior-mediano.png", Disney Junior.ar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/disney_junior-mediano.png", Disney Junior.mx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d41d2ae9b0d875ba12e97c5a3f3eec82:3a443892e1ad1158c6fd2bf9c9146eb6
 https://live1-ott.izzigo.tv/15/out/u/dash/DISNEY-JR-HD/default.mpd
 
-#EXTINF:-1 tvg-id="279610" tvg-name="Cartoon Network.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png", Cartoon Network.ar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png", Cartoon Network.mx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=85d06ba283f3b18bb14f9f8d59b8fb82:6659fed472544289adee986c1d33fa79
 https://live1-ott.izzigo.tv/14/out/u/dash/CARTOON-NETWORK-HD/default.mpd
 
-#EXTINF:-1 tvg-id="279611" tvg-name="Cartoonito.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoonito-mediano.png", Cartoonito.ar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoonito-mediano.png", Cartoonito.mx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fc370ab08218da5dad9b9644f1df57b:1ddc60916c0efd29990cb1d319e7710a
 https://live1-ott.izzigo.tv/12/out/u/dash/CARTOONITO-HD/default.mpd
 
-#EXTINF:-1 tvg-id="279612" tvg-name="Discovery Kids.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png", Discovery Kids.ar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png", Discovery Kids.mx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -383,7 +383,7 @@ https://telco.apk-media.edge-apps.net/hls/14nj5-o3nib-lfdgo-ha1ib.m3u8
 
 
 
-#EXTINF:-1 tvg-id="305831" tvg-name="USA.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png", USA.ar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png", Syfy.mx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -393,7 +393,7 @@ https://live1-ott.izzigo.tv/15/out/u/dash/USA-HD/default.mpd
 #EXTINF:-1 tvg-id="279644" tvg-name="DHE.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png", DHE.ar
 http://179.1.225.6:8000/play/a0l8/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="279640" tvg-name="FilmAndArts.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png", FilmAndArts.ar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png", film&arts.mx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
