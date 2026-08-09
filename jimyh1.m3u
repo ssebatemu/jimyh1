@@ -621,8 +621,8 @@ http://190.60.37.118:4000/play/a00u
 #EXTINF:-1 tvg-id="281935" tvg-name="Travel XP" tvg-logo="https://images.ctfassets.net/8utyj17y1gom/6iDVdlKIVCvA8vN9vnwCZN/8af005c9f99de54b8c29047307f36c76/Desktop_TVChannelPage_Travel-XP.png", Travel XP
 http://186.33.61.182:8000/play/a07i/index.m3u8
 
-#EXTINF:-1 tvg-id="286914" tvg-name="Pluto Tv Viajes" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJmSr_2nh-srZ4VJcqXISdchMXICGb3DSjYW9m5ACnpN4BfoLT_8WrK8IZCgMRo7VXZPg&usqp=CAU", Pluto Tv Viajes
-https://gdtvid.p2pplay.pro/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/s7iC9Pf9Z8x0fVc06li_PQ/miy/lodt95es/9zdcwq/tt/master.m3u8?v=1766826492
+#EXTINF:-1 tvg-id="286914" tvg-name="Pluto Estilos de vida" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJmSr_2nh-srZ4VJcqXISdchMXICGb3DSjYW9m5ACnpN4BfoLT_8WrK8IZCgMRo7VXZPg&usqp=CAU", Pluto Estilos de Vida
+http://chile.latamgo.xyz:80/play/2xsv8Kctp3B7O_gwUapvIZZEfVD2J7n8bE8HUXdvcGMgpypI9H0girrm2yykdgAW/m3u8
 
 #EXTINF:-1 tvg-id="232407" tvg-name="4k Travel TV" tvg-logo="https://stmify.com/wp-content/uploads/2024/11/354-s.webp", 4k Travel TV
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
