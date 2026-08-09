@@ -881,12 +881,34 @@ https://live1-ott.izzigo.tv/13/out/u/dash/SKY-LIVE-EVENT-8-HD/default.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Un nuevo día (2026)" tvg-logo="http://redworld.pro:8880/images/45f16ad7f5358bb6628069286007c316.jpg" group-title="peliculas",Spider-Man Un nuevo día 2026
 http://redworld.pro:8880/movie/56930330187f/LS8GggDfUfCj/548842.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="La Odisea (2026)" tvg-logo="http://redworld.pro:8880/images/06a2b8db413af1909a20a182be838229.jpg" group-title="peliculas",La Odisea 2026
 http://redworld.pro:8880/movie/56930330187f/LS8GggDfUfCj/548651.mp4
 
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K.png" group-title="4K UHD",|4K| LOVE NATURE UHD
+http://funnelsprout.live:80/play/live.php?mac=00:1A:79:B9:AA:33&stream=1284574&extension=ts&play_token=U28MELWdXv
 
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K.png" group-title="4K UHD",|4K| MUSEUM UHD
+http://funnelsprout.live:80/play/live.php?mac=00:1A:79:B9:AA:33&stream=1284573&extension=ts&play_token=tm7OdJ8Dpm
 
-
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K.png" group-title="4K UHD",|4K| SKY PRIMAFILA 1 UHD
+http://funnelsprout.live:80/play/live.php?mac=00:1A:79:B9:AA:33&stream=1284534&extension=ts&play_token=3BNkThz6I4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K.png" group-title="4K UHD",|4K| SKY PRIMAFILA 2 UHD
+http://funnelsprout.live:80/play/live.php?mac=00:1A:79:B9:AA:33&stream=1284533&extension=ts&play_token=LOYzmOANtp
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K.png" group-title="4K UHD",|4K| SKY PRIMAFILA 3 UHD
+http://funnelsprout.live:80/play/live.php?mac=00:1A:79:B9:AA:33&stream=1284532&extension=ts&play_token=YsM4cIPYJZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K.png" group-title="4K UHD",|4K| SKY PRIMAFILA 4 UHD
+http://funnelsprout.live:80/play/live.php?mac=00:1A:79:B9:AA:33&stream=1284531&extension=ts&play_token=WKNmiTKGuw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K.png" group-title="4K UHD",|4K| SKY PRIMAFILA 5 UHD
+http://funnelsprout.live:80/play/live.php?mac=00:1A:79:B9:AA:33&stream=1284530&extension=ts&play_token=Mkn8P6gs5r
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K.png" group-title="4K UHD",|4K| SKY PRIMAFILA 6 UHD
+http://funnelsprout.live:80/play/live.php?mac=00:1A:79:B9:AA:33&stream=1284529&extension=ts&play_token=XacBbBCL2s
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K.png" group-title="4K UHD",|4K| SKY PRIMAFILA 7 UHD
+http://funnelsprout.live:80/play/live.php?mac=00:1A:79:B9:AA:33&stream=1284528&extension=ts&play_token=QS2un7NM2B
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K.png" group-title="4K UHD",|4K| SKY PRIMAFILA 8 UHD
+http://funnelsprout.live:80/play/live.php?mac=00:1A:79:B9:AA:33&stream=1284527&extension=ts&play_token=BVFAylYTac
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K.png" group-title="4K UHD",|4K| SKY PRIMAFILA 9 UHD
+http://funnelsprout.live:80/play/live.php?mac=00:1A:79:B9:AA:33&stream=1284526&extension=ts&play_token=dznrgBFl6p
 
 
 
