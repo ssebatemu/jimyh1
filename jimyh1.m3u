@@ -879,7 +879,10 @@ https://live1-ott.izzigo.tv/15/out/u/dash/SKY-LIVE-EVENT-7-HD/default.mpd
 https://live1-ott.izzigo.tv/13/out/u/dash/SKY-LIVE-EVENT-8-HD/default.mpd
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Un nuevo día (2026)" tvg-logo="http://redworld.pro:8880/images/45f16ad7f5358bb6628069286007c316.jpg" group-title="peliculas",Spider-Man Un nuevo día 2026
+http://redworld.pro:8880/movie/56930330187f/LS8GggDfUfCj/548842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Odisea (2026)" tvg-logo="http://redworld.pro:8880/images/06a2b8db413af1909a20a182be838229.jpg" group-title="peliculas",La Odisea 2026
+http://redworld.pro:8880/movie/56930330187f/LS8GggDfUfCj/548651.mp4
 
 
 
