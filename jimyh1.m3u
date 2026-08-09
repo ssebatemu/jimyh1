@@ -226,7 +226,7 @@ http://181.209.38.115:8000/play/a00k/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e5e43e324b6cd33b92c9ac8c398bb3c8:c8c7f804f0ecfc8fc0d53dff48d7ece1
-https://live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+https://live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd
 
 
 #EXTINF:-1 tvg-id="232487" tvg-name="HBO Plus.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png", HBO Plus.ar
@@ -428,6 +428,19 @@ https://live1-ott.izzigo.tv/13/out/u/dash/AXN-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=02a02bce7a3c518386e0da4e5ec0188d:071c7cc4c2f33e1e2d3fa3807d1bbbcc
 https://live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd
 
+#EXTINF:-1 tvg-id="1099" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Mas vistos",Cine 2024
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=2000
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTVLCOPT:http-referrer=http://ts1.tvcluboficial.com
+#EXTVLCOPT:http-header=X-App:di
+#EXTVLCOPT:http-header=X-Version:10/1.0.9
+#EXTVLCOPT:http-header=X-Hash=LCanxF9D42z-2eRKFLlFkH5_mGs6KZiI2kXm-2rFJJ6j1dU6nAxaGhg9B5w-8bs3LpFlEfynRAa7trY_msvJ9A-Pw-gTu72dZZ-VXnzpZ3ipV8VxM_7rOCduL6qMf_bHoEqu-aAbQmKwMIWY4TqpMneEaL1wqiSw4lO424WdcCqn__wRG3-TVwZBuXAaew-NtidiJBxUPQ-35BZMfGv9pAsAZB9AUjZugPFJfLdb_hrbPBW0umRZGorAPSce57PKz6xCLCKqkjhHNzA_AQeuoWkiFViOVcRvDIUiX_tirmm3NHSrM6RPdpyjZVMOLQaUHBAakCg_9bUvm-OvmPLzYCZqRvJq0L6WECwUg-2ESGPyJ6fCk1r_N-b2t7zMZgz8rbXt-F5vi31dX0UibpFZfmbZMEdPtmuYR0ibUh0Lf325fhv-SxXuF1z2V94VM1SsCigEgQuL8kubHCZ3CcdoYdtQsaLB9tdHj8BIJ9hTwYN4WTm5HYG8_ARWaT1MU17jGk1EDFR4J8UAlSpeeLPSu0auBhFI_qeEvyHpUkPQvDyuiysY_9jpbyCXCpGJkt3PyQuyhvm_fy-910hF9bRmXFVHXP7nG7RI-7qck1t63JepBgKRRylke9ieDN_NyotF
+#EXTVLCOPT:http-header=X-Did=37ab0879dbae63a4
+#EXTVLCOPT:http-header=Connection:Keep-Alive
+http://tv.m3uts.xyz/stream/secure/T_-bCN43/1099.m3u8
+
 #EXTINF:-1 tvg-id="1159" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Mas vistos",Cine 2025
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=2000
@@ -440,6 +453,46 @@ https://live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd
 #EXTVLCOPT:http-header=X-Did=37ab0879dbae63a4
 #EXTVLCOPT:http-header=Connection:Keep-Alive
 http://tv.m3uts.xyz/stream/secure/T_-bCN43/1159.m3u8
+
+#EXTINF:-1 tvg-id="158" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Accion HD
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=2000
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTVLCOPT:http-referrer=http://ts1.tvcluboficial.com
+#EXTVLCOPT:http-header=X-App:di
+#EXTVLCOPT:http-header=X-Version:10/1.0.9
+#EXTVLCOPT:http-header=X-Hash=LCanxF9D42z-2eRKFLlFkH5_mGs6KZiI2kXm-2rFJJ6j1dU6nAxaGhg9B5w-8bs3LpFlEfynRAa7trY_msvJ9A-Pw-gTu72dZZ-VXnzpZ3ipV8VxM_7rOCduL6qMf_bHoEqu-aAbQmKwMIWY4TqpMneEaL1wqiSw4lO424WdcCqn__wRG3-TVwZBuXAaew-NtidiJBxUPQ-35BZMfGv9pAsAZB9AUjZugPFJfLdb_hrbPBW0umRZGorAPSce57PKz6xCLCKqkjhHNzA_AQeuoWkiFViOVcRvDIUiX_tirmm3NHSrM6RPdpyjZVMOLQaUHBAakCg_9bUvm-OvmPLzYCZqRvJq0L6WECwUg-2ESGPyJ6fCk1r_N-b2t7zMZgz8rbXt-F5vi31dX0UibpFZfmbZMEdPtmuYR0ibUh0Lf325fhv-SxXuF1z2V94VM1SsCigEgQuL8kubHCZ3CcdoYdtQsaLB9tdHj8BIJ9hTwYN4WTm5HYG8_ARWaT1MU17jGk1EDFR4J8UAlSpeeLPSu0auBhFI_qeEvyHpUkPQvDyuiysY_9jpbyCXCpGJkt3PyQuyhvm_fy-910hF9bRmXFVHXP7nG7RI-7qck1t63JepBgKRRylke9ieDN_NyotF
+#EXTVLCOPT:http-header=X-Did=37ab0879dbae63a4
+#EXTVLCOPT:http-header=Connection:Keep-Alive
+http://tv.m3uts.xyz/stream/secure/T_-bCN43/158.m3u8
+
+
+#EXTINF:-1 tvg-id="161" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Comedia
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=2000
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTVLCOPT:http-referrer=http://ts1.tvcluboficial.com
+#EXTVLCOPT:http-header=X-App:di
+#EXTVLCOPT:http-header=X-Version:10/1.0.9
+#EXTVLCOPT:http-header=X-Hash=LCanxF9D42z-2eRKFLlFkH5_mGs6KZiI2kXm-2rFJJ6j1dU6nAxaGhg9B5w-8bs3LpFlEfynRAa7trY_msvJ9A-Pw-gTu72dZZ-VXnzpZ3ipV8VxM_7rOCduL6qMf_bHoEqu-aAbQmKwMIWY4TqpMneEaL1wqiSw4lO424WdcCqn__wRG3-TVwZBuXAaew-NtidiJBxUPQ-35BZMfGv9pAsAZB9AUjZugPFJfLdb_hrbPBW0umRZGorAPSce57PKz6xCLCKqkjhHNzA_AQeuoWkiFViOVcRvDIUiX_tirmm3NHSrM6RPdpyjZVMOLQaUHBAakCg_9bUvm-OvmPLzYCZqRvJq0L6WECwUg-2ESGPyJ6fCk1r_N-b2t7zMZgz8rbXt-F5vi31dX0UibpFZfmbZMEdPtmuYR0ibUh0Lf325fhv-SxXuF1z2V94VM1SsCigEgQuL8kubHCZ3CcdoYdtQsaLB9tdHj8BIJ9hTwYN4WTm5HYG8_ARWaT1MU17jGk1EDFR4J8UAlSpeeLPSu0auBhFI_qeEvyHpUkPQvDyuiysY_9jpbyCXCpGJkt3PyQuyhvm_fy-910hF9bRmXFVHXP7nG7RI-7qck1t63JepBgKRRylke9ieDN_NyotF
+#EXTVLCOPT:http-header=X-Did=37ab0879dbae63a4
+#EXTVLCOPT:http-header=Connection:Keep-Alive
+http://tv.m3uts.xyz/stream/secure/T_-bCN43/161.m3u8
+
+#EXTINF:-1 tvg-id="179" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Romance HD
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=2000
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTVLCOPT:http-referrer=http://ts1.tvcluboficial.com
+#EXTVLCOPT:http-header=X-App:di
+#EXTVLCOPT:http-header=X-Version:10/1.0.9
+#EXTVLCOPT:http-header=X-Hash=LCanxF9D42z-2eRKFLlFkH5_mGs6KZiI2kXm-2rFJJ6j1dU6nAxaGhg9B5w-8bs3LpFlEfynRAa7trY_msvJ9A-Pw-gTu72dZZ-VXnzpZ3ipV8VxM_7rOCduL6qMf_bHoEqu-aAbQmKwMIWY4TqpMneEaL1wqiSw4lO424WdcCqn__wRG3-TVwZBuXAaew-NtidiJBxUPQ-35BZMfGv9pAsAZB9AUjZugPFJfLdb_hrbPBW0umRZGorAPSce57PKz6xCLCKqkjhHNzA_AQeuoWkiFViOVcRvDIUiX_tirmm3NHSrM6RPdpyjZVMOLQaUHBAakCg_9bUvm-OvmPLzYCZqRvJq0L6WECwUg-2ESGPyJ6fCk1r_N-b2t7zMZgz8rbXt-F5vi31dX0UibpFZfmbZMEdPtmuYR0ibUh0Lf325fhv-SxXuF1z2V94VM1SsCigEgQuL8kubHCZ3CcdoYdtQsaLB9tdHj8BIJ9hTwYN4WTm5HYG8_ARWaT1MU17jGk1EDFR4J8UAlSpeeLPSu0auBhFI_qeEvyHpUkPQvDyuiysY_9jpbyCXCpGJkt3PyQuyhvm_fy-910hF9bRmXFVHXP7nG7RI-7qck1t63JepBgKRRylke9ieDN_NyotF
+#EXTVLCOPT:http-header=X-Did=37ab0879dbae63a4
+#EXTVLCOPT:http-header=Connection:Keep-Alive
+http://tv.m3uts.xyz/stream/secure/T_-bCN43/179.m3u8
 
 #EXTINF:-1 tvg-logo="", Movie Acces
 http://45.5.118.188:8000/play/a06g/index.m3u8?hls
@@ -777,43 +830,6 @@ http://45.188.229.33:8000/play/a12h/index.m3u8
 
 #EXTINF:-1 tvg-id="319864" tvg-name="ESPN 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png", ESPN 7 HD.co
 http://45.188.229.33:8000/play/a190/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="", ESPN HD.mx
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4960f2aaf83f68144efc0d50422939d6:446b765a46c00d00eeac6d50c87ca678
-https://live1-ott.izzigo.tv/11/out/u/dash/ESPN-HD/default.mpd
-
-
-
-#EXTINF:-1 tvg-logo="", ESPN 2.mx
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=15d9d4703da265cffb80784f92c9f7b2:499b056f81abbb41015bfce6ab812d0e
-https://live1-ott.izzigo.tv/11/out/u/dash/ESPN-2-HD/default.mpd
-
-
-
-#EXTINF:-1 tvg-logo="", ESPN 3.mx
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3816a21af2bee4c815f1cb06f469f014:ae0ce866a21682c00eadf998e6c14003
-https://live1-ott.izzigo.tv/11/out/u/dash/ESPN-3-HD/default.mpd
- 
-
-
-
-
-#EXTINF:-1 tvg-logo="", ESPN+ HD.mx
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=061e235ee9adb89ec6b9079c1376a0df:eaad014534261886681fdbbdd676a4d4
-https://live1-ott.izzigo.tv/11/out/u/dash/ESPN-4-HD/default.mpd
 
 
 
