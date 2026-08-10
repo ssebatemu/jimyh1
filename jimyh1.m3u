@@ -233,6 +233,7 @@ https://live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd
 https://live1-ott.izzigo.tv/15/out/u/dash/HBO-PLUS-HD/default.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png", HBO 2.mx
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09e84fc7ecb71def143cd7e2771f3b35:1a91f2d315fb0593321ba60aa783ec2c
 https://live1-ott.izzigo.tv/15/out/u/dash/HBO-2-HD/default.mpd
 
