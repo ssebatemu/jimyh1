@@ -32,12 +32,7 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
  
 
-#EXTINF:-1 tvg-id="279596" tvg-name="HGTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png", HGTV.ar
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=df48ffcd5745ff43498dc58aea2e48f0:65cbdd2bb18093e8ac75662c262d6e0b
-https://live1-ott.izzigo.tv/14/out/u/dash/DISCOVERY-HOME-AND-GARDEN-HD/default.mpd
+
 
 #EXTINF:-1 tvg-id="279596" tvg-name="HGTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png", HGTV.ar
 http://45.188.229.33:8000/play/a11r/index.m3u8
@@ -294,9 +289,17 @@ https://live1-ott.izzigo.tv/15/out/u/dash/HBO-FAMILY-HD/default.mpd
 https://live1-ott.izzigo.tv/15/out/u/dash/HBO-XTREME-HD/default.mpd
 
 #EXTINF:-1 tvg-id="312165" tvg-name="HBO Pop.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png", HBO Pop.ar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
-https://live1-ott.izzigo.tv/15/out/u/dash/HBO-POP-HD/default.mpd
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=2000
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Magma Player/10
+#EXTVLCOPT:http-referrer=http://ts1.tvcluboficial.com
+#EXTVLCOPT:http-header=X-App:di
+#EXTVLCOPT:http-header=X-Version:10/1.0.9
+#EXTVLCOPT:http-header=X-Hash=LCanxF9D42z-2eRKFLlFkH5_mGs6KZiI2kXm-2rFJJ6j1dU6nAxaGhg9B5w-8bs3LpFlEfynRAa7trY_msvJ9A-Pw-gTu72dZZ-VXnzpZ3ipV8VxM_7rOCduL6qMf_bHoEqu-aAbQmKwMIWY4TqpMneEaL1wqiSw4lO424WdcCqn__wRG3-TVwZBuXAaew-NtidiJBxUPQ-35BZMfGv9pAsAZB9AUjZugPFJfLdb_hrbPBW0umRZGorAPSce57PKz6xCLCKqkjhHNzA_AQeuoWkiFViOVcRvDIUiX_tirmm3NHSrM6RPdpyjZVMOLQaUHBAakCg_9bUvm-OvmPLzYCZqRvJq0L6WECwUg-2ESGPyJ6fCk1r_N-b2t7zMZgz8rbXt-F5vi31dX0UibpFZfmbZMEdPtmuYR0ibUh0Lf325fhv-SxXuF1z2V94VM1SsCigEgQuL8kubHCZ3CcdoYdtQsaLB9tdHj8BIJ9hTwYN4WTm5HYG8_ARWaT1MU17jGk1EDFR4J8UAlSpeeLPSu0auBhFI_qeEvyHpUkPQvDyuiysY_9jpbyCXCpGJkt3PyQuyhvm_fy-910hF9bRmXFVHXP7nG7RI-7qck1t63JepBgKRRylke9ieDN_NyotF
+#EXTVLCOPT:http-header=X-Did=37ab0879dbae63a4
+#EXTVLCOPT:http-header=Connection:Keep-Alive
+http://tv.m3uts.xyz/stream/secure/T_-bCN43/538.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png", HBO Mundi.mx
 #KODIPROP:inputstream.adaptive.license_type=clearkey
