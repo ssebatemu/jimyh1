@@ -1001,3 +1001,19 @@ http://funnelsprout.live:80/play/live.php?mac=00:1A:79:B9:AA:33&stream=1284526&e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3a2d2b268b157549db84f7d920911e2:13e7310fa219b0293d66312f0350b678
 https://cdn-live.mundogo.cl/treceinternacional/treceinternacional.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=USA+Network&font=Oswald" group-title="Entertainment", USA Network
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39773b0d7b389430776142a2fa613ad9:bce74121a4884ec7d2ed9dd96442a775
+https://dish.akamaized.net/Content/DASH/Live/channel(usamexico)/variant.mpd
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Animal+Planet&font=Oswald" group-title="Documentary", Animal Planet
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eded9e86a760b6e23d1ce1d80b85484:74e74a9ea3933219454c81f28ade93a8
+https://cdnlb.gigared.com.ar/live/eds/Animal_Planet/sa_live_dash/Animal_Planet.mpd
