@@ -27,7 +27,7 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=df48ffcd5745ff43498dc58aea2e48f0:65cbdd2bb18093e8ac75662c262d6e0b
-https://live1-ott.izzigo.tv/13/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.mpd
+https://live1-ott.izzigo.tv/14/out/u/dash/DISCOVERY-HOME-AND-GARDEN-HD/default.mpd
 
 #EXTINF:-1 tvg-id="279596" tvg-name="HGTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png", HGTV.ar
 http://45.188.229.33:8000/play/a11r/index.m3u8
@@ -197,10 +197,10 @@ http://138.59.227.20:8000/play/a06z/index.m3u8
 http://138.59.227.20:8000/play/a086/index.m3u8
 
 #EXTINF:-1 tvg-id="232365" tvg-name="Espn.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png", Espn.ar
-http://181.209.105.115:2525/play/espn/index.m3u8
+http://181.209.38.115:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-id="232366" tvg-name="Espn 2.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png", Espn 2.ar
-http://181.209.105.115:2525/play/espn2/index.m3u8
+http://181.209.38.115:8000/play/a02z/index.m3u8
 
 #EXTINF:-1 tvg-id="232367" tvg-name="Espn 3.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte-mediano.png", Espn 3.ar
 http://181.224.255.210:8001/play/a0ps/index.m3u8
