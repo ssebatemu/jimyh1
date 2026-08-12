@@ -9,7 +9,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://g4.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="232330" tvg-name="El Nueve.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_argentina-mediano.png", El Nueve.ar
-http://15.204.246.24:8080/elnueveHD/index.m3u8
+http://zonacero.lat:8080/YnJDTHJSdXRDQ1dRQy9wczcrQkY4cmpBVmxDOEp3dnc5aDh3R2UzcmJ2SXVkMkFVZXBEVXJkWklZWGs1MVpjNQ
 
 #EXTINF:-1 tvg-id="232408" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
 http://200.91.32.158:8080/telefehdvalle/playlist.m3u8
@@ -186,20 +186,10 @@ https://live1-ott.izzigo.tv/11/out/u/dash/DISCOVERY-KIDS-HD/default.mpd
 
 
 #EXTINF:-1 tvg-id="232334" tvg-name="TNT Sports Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports-mediano.png", TNT Sports Premium.ar
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c26371079e89206d63e1454893e881b6:adac3c3b3774e411d6e49724f7ea0ee3
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+http://zonacero.lat:8080/YnJDTHJSdXRDQ1dRQy9wczcrQkY4clJVUHZxSGd5dkxEWTRnRjdqN2tlaEtOdkRtOTdHSldaTXIzS3QzVTJWWA
 
 #EXTINF:-1 tvg-id="232333" tvg-name="Espn Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png", Espn Premium.ar
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+http://zonacero.lat:8080/YnJDTHJSdXRDQ1dRQy9wczcrQkY4djlEdmp2OWg3WjJqZ0Y0OWQyTW11TklGL0Q0ZnR5OVNENGRuOFpFcXZpcw
 
 #EXTINF:-1 tvg-id="232365" tvg-name="Espn.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png", Espn.ar
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -484,7 +474,7 @@ https://live1-ott.izzigo.tv/14/out/u/dash/FILM-AND-ARTS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=8c7c3c7a05812a5245d64c0eced08a41:e56c4dedfa6c51f617cc7c9d2d61f7a8
 https://live1-ott.izzigo.tv/11/out/u/dash/TNT-SERIES-HD/default.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png", AandE.ar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png", A&E.co
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
