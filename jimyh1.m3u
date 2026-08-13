@@ -192,12 +192,7 @@ http://zonacero.lat:8080/YnJDTHJSdXRDQ1dRQy9wczcrQkY4clJVUHZxSGd5dkxEWTRnRjdqN2t
 http://zonacero.lat:8080/YnJDTHJSdXRDQ1dRQy9wczcrQkY4djlEdmp2OWg3WjJqZ0Y0OWQyTW11TklGL0Q0ZnR5OVNENGRuOFpFcXZpcw
 
 #EXTINF:-1 tvg-id="232365" tvg-name="Espn.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png", Espn.ar
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+http://181.209.38.115:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-id="232366" tvg-name="Espn 2.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png", Espn 2.ar
 http://181.209.38.115:8000/play/a02z/index.m3u8
@@ -206,20 +201,10 @@ http://181.209.38.115:8000/play/a02z/index.m3u8
 http://181.224.255.210:8001/play/a0ps/index.m3u8
 
 #EXTINF:-1 tvg-id="279617" tvg-name="Espn 4.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png", Espn 4.ar
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=034653d3413f23e87249d1fb7e68359a:a0d6b849f17c430e9cc02d07739a4e4a
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+http://181.209.38.115:8000/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-id="279615" tvg-name="Fox Sports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Fox_Sports_Argentina_2026.webp", Fox Sports.ar
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+http://181.209.38.115:8000/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-id="279613" tvg-name="Fox Sports 2.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Fox_Sports_2_2026.png/revision/latest/scale-to-width-down/250?cb=20260204193820", Fox Sports 2.ar
 http://181.209.38.115:8000/play/a00h/index.m3u8
@@ -356,11 +341,7 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="232356" tvg-name="TNT.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica-mediano.png", TNT.ar
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dca8597f12f8d6928b55c1291c7bb300:36c8b3f51d474b95f0adad70899343e1
-https://live1-ott.izzigo.tv/12/out/u/dash/TNT-HD/default.mpd
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/926.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_tv-mediano.png", Universal TV.mx
 #KODIPROP:inputstream=inputstream.adaptive
