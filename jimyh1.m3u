@@ -1377,3 +1377,88 @@ https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"af697afe95d1a333a845aee5ba676946":"c57bdecf3169b78e51865403c6e723bd"}
 https://dish.akamaized.net/Content/DASH/Live/channel(tntseries)/variant.mpd
+
+
+#EXTINF:-1 tvg-logo="" group-title="DISH", TNT
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4139b9f4b9b13b81c2d1b53acd01e5e5":"24f771215b927cd0961be8ab963bb8d2"}
+https://dish.akamaized.net/Content/DASH/Live/channel(tnt)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="DISH", SPACE
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e6441ec9b4f7ddfbc4cac8801f4df9df":"676229a75fdbc1a6b5f4a50c383490d9"}
+https://dish.akamaized.net/Content/DASH/Live/channel(space)/variant.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="DISH", TNT SERIES
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"af697afe95d1a333a845aee5ba676946":"c57bdecf3169b78e51865403c6e723bd"}
+https://dish.akamaized.net/Content/DASH/Live/channel(tntseries)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="DISH", STAR CHANNEL
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6de957e2c8090588b2cc3b4cfe0470f4":"52d97d7f43b204d2379b43ee7d3a2a21"}
+https://dish.akamaized.net/Content/DASH/Live/channel(start_channel)/variant.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="DISH", STUDIO UNIVERSAL
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ff583851013fa7fb7abeaa8d0e762a41":"ad289e896926729a4e7559bdaa04e537"}
+https://dish.akamaized.net/Content/DASH/Live/channel(studio_universal)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="DISH", TBS
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1ebf460dd523ee3dd4a6a35857dea58e":"c10b54a2581a0f664e32e03f166ab010"}
+https://dish.akamaized.net/Content/DASH/Live/channel(tbs_sd)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="DISH", LIFETIME
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4c17e69d6e92861fc2ca18df9c23c9c6":"09e1bda6f1a7edeb9fb9f40f54f84be8"}
+https://dish.akamaized.net/Content/DASH/Live/channel(lifetimehd)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="DISH", TLC
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6254689477110d794617a8b8da688570":"a1126eaea3add2df3e27f3da40911ae2"}
+https://dish.akamaized.net/Content/DASH/Live/channel(tlchd)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="DISH", EL GOURMET
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5f3eebd14fc7f6fcbe4ba310dd654a6b":"249312af2692abff48daa39c0dc8607d"}
+https://dish.akamaized.net/Content/DASH/Live/channel(e_gourment)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="DISH", EUROPA EUROPA
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"de24e1b99c8b18ff9aa6d1faf2e71720":"66f2ae3dc379900b5495f440f68c674a"}
+https://dish.akamaized.net/Content/DASH/Live/channel(europa_europa)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="DISH", SYFY
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"39773b0d7b389430776142a2fa613ad9":"bce74121a4884ec7d2ed9dd96442a775"}
+https://dish.akamaized.net/Content/DASH/Live/channel(syfy)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="DISH", UNIVERSAL CHANNEL
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"88cabfce565963d816be9ec08dccc29e":"7912df72c3cb820a6a9026ef6aa71508"}
+https://dish.akamaized.net/Content/DASH/Live/channel(universal_channel)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="DISH", SONY
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={896f730715176bb90484f8385512cba7:7372951666a6653c2dbff9f2646c1c5d}
+https://dish.akamaized.net/Content/DASH/Live/channel(sony)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="DISH", WARNER CHANNEL
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"98aa90cb620b972a0d0d66a51cdaca56":"6e8bd53378356ed7f5103d91efb5e54e"}
+https://live1-ott.izzigo.tv/13/out/u/dash/GOLDEN-EDGE-SD/default.mpd
