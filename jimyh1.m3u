@@ -1372,3 +1372,8 @@ https://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd?|referer=https://pla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36"
 https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/117/CH_LOGO/800/542/0/0/68097404073421.png" group-title="", TNT SERIES
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"af697afe95d1a333a845aee5ba676946":"c57bdecf3169b78e51865403c6e723bd"}
+https://dish.akamaized.net/Content/DASH/Live/channel(tntseries)/variant.mpd
