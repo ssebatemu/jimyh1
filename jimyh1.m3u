@@ -355,7 +355,7 @@ https://live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd
 https://live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-CINEMA-HD/default.mpd
 
 #EXTINF:-1 tvg-id="279643" tvg-name="Golden.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png", Golden.ar
-http://190.60.37.118:4000/play/a08t
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/26.m3u8
 
 #EXTINF:-1 tvg-id="232347" tvg-name="Golden Edge.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png", Golden Edge.ar
 http://181.225.190.242:8000/play/a01w
@@ -878,25 +878,6 @@ http://funnelsprout.live:80/play/live.php?mac=00:1A:79:B9:AA:33&stream=1284574&e
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K.png" group-title="4K UHD",|4K| MUSEUM UHD
 http://funnelsprout.live:80/play/live.php?mac=00:1A:79:B9:AA:33&stream=1284573&extension=ts&play_token=tm7OdJ8Dpm
 
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K.png" group-title="4K UHD",|4K| SKY PRIMAFILA 1 UHD
-http://funnelsprout.live:80/play/live.php?mac=00:1A:79:B9:AA:33&stream=1284534&extension=ts&play_token=3BNkThz6I4
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K.png" group-title="4K UHD",|4K| SKY PRIMAFILA 2 UHD
-http://funnelsprout.live:80/play/live.php?mac=00:1A:79:B9:AA:33&stream=1284533&extension=ts&play_token=LOYzmOANtp
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K.png" group-title="4K UHD",|4K| SKY PRIMAFILA 3 UHD
-http://funnelsprout.live:80/play/live.php?mac=00:1A:79:B9:AA:33&stream=1284532&extension=ts&play_token=YsM4cIPYJZ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K.png" group-title="4K UHD",|4K| SKY PRIMAFILA 4 UHD
-http://funnelsprout.live:80/play/live.php?mac=00:1A:79:B9:AA:33&stream=1284531&extension=ts&play_token=WKNmiTKGuw
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K.png" group-title="4K UHD",|4K| SKY PRIMAFILA 5 UHD
-http://funnelsprout.live:80/play/live.php?mac=00:1A:79:B9:AA:33&stream=1284530&extension=ts&play_token=Mkn8P6gs5r
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K.png" group-title="4K UHD",|4K| SKY PRIMAFILA 6 UHD
-http://funnelsprout.live:80/play/live.php?mac=00:1A:79:B9:AA:33&stream=1284529&extension=ts&play_token=XacBbBCL2s
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K.png" group-title="4K UHD",|4K| SKY PRIMAFILA 7 UHD
-http://funnelsprout.live:80/play/live.php?mac=00:1A:79:B9:AA:33&stream=1284528&extension=ts&play_token=QS2un7NM2B
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K.png" group-title="4K UHD",|4K| SKY PRIMAFILA 8 UHD
-http://funnelsprout.live:80/play/live.php?mac=00:1A:79:B9:AA:33&stream=1284527&extension=ts&play_token=BVFAylYTac
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/4K.png" group-title="4K UHD",|4K| SKY PRIMAFILA 9 UHD
-http://funnelsprout.live:80/play/live.php?mac=00:1A:79:B9:AA:33&stream=1284526&extension=ts&play_token=dznrgBFl6p
-
 
 
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Caz%C3%A9TV+1&font=Oswald" group-title="Sports", CazéTV 1
@@ -910,28 +891,7 @@ https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/
 
 
 
-#EXTINF:-1 group-title="VIP Mexico", Canal 5 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=113383517c8f882e77fe1a71e0cfc7eb:e2ac0b80cb5be37fdf6de0d27959e110
-https://live1-ott.izzigo.tv/12/out/u/dash/CANAL-5-HD/default.mpd
 
-
-#EXTINF:-1 group-title="VIP Mexico", Canal 5 yu
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2ac0b80cb5be37fdf6de0d27959e110:113383517c8f882e77fe1a71e0cfc7eb
-https://live1-ott.izzigo.tv/12/out/u/dash/CANAL-5-HD/default.mpd
-
-
-#EXTINF:-1 group-title="VIP Mexico", TUDN
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
-https://live1-ott.izzigo.tv/11/out/u/dash/TUDN-HD/default.mpd
 
 #EXTINF:-1 group-title="VIP Mexico", SKY ONE
 #KODIPROP:inputstream=inputstream.adaptive
@@ -941,91 +901,6 @@ https://live1-ott.izzigo.tv/11/out/u/dash/TUDN-HD/default.mpd
 https://live1-ott.izzigo.tv/11/out/u/dash/SKY-ONE-HD/default.mpd
 
 
-
-
-
-
-
-#EXTINF:-1 group-title="VIP Mexico", NBA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d7dffe9683f1faf907e729911d56bba3:2ae415adf5f1f572f885536ed0fb6494
-https://live1-ott.izzigo.tv/12/out/u/dash/NBA-HD/default.mpd
-
-
-#EXTINF:-1 group-title="VIP Mexico", LAS ESTRELLAS MEXICO
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=62cc24eaedef1ab322a4d52fd6bf29ad:3f80b04b3e2bf3d8543956882da9dd00
-hhttps://live1-ott.izzigo.tv/11/out/u/dash/CANAL-2-HD/default.mpd
-
-
-#EXTINF:-1 group-title="VIP Mexico", FOX Sports
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7a7e7a06867c219a2137eaf19a049f5:5790bf30aecb9fe4a661878526104da4
-https://live1-ott.izzigo.tv/11/out/u/dash/FOX-SPORTS-HD/default.mpd
-
- 
-
-#EXTINF:-1 group-title="VIP Mexico", FOX Sports 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fed9589fc901f76588cdcba4dd1673b9:6863d9f5ab4788a8f6b47f9fa7c5e8a5
-https://live1-ott.izzigo.tv/14/out/u/dash/FOX-SPORTS-2-HD/default.mpd
-
- 
-
-
-#EXTINF:-1 group-title="VIP Mexico", FOX Sports 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12fefc830185e5529c19462d0bc3bbb2:ce6635992edeb362e25a8e0ac2f29b21
-https://live1-ott.izzigo.tv/11/out/u/dash/FOX-SPORTS-3-HD/default.mpd
-
-
-#EXTINF:-1 group-title="VIP Mexico", NFL Network
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9b40cafa23cb7de8418bae6c66159f3a:b1bde4692ea730163539adc9a84cc488
-https://live1-ott.izzigo.tv/11/out/u/dash/NFL-HD/default.mpd
-
-
-#EXTINF:-1 group-title="VIP Mexico", ESPN
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
-https://live1-ott.izzigo.tv/11/out/u/dash/ESPN-HD/default.mpd
-
-#EXTINF:-1 group-title="VIP Mexico", ESPN 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90e2e491c850a49a5ab21bb6fa6b4d24:4d7e33da19b971cef49e35eccdb9de0b
-https://live1-ott.izzigo.tv/11/out/u/dash/ESPN-2-HD/default.mpd
-
-
-#EXTINF:-1 group-title="VIP Mexico", ESPN 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0355f64277082b903022985035c498ca:7a8ed20a4958398677e2c9ccd5a53a00
-https://live1-ott.izzigo.tv/11/out/u/dash/ESPN-3-HD/default.mpd
-
-
-#EXTINF:-1 group-title="VIP Mexico", ESPN 4
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=061e235ee9adb89ec6b9079c1376a0df:eaad014534261886681fdbbdd676a4d4
-https://live1-ott.izzigo.tv/11/out/u/dash/ESPN-PLUS-HD/default.mpd
 
 
 
@@ -1079,21 +954,6 @@ https://live1-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-1-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=310ddeefcec5f96a75faed2a96afd26a:041fe42d066d50d59fc368312647bb2f
 https://live1-ott.izzigo.tv/12/out/u/dash/CURIOSITY-HD/default.mpd
 
-
-#EXTINF:-1 group-title="VIP Mexico", EDYE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6957d1b268de52d70a69ad287960839e:00aeb583afc321e7c75a95b080c70441
-https://live1-ott.izzigo.tv/12/out/u/dash/EDYE-HD/default.mpd
-
-
-#EXTINF:-1 group-title="VIP Mexico", ESNE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9eb860c8dcbac33f1bf8b1fc4446826:a1b54f5546a6c92955cadc7539bdaece
-https://live1-ott.izzigo.tv/12/out/u/dash/ESNE-HD/default.mpd
 
 #EXTINF:-1 group-title="VIP Mexico", A3-CINE
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1445,20 +1305,4 @@ https://dish.akamaized.net/Content/DASH/Live/channel(europa_europa)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"39773b0d7b389430776142a2fa613ad9":"bce74121a4884ec7d2ed9dd96442a775"}
 https://dish.akamaized.net/Content/DASH/Live/channel(syfy)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="DISH", UNIVERSAL CHANNEL
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"88cabfce565963d816be9ec08dccc29e":"7912df72c3cb820a6a9026ef6aa71508"}
-https://dish.akamaized.net/Content/DASH/Live/channel(universal_channel)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="DISH", SONY
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={896f730715176bb90484f8385512cba7:7372951666a6653c2dbff9f2646c1c5d}
-https://dish.akamaized.net/Content/DASH/Live/channel(sony)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="DISH", WARNER CHANNEL
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"98aa90cb620b972a0d0d66a51cdaca56":"6e8bd53378356ed7f5103d91efb5e54e"}
-https://live1-ott.izzigo.tv/13/out/u/dash/GOLDEN-EDGE-SD/default.mpd
