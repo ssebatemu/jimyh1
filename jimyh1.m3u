@@ -25,7 +25,7 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="279596" tvg-name="HGTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png", HGTV.ar
-http://45.188.229.33:8000/play/a11r/index.m3u8
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/30.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png", Discovery Home & Health.mx
 #KODIPROP:inputstream=inputstream.adaptive
