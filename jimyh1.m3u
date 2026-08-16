@@ -671,60 +671,91 @@ https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_
 
 
 
-
+#EXTINF:-1 tvg-id="312720" tvg-name="America TV 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina-mediano.png", America.ar
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5651806b42f087c58332b052de727c5:11901b35cc3e5aa73619f64d02c38a0f
+#EXTVLCOPT:http-origin=https://player.sensa.com.ar
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 #EXTINF:-1 tvg-id="312720" tvg-name="America TV 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina-mediano.png", America.ar
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 
 #EXTINF:-1 tvg-id="312887" tvg-name="Tv Publica" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/television_publica_argentina-mediano.png", TVPublica.ar
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b17538810f1dd4485f174dcc204872c:3d5b973772433ce07c8999aa659ea48c
+#EXTVLCOPT:http-origin=https://player.sensa.com.ar
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF:-1 tvg-id="312887" tvg-name="Tv Publica" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/television_publica_argentina-mediano.png", TVPublica.ar
 http://138.59.227.20:8000/play/a095/index.m3u8
 
 #EXTINF:-1 tvg-id="312888" tvg-name="El Nueve.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_argentina-mediano.png", El Nueve.ar
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c1f50e3f51216bdd1efcc99d3a27217:3441c930277d824402aafee446ba8f90
+#EXTVLCOPT:http-origin=https://player.sensa.com.ar
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF:-1 tvg-id="312888" tvg-name="El Nueve.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_argentina-mediano.png", El Nueve.ar
 http://177.53.153.207:8000/play/a00e/index.m3u8
-
 #EXTINF:-1 tvg-id="312888" tvg-name="El Nueve.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_argentina-mediano.png", El Nueve.ar
 http://45.188.229.33:8000/play/a1a5/index.m3u8
 
 #EXTINF:-1 tvg-id="312719" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
-https://smt-usr-edge01.sensa.com.ar/output/COR/TSFH/track_0_3000/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bb54fccffaddd38916e85c08de98cc9:d06f509c418eb6f1b2fc2b766445328b
+#EXTVLCOPT:http-origin=https://player.sensa.com.ar
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-id="312719" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
+https://smt-usr-edge01.sensa.com.ar/output/COR/TSFH/track_0_3000/playlist.m3u8
+#EXTINF:-1 tvg-id="312719" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
-
 #EXTINF:-1 tvg-id="332145" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
-
 #EXTINF:-1 tvg-id="232408" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
 http://181.209.38.115:8000/play/a00p/index.m3u8
-
 #EXTINF:-1 tvg-id="232408" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
 http://45.179.152.42:8000/play/a009
-
 #EXTINF:-1 tvg-id="232408" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
 http://45.185.163.75:8000/play/a04p/index.m3u8
-
 #EXTINF:-1 tvg-id="232408" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
 http://138.59.227.20:8000/play/a08a/index.m3u8
-
 #EXTINF:-1 tvg-id="232408" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
 http://181.78.192.238:8000/play/a25p/index.m3u8
-
 #EXTINF:-1 tvg-id="232408" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
 http://45.188.229.33:8000/play/a1dm/index.m3u8
-
 #EXTINF:-1 tvg-id="232408" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
 http://45.188.229.33:8000/play/a1cl/index.m3u8
 
+
+
+#EXTINF:-1 tvg-id="332144" tvg-name="El Trece.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina-mediano.png", El Trece.ar
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7b05c7a737b7f0a5d571b91deaa2697:4079ac205b544b1c294ee1568906ff58
+#EXTVLCOPT:http-origin=https://player.sensa.com.ar
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 #EXTINF:-1 tvg-id="332144" tvg-name="El Trece.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina-mediano.png", El Trece.ar
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-
 #EXTINF:-1 tvg-id="332144" tvg-name="El Trece.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina-mediano.png", El Trece.ar
 http://45.188.229.33:8000/play/a1dk/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="332144" tvg-name="El Trece.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina-mediano.png", El Trece.ar
 http://138.59.227.20:8000/play/a07b/index.m3u8
 
+
+
+
 #EXTINF:-1 tvg-id="333514" tvg-name="Telefe Cordoba" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Canal 7
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+
+
+
 
 
 XTINF:-1 tvg-id="312988" tvg-name="TNT Sports Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports-mediano.png", TNT Sports Premium.ar
@@ -734,7 +765,6 @@ XTINF:-1 tvg-id="312988" tvg-name="TNT Sports Premium.ar" tvg-logo="https://imag
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
 #EXTINF:-1 tvg-id="312988" tvg-name="TNT Sports Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports-mediano.png", TNT Sports Premium.ar
 http://186.33.57.100:8000/play/a1ex/index.m3u8
 #EXTINF:-1 tvg-id="312988" tvg-name="TNT Sports Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports-mediano.png", TNT Sports Premium.ar
@@ -757,7 +787,6 @@ https://bvclive2.boldmss.com/TNT_SPORTS/TNT_SPORTS.isml/manifest
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
 #EXTINF:-1 tvg-id="316674" tvg-name="Espn Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png", Espn Premium.ar
 http://186.33.57.100:8000/play/a21v/index.m3u8
 #EXTINF:-1 tvg-id="316674" tvg-name="Espn Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png", Espn Premium.ar
@@ -769,11 +798,67 @@ http://181.209.38.115:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="316674" tvg-name="Espn Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png", Espn Premium.ar
 http://181.209.105.115:2525/play/espnpremium/index.m3u8
 
+#EXTINF:-1 ch-number="101" tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="Deportes", ESPN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
+#EXTVLCOPT:http-origin=https://player.sensa.com.ar
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+
+
+
+
+#EXTINF:-1 ch-number="102" tvg-id="ESPN 2 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/800/542/0/0/32397574073429.png" group-title="Deportes", ESPN 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8bd6496d2444301c9d4d0feca9d75b:3fd1967701ba2897729187b60094c158
+#EXTVLCOPT:http-origin=https://player.sensa.com.ar
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+
+#EXTINF:-1 ch-number="103" tvg-id="ESPN 3 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/800/542/0/0/85904894074972.png" group-title="Deportes", ESPN 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8836252059b793a79173838dc1186ff1:aa16f90e51ce5652dab93834e434caa8
+#EXTVLCOPT:http-origin=https://player.sensa.com.ar
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+
+
+#EXTINF:-1 ch-number="104" tvg-id="ESPN 4 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/800/542/0/0/16514023071132.png" group-title="Deportes", ESPN 4
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8836252059b793a79173838dc1186ff1:aa16f90e51ce5652dab93834e434caa8
+#EXTVLCOPT:http-origin=https://player.sensa.com.ar
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0  
+
+
+
+#EXTINF:-1 ch-number="111" tvg-id="FoxSports.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FOXSP.png?raw=true" group-title="Deportes", FOX Sports
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667
+#EXTVLCOPT:http-origin=https://player.sensa.com.ar
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#EXTINF:-1 ch-number="108" ch-number="108" tvg-id="TyCSports.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" group-title="Deportes", TyC Sports
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2
+#EXTVLCOPT:http-origin=https://player.sensa.com.ar
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
 #EXTINF:-1 tvg-id="333516" tvg-name="Dsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg", DSports Argentina.uy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c432184d1ab00475aded5731162d99b7:5f361ae2b35dcb415fe612ea7e85ed9d
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qubxnja5rl/out/v1/4ef0db80aa3341e2babb58314541f1e0/cenc.mpd
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg", DSports 2.uy
 #EXTVLCOPT--http-reconnect=true
@@ -782,8 +867,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qubxnja5rl/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=010b4fa338184f52a712121ad62ae9b4:e310bad2a570b60f7799e2aa0fb33a71
 https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a463f9d5/manifest.mpd
-
-
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png", DSportsPlus.uy
 #EXTVLCOPT--http-reconnect=true
@@ -1040,49 +1123,6 @@ https://live1-ott.izzigo.tv/15/out/u/dash/SKY-STINGRAY-JUICEBOX-HD/default.mpd
 
 
 
-#EXTINF:-1  tvg-id="AmericaTV.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" tvg-group="Nacionales", América
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5651806b42f087c58332b052de727c5:11901b35cc3e5aa73619f64d02c38a0f
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-
-#EXTINF:-1  tvg-id="TVPublica.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C7TVP.png?raw=true" group-title="Nacionales", TV Pública
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6b17538810f1dd4485f174dcc204872c:3d5b973772433ce07c8999aa659ea48c
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-
-#EXTINF:-1  tvg-id="ElNueve.ar.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN9.png?raw=true" tvg-group="Nacionales", El nueve
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c1f50e3f51216bdd1efcc99d3a27217:3441c930277d824402aafee446ba8f90
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Canal9/live_dash_cld/Canal9.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-
-#EXTINF:-1  tvg-id="Telefe.ar" tvg-logo="https://git.io/JOTOu" group-title="Nacionales", Telefé Satelital
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9bb54fccffaddd38916e85c08de98cc9:d06f509c418eb6f1b2fc2b766445328b
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Telefe/live_dash_cld/Telefe.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-
-#EXTINF:-1  tvg-id="ElTrece.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" group-title="Nacionales", El trece Satelital
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e7b05c7a737b7f0a5d571b91deaa2697:4079ac205b544b1c294ee1568906ff58
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
 
@@ -1100,73 +1140,23 @@ https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd?|referer=htt
 
 
 
-#EXTINF:-1 ch-number="101" tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="Deportes", ESPN
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
 
 
 
-#EXTINF:-1 ch-number="102" tvg-id="ESPN 2 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/800/542/0/0/32397574073429.png" group-title="Deportes", ESPN 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8bd6496d2444301c9d4d0feca9d75b:3fd1967701ba2897729187b60094c158
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-
-#EXTINF:-1 ch-number="103" tvg-id="ESPN 3 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/800/542/0/0/85904894074972.png" group-title="Deportes", ESPN 3
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8836252059b793a79173838dc1186ff1:aa16f90e51ce5652dab93834e434caa8
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
 
-#EXTINF:-1 ch-number="104" tvg-id="ESPN 4 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/800/542/0/0/16514023071132.png" group-title="Deportes", ESPN 4
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8836252059b793a79173838dc1186ff1:aa16f90e51ce5652dab93834e434caa8
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0  
 
 
 
-#EXTINF:-1 ch-number="111" tvg-id="FoxSports.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FOXSP.png?raw=true" group-title="Deportes", FOX Sports
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-
-
-#EXTINF:-1 ch-number="108" ch-number="108" tvg-id="TyCSports.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" group-title="Deportes", TyC Sports
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
 
-#EXTINF:-1 ch-number="104" tvg-id="ESPN 4 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/800/542/0/0/16514023071132.png" group-title="Deportes", ESPN 4
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=034653d3413f23e87249d1fb7e68359a:a0d6b849f17c430e9cc02d07739a4e4a
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+
+
 
 
 
