@@ -798,7 +798,7 @@ http://181.209.38.115:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="316674" tvg-name="Espn Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png", Espn Premium.ar
 http://181.209.105.115:2525/play/espnpremium/index.m3u8
 
-#EXTINF:-1 ch-number="101" tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="Deportes", ESPN
+EXTINF:-1 tvg-id="232365" tvg-name="Espn.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png", Espn.ar
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
@@ -810,7 +810,19 @@ https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd?|referer=https://p
 
 
 
-#EXTINF:-1 ch-number="102" tvg-id="ESPN 2 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/800/542/0/0/32397574073429.png" group-title="Deportes", ESPN 2
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="232366" tvg-name="Espn 2.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png", Espn 2.ar
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8bd6496d2444301c9d4d0feca9d75b:3fd1967701ba2897729187b60094c158
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
@@ -818,8 +830,14 @@ https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd?|referer=https://p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/ESPN2/live_dash_cld/ESPN2.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#EXTINF:-1 tvg-id="300908" tvg-name="Eventos" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte.png", ESPN 2.co
+http://179.1.143.53:8000/play/a00c/index.m3u8?hls
 
-#EXTINF:-1 ch-number="103" tvg-id="ESPN 3 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/800/542/0/0/85904894074972.png" group-title="Deportes", ESPN 3
+#EXTINF:-1 tvg-id="319875" tvg-name="ESPN 2 CO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png", ESPN 2.co
+http://147.75.122.125:8000/play/a03q/index.m3u8
+
+
+#EXTINF:-1 tvg-id="232367" tvg-name="Espn 3.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte-mediano.png", Espn 3.ar
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8836252059b793a79173838dc1186ff1:aa16f90e51ce5652dab93834e434caa8
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
@@ -829,7 +847,7 @@ https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd?|referer=https:/
 
 
 
-#EXTINF:-1 ch-number="104" tvg-id="ESPN 4 HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/800/542/0/0/16514023071132.png" group-title="Deportes", ESPN 4
+#EXTINF:-1 tvg-id="279617" tvg-name="Espn 4.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png", Espn 4.ar
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8836252059b793a79173838dc1186ff1:aa16f90e51ce5652dab93834e434caa8
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
@@ -837,9 +855,17 @@ https://cdn.sensa.com.ar/live/eds/ESPN3/live_dash_cld/ESPN3.mpd?|referer=https:/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0  
 
+#EXTINF:-1 tvg-id="319862" tvg-name="ESPN 5" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png", ESPN 5 HD.co
+http://45.188.229.33:8000/play/a12n/index.m3u8
+
+#EXTINF:-1 tvg-id="319863" tvg-name="ESPN 6" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png", ESPN 6 HD.co
+http://45.188.229.33:8000/play/a12h/index.m3u8
+
+#EXTINF:-1 tvg-id="319864" tvg-name="ESPN 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png", ESPN 7 HD.co
+http://45.188.229.33:8000/play/a190/index.m3u8
 
 
-#EXTINF:-1 ch-number="111" tvg-id="FoxSports.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FOXSP.png?raw=true" group-title="Deportes", FOX Sports
+#EXTINF:-1 tvg-id="279615" tvg-name="Fox Sports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Fox_Sports_Argentina_2026.webp", Fox Sports.ar
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a61b644fdc68568b5be3e2629041564:a1672cdfb5de64707151128f811da667
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
@@ -847,7 +873,7 @@ https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd?|referer=https:/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 ch-number="108" ch-number="108" tvg-id="TyCSports.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" group-title="Deportes", TyC Sports
+#EXTINF:-1 tvg-id="279616" tvg-name="TyC Sports.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png", TyC Sports.ar
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=53d0cf6c1d49c16f5180f86e1870b00f:7eb6743b5f44b52ba27c88229c8c7ae2
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
@@ -868,6 +894,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qubxnja5rl/
 #KODIPROP:inputstream.adaptive.license_key=010b4fa338184f52a712121ad62ae9b4:e310bad2a570b60f7799e2aa0fb33a71
 https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a463f9d5/manifest.mpd
 
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png", DSportsPlus.uy
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -876,25 +903,49 @@ https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a
 #KODIPROP:inputstream.adaptive.license_key=41121cea7a3d49a78c9496d1b0d919e4:de048d4c2870b8d53961aaeac1804947
 https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
 
+#EXTINF:-1 group-title="VIP Mexico", Sky Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
+https://live1-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-HD/default.mpd
+
+#EXTINF:-1 group-title="VIP Mexico", Sky Sports 21
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99909032389c6ee41c3d2f3ec829f804:41fbc575c8ef1cdac1dca990c9a0df9d
+https://live1-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-21-HD/default.mpd
+
+#EXTINF:-1 group-title="VIP Mexico", Sky Sports 16
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb80e1e7d7598eaf98b1dbbe6dc14ee9:103ae55c7948ca1d159d6743619d26c4
+https://live1-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
+
+#EXTINF:-1 group-title="VIP Mexico", Sky Sports 24
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
+https://live1-ott.izzigo.tv/15/out/u/dash/SKY-SPORTS-24-HD/default.mpd
+
+#EXTINF:-1 group-title="VIP Mexico", Sky Sports 24
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
+https://live1-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-1-HD/default.mpd
 
 
 
 
 
-#EXTINF:-1 tvg-id="300908" tvg-name="Eventos" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte.png", ESPN 2.co
-http://179.1.143.53:8000/play/a00c/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="319875" tvg-name="ESPN 2 CO" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png", ESPN 2.co
-http://147.75.122.125:8000/play/a03q/index.m3u8
 
-#EXTINF:-1 tvg-id="319862" tvg-name="ESPN 5" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png", ESPN 5 HD.co
-http://45.188.229.33:8000/play/a12n/index.m3u8
 
-#EXTINF:-1 tvg-id="319863" tvg-name="ESPN 6" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png", ESPN 6 HD.co
-http://45.188.229.33:8000/play/a12h/index.m3u8
 
-#EXTINF:-1 tvg-id="319864" tvg-name="ESPN 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png", ESPN 7 HD.co
-http://45.188.229.33:8000/play/a190/index.m3u8
 
 
 
@@ -1002,48 +1053,7 @@ https://live1-ott.izzigo.tv/11/out/u/dash/SKY-ONE-HD/default.mpd
 
 
 
-#EXTINF:-1 group-title="VIP Mexico", Sky Sports
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
-https://live1-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-HD/default.mpd
 
-
-#EXTINF:-1 group-title="VIP Mexico", Sky Sports 21
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=99909032389c6ee41c3d2f3ec829f804:41fbc575c8ef1cdac1dca990c9a0df9d
-https://live1-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-21-HD/default.mpd
-
-
-
-
-
-#EXTINF:-1 group-title="VIP Mexico", Sky Sports 16
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb80e1e7d7598eaf98b1dbbe6dc14ee9:103ae55c7948ca1d159d6743619d26c4
-https://live1-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
-
-
-
-#EXTINF:-1 group-title="VIP Mexico", Sky Sports 24
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
-https://live1-ott.izzigo.tv/15/out/u/dash/SKY-SPORTS-24-HD/default.mpd
-
-
-#EXTINF:-1 group-title="VIP Mexico", Sky Sports 24
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
-https://live1-ott.izzigo.tv/11/out/u/dash/SKY-LIVE-EVENT-1-HD/default.mpd
 
 #EXTINF:-1 group-title="VIP Mexico", CURIOSITY
 #KODIPROP:inputstream=inputstream.adaptive
