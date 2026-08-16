@@ -1127,3 +1127,8 @@ https://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd?|referer=https://pla
 
 
 
+#EXTINF:-1 tvg-chno="39.2" tvg-id="I746.122765.schedulesdirect.org" tvg-name="" logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121868_dark_360w_270h.png"  group-title="Crimen y Misterio" , Universal Crime Latino 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfc6790cbc2bc791b05c4f8f8126f5b5:b1c5b3c9a8ddc4badf5f49f8a989cf77
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuvkx1kkfl/out/v1/6a977f46a77b4a03a1e55db484c1695a/cenc.mpd
+
