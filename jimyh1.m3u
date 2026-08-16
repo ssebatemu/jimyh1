@@ -727,6 +727,13 @@ http://138.59.227.20:8000/play/a07b/index.m3u8
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
 
+XTINF:-1 tvg-id="312988" tvg-name="TNT Sports Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports-mediano.png", TNT Sports Premium.ar
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c26371079e89206d63e1454893e881b6:adac3c3b3774e411d6e49724f7ea0ee3
+#EXTVLCOPT:http-origin=https://player.sensa.com.ar
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-id="312988" tvg-name="TNT Sports Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports-mediano.png", TNT Sports Premium.ar
 http://186.33.57.100:8000/play/a1ex/index.m3u8
@@ -742,6 +749,14 @@ http://181.209.105.115:2525/play/tntsports/index.m3u8
 https://bvclive2.boldmss.com/TNT_SPORTS/TNT_SPORTS.isml/manifest
 
 
+
+#EXTINF:-1 tvg-id="316674" tvg-name="Espn Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png", Espn Premium.ar
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
+#EXTVLCOPT:http-origin=https://player.sensa.com.ar
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-id="316674" tvg-name="Espn Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png", Espn Premium.ar
 http://186.33.57.100:8000/play/a21v/index.m3u8
@@ -1078,23 +1093,10 @@ https://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd?|referer=htt
 
 
 
-#EXTINF:-1 ch-number="124" ch-number="124" tvg-id="TNT SPORTS PREMIUM HD.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="PACK FÚTBOL", TNT Sports Premium
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c26371079e89206d63e1454893e881b6:adac3c3b3774e411d6e49724f7ea0ee3
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
 
-#EXTINF:-1 ch-number="123" tvg-id="ESPN PREMIUM HD.ar" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="Deportes", ESPN Premium
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
-#EXTVLCOPT:http-origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
 
 
 
@@ -1228,99 +1230,4 @@ https://cdn.sensa.com.ar/live/eds/Canal26/live_dash_cld/Canal26.mpd?|referer=htt
 https://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
-#EXTINF:-1 tvg-id="CRONICA TV.ar" tvg-name="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CRNCA.png?raw=true" group-title="TV Digital", Crónica
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36"
-https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
-
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/117/CH_LOGO/800/542/0/0/68097404073421.png" group-title="", TNT SERIES
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"af697afe95d1a333a845aee5ba676946":"c57bdecf3169b78e51865403c6e723bd"}
-https://dish.akamaized.net/Content/DASH/Live/channel(tntseries)/variant.mpd
-
-
-#EXTINF:-1 tvg-logo="" group-title="DISH", TNT
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4139b9f4b9b13b81c2d1b53acd01e5e5":"24f771215b927cd0961be8ab963bb8d2"}
-https://dish.akamaized.net/Content/DASH/Live/channel(tnt)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="DISH", SPACE
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"e6441ec9b4f7ddfbc4cac8801f4df9df":"676229a75fdbc1a6b5f4a50c383490d9"}
-https://dish.akamaized.net/Content/DASH/Live/channel(space)/variant.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="DISH", TNT SERIES
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"af697afe95d1a333a845aee5ba676946":"c57bdecf3169b78e51865403c6e723bd"}
-https://dish.akamaized.net/Content/DASH/Live/channel(tntseries)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="DISH", STAR CHANNEL
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"6de957e2c8090588b2cc3b4cfe0470f4":"52d97d7f43b204d2379b43ee7d3a2a21"}
-https://dish.akamaized.net/Content/DASH/Live/channel(start_channel)/variant.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="DISH", STUDIO UNIVERSAL
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ff583851013fa7fb7abeaa8d0e762a41":"ad289e896926729a4e7559bdaa04e537"}
-https://dish.akamaized.net/Content/DASH/Live/channel(studio_universal)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="DISH", TBS
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"1ebf460dd523ee3dd4a6a35857dea58e":"c10b54a2581a0f664e32e03f166ab010"}
-https://dish.akamaized.net/Content/DASH/Live/channel(tbs_sd)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="DISH", LIFETIME
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4c17e69d6e92861fc2ca18df9c23c9c6":"09e1bda6f1a7edeb9fb9f40f54f84be8"}
-https://dish.akamaized.net/Content/DASH/Live/channel(lifetimehd)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="DISH", TLC
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"6254689477110d794617a8b8da688570":"a1126eaea3add2df3e27f3da40911ae2"}
-https://dish.akamaized.net/Content/DASH/Live/channel(tlchd)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="DISH", EL GOURMET
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"5f3eebd14fc7f6fcbe4ba310dd654a6b":"249312af2692abff48daa39c0dc8607d"}
-https://dish.akamaized.net/Content/DASH/Live/channel(e_gourment)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="DISH", EUROPA EUROPA
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"de24e1b99c8b18ff9aa6d1faf2e71720":"66f2ae3dc379900b5495f440f68c674a"}
-https://dish.akamaized.net/Content/DASH/Live/channel(europa_europa)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="DISH", SYFY
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"39773b0d7b389430776142a2fa613ad9":"bce74121a4884ec7d2ed9dd96442a775"}
-https://dish.akamaized.net/Content/DASH/Live/channel(syfy)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKTjMGdS/fs3-mx.png" group-title="", FOX SPORTS 3 OP2
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"6ca7b84908528d1753b140faa8b72bfc":"cd93e918e5ec737d6706ad871d946fe2"}
-https://dish.akamaized.net/Content/DASH/Live/channel(foxsports3hd)/variant.mpd
-
-#EXTINF:-1 , HBO FAMILY HD VPN MX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d7ed3815cbae3785cebfe6b42f3c655:e127011108b6b5b9646a0deb3a5d71bd
-https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(HBO_FAMILY_HD)/manifest.mpd
-
-
-
-
-#EXTINF:-1 , HBO POP
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-.../v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 
