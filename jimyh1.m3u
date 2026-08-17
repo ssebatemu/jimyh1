@@ -561,7 +561,7 @@ https://m3ukodiiptv.alwaysdata.net/root/youtube/yt_stream.php?id=https://www.you
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-id="232376" tvg-name="A24.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_24-mediano.png", A24.ar
-http://181.94.205.55:4022/udp/225.2.2.2:20007
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
 
 
