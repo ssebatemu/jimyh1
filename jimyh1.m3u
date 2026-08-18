@@ -1628,3 +1628,10 @@ https://live1-ott.izzigo.tv/13/out/u/dash/TV5-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3324372c149efbd4755e94a5989f4eef:8ed2cae763c527146b490acb667e3221
 https://live1-ott.izzigo.tv/11/out/u/dash/HOLA-TV-HD/default.mpd
+
+
+#EXTINF:-1, ESPN Disney
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f17471a55cb94b4f9841d9dd187a9045:b839916035d9094c170c8ac8c1872658
+https://live-akc-sa-west-2.media.dssott.com/dvt2=exp=1787175844~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fevent%2F2026%2F08%2F18%2FRecoleta_PAR_vs_Boca_Juni_20260818_1787084134032%2F~psid=4336d07c-73df-47f1-a469-c9d039c0ccfa~aid=0a4cb63b-595d-4db9-9a09-2d0b3c244ecb~did=4567c422-9a4c-4a39-96fe-1a0b028c8a75~country=CL~kid=k02~hmac=a15294d890a8d49833db579a72dd6ff4e6fbc7d90d3bda019afb54c78c6307e3/gru1/va01/disneyplus/event/2026/08/18/Recoleta_PAR_vs_Boca_Juni_20260818_1787084134032/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=8fa0e3ed72f5d7860857ca56fa3fe7d2e9f4fdbd
