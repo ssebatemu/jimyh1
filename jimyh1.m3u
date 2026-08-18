@@ -731,7 +731,8 @@ http://181.78.192.238:8000/play/a25p/index.m3u8
 http://45.188.229.33:8000/play/a1dm/index.m3u8
 #EXTINF:-1 tvg-id="232408" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe.ar
 http://45.188.229.33:8000/play/a1cl/index.m3u8
-
+#EXTINF:-1 tvg-id="232408" tvg-name="Telefe.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png", Telefe Rosario.ar
+https://live.eu-north-1a.cf.dmcdn.net/sec2(TeKJ-UaJ2UD10IFwgoBxorHL0M9i0LyIvWA9rhfeKUtz3gl7eChbyKxTk2wEVpxgxsVH4X1l39fOYMKBovuFsobJr9Hn-7iHs4xIHpOUbBpFbIo7bHU0zo6CXnyU6xc9)/dm/3/xaekt76/s/live-720.m3u8#cell=lcf-eu-north-1a
 
 
 #EXTINF:-1 tvg-id="332144" tvg-name="El Trece.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina-mediano.png", El Trece.ar
