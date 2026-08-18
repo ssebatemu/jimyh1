@@ -1138,10 +1138,15 @@ https://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd?|referer=https://pla
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuvkx1kkfl/out/v1/6a977f46a77b4a03a1e55db484c1695a/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="TNT.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-ar.png?raw=true" group-title="CINE Y SERIES", TNT
+#EXTINF:-1 tvg-id="TNT.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-ar.png?raw=true" group-title="CINE Y SERIES", TNT prueba
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=faad1722a575f4d9ec7b774db63c879c:cf0184830344ba36ad2ffef9dd2dd9d0
 https://edge-live11-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MTYyNTU3Iiwic2lwIjoiMTgxLjQ1LjE0NS4yMzUiLCJwYXRoIjoiL2xpdmUvYzNlZHMvVE5UX0hEX0FyZy9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImYxNTI1Njg0ZTkzNmUyNmEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiODciLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.cFPMR4xmyXpGVX2mYoMVo6dCWHUHghsFetc9dJaBxfdoNFuB2yVV9vx0ZwaegJWA8oPxjg3p1FPghnBlIQdIrQ==/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/TNT_HD_Arg.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+
+#EXTINF:-1, Universal tv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6cf9a13d6fd65a0f2e1cee3969aab9f5:ea61c3c1adee71b5c2e9744e41d4b75f
+https://edge-live11-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MTYyNTU3Iiwic2lwIjoiMTgxLjQ1LjE0NS4yMzUiLCJwYXRoIjoiL2xpdmUvYzNlZHMvVE5UX0hEX0FyZy9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImYxNTI1Njg0ZTkzNmUyNmEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiODciLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.cFPMR4xmyXpGVX2mYoMVo6dCWHUHghsFetc9dJaBxfdoNFuB2yVV9vx0ZwaegJWA8oPxjg3p1FPghnBlIQdIrQ==/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 #EXTINF:-1, TVE SD
 #KODIPROP:inputstream=inputstream.adaptive
