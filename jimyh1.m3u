@@ -1138,15 +1138,6 @@ https://cdn.sensa.com.ar/live/eds/A24/live_dash_cld/A24.mpd?|referer=https://pla
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xuvkx1kkfl/out/v1/6a977f46a77b4a03a1e55db484c1695a/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="TNT.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-ar.png?raw=true" group-title="CINE Y SERIES", TNT prueba
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=faad1722a575f4d9ec7b774db63c879c:cf0184830344ba36ad2ffef9dd2dd9d0
-https://edge-live11-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MTYyNTU3Iiwic2lwIjoiMTgxLjQ1LjE0NS4yMzUiLCJwYXRoIjoiL2xpdmUvYzNlZHMvVE5UX0hEX0FyZy9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImYxNTI1Njg0ZTkzNmUyNmEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiODciLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.cFPMR4xmyXpGVX2mYoMVo6dCWHUHghsFetc9dJaBxfdoNFuB2yVV9vx0ZwaegJWA8oPxjg3p1FPghnBlIQdIrQ==/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/TNT_HD_Arg.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
-
-#EXTINF:-1, Universal tv
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6cf9a13d6fd65a0f2e1cee3969aab9f5:ea61c3c1adee71b5c2e9744e41d4b75f
-https://edge-live11-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MTYyNTU3Iiwic2lwIjoiMTgxLjQ1LjE0NS4yMzUiLCJwYXRoIjoiL2xpdmUvYzNlZHMvVE5UX0hEX0FyZy9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImYxNTI1Njg0ZTkzNmUyNmEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiODciLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.cFPMR4xmyXpGVX2mYoMVo6dCWHUHghsFetc9dJaBxfdoNFuB2yVV9vx0ZwaegJWA8oPxjg3p1FPghnBlIQdIrQ==/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 #EXTINF:-1, TVE SD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1640,3 +1631,19 @@ https://live1-ott.izzigo.tv/11/out/u/dash/HOLA-TV-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f17471a55cb94b4f9841d9dd187a9045:b839916035d9094c170c8ac8c1872658
 https://live-akc-sa-west-2.media.dssott.com/dvt2=exp=1787175844~url=%2Fgru1%2Fva01%2Fdisneyplus%2Fevent%2F2026%2F08%2F18%2FRecoleta_PAR_vs_Boca_Juni_20260818_1787084134032%2F~psid=4336d07c-73df-47f1-a469-c9d039c0ccfa~aid=0a4cb63b-595d-4db9-9a09-2d0b3c244ecb~did=4567c422-9a4c-4a39-96fe-1a0b028c8a75~country=CL~kid=k02~hmac=a15294d890a8d49833db579a72dd6ff4e6fbc7d90d3bda019afb54c78c6307e3/gru1/va01/disneyplus/event/2026/08/18/Recoleta_PAR_vs_Boca_Juni_20260818_1787084134032/ctr-all-hdri-complete.m3u8?r=1080&v=1&hash=8fa0e3ed72f5d7860857ca56fa3fe7d2e9f4fdbd
+
+
+#EXTINF:-1 tvg-id="TNT.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-ar.png?raw=true" group-title="CINE Y SERIES", TNT prueba
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=faad1722a575f4d9ec7b774db63c879c:cf0184830344ba36ad2ffef9dd2dd9d0
+https://edge-live11-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MTYyNTU3Iiwic2lwIjoiMTgxLjQ1LjE0NS4yMzUiLCJwYXRoIjoiL2xpdmUvYzNlZHMvVE5UX0hEX0FyZy9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImYxNTI1Njg0ZTkzNmUyNmEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiODciLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.cFPMR4xmyXpGVX2mYoMVo6dCWHUHghsFetc9dJaBxfdoNFuB2yVV9vx0ZwaegJWA8oPxjg3p1FPghnBlIQdIrQ==/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/TNT_HD_Arg.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+
+#EXTINF:-1, Universal tv
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6cf9a13d6fd65a0f2e1cee3969aab9f5:ea61c3c1adee71b5c2e9744e41d4b75f
+https://edge-live11-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MTYyNTU3Iiwic2lwIjoiMTgxLjQ1LjE0NS4yMzUiLCJwYXRoIjoiL2xpdmUvYzNlZHMvVE5UX0hEX0FyZy9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImYxNTI1Njg0ZTkzNmUyNmEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiODciLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.cFPMR4xmyXpGVX2mYoMVo6dCWHUHghsFetc9dJaBxfdoNFuB2yVV9vx0ZwaegJWA8oPxjg3p1FPghnBlIQdIrQ==/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+
+#EXTINF:-1 tvg-id="TNT.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-ar.png?raw=true" group-title="CINE Y SERIES", TNT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
+https://edge-live11-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MTYyNTU3Iiwic2lwIjoiMTgxLjQ1LjE0NS4yMzUiLCJwYXRoIjoiL2xpdmUvYzNlZHMvVE5UX0hEX0FyZy9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImYxNTI1Njg0ZTkzNmUyNmEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiODciLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.cFPMR4xmyXpGVX2mYoMVo6dCWHUHghsFetc9dJaBxfdoNFuB2yVV9vx0ZwaegJWA8oPxjg3p1FPghnBlIQdIrQ==/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
