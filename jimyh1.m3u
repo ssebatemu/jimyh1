@@ -763,7 +763,7 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
 
 
-XTINF:-1 tvg-id="312988" tvg-name="TNT Sports Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports-mediano.png", TNT Sports Premium.ar
+#EXTINF:-1 tvg-id="312988" tvg-name="TNT Sports Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports-mediano.png", TNT Sports Premium.ar
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c26371079e89206d63e1454893e881b6:adac3c3b3774e411d6e49724f7ea0ee3
 #EXTVLCOPT:http-origin=https://player.sensa.com.ar
@@ -1656,6 +1656,18 @@ https://edge-live11-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 https://edge-live11-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MTYyNTU3Iiwic2lwIjoiMTgxLjQ1LjE0NS4yMzUiLCJwYXRoIjoiL2xpdmUvYzNlZHMvVE5UX0hEX0FyZy9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImYxNTI1Njg0ZTkzNmUyNmEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiODciLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.cFPMR4xmyXpGVX2mYoMVo6dCWHUHghsFetc9dJaBxfdoNFuB2yVV9vx0ZwaegJWA8oPxjg3p1FPghnBlIQdIrQ==/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 
+#EXTINF:-1 tvg-id="312988" tvg-name="TNT Sports Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_sports-mediano.png", TNT Sports Premium.ar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a3
+https://edge-live11-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MTYyNTU3Iiwic2lwIjoiMTgxLjQ1LjE0NS4yMzUiLCJwYXRoIjoiL2xpdmUvYzNlZHMvVE5UX0hEX0FyZy9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImYxNTI1Njg0ZTkzNmUyNmEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiODciLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.cFPMR4xmyXpGVX2mYoMVo6dCWHUHghsFetc9dJaBxfdoNFuB2yVV9vx0ZwaegJWA8oPxjg3p1FPghnBlIQdIrQ==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+
+
+
+
+#EXTINF:-1 tvg-id="316674" tvg-name="Espn Premium.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png", Espn Premium.ar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
+https://edge-live11-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MTYyNTU3Iiwic2lwIjoiMTgxLjQ1LjE0NS4yMzUiLCJwYXRoIjoiL2xpdmUvYzNlZHMvVE5UX0hEX0FyZy9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImYxNTI1Njg0ZTkzNmUyNmEiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIyIiwiYXVkIjoiODciLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.cFPMR4xmyXpGVX2mYoMVo6dCWHUHghsFetc9dJaBxfdoNFuB2yVV9vx0ZwaegJWA8oPxjg3p1FPghnBlIQdIrQ==/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 
 
