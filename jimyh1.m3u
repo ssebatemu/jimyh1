@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml,https://www.open-epg.com/files/uruguay.xml,https://www.open-epg.com/files/mexico2.xml,https://www.open-epg.com/files/colombia2.xml,https://www.open-epg.com/files/peru.xml"
 #EXTINF:-1,N
-http://118.142.17.190:8278/playlist.m3u8
+https://s1.tudeporteshoy.xyz/global/disney4/index.m3u8?token=ec74f742f5d88f92266e3b55e318559ad9d3e8e4-49-1787453392-1787399392&ip=190.103.84.154
 
 #EXTINF:-1 tvg-id="230937" tvg-name="America.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina-mediano.png", America.ar
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
