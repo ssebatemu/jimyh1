@@ -459,93 +459,6 @@ https://live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd
 
 
 
-#EXTINF:-1 tvg-id="1099" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Mas vistos",Cine 2024
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/1099.m3u8
-
-#EXTINF:-1 tvg-id="1159" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Mas vistos",Cine 2025
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/1159.m3u8
-
-#EXTINF:-1 tvg-id="1159" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Mas vistos",Cine 2026
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/1180.m3u8
-
-#EXTINF:-1 tvg-id="163" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Comedia 1
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/162.m3u8
-
-#EXTINF:-1 tvg-id="163" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Comedia 2
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/164.m3u8
-
-#EXTINF:-1 tvg-id="176" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Romance 1
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/178.m3u8
-
-#EXTINF:-1 tvg-id="176" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Romance 2
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/179.m3u8
-
-#EXTINF:-1 tvg-id="169" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Mas vistos",Cine Accion
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/158.m3u8
-
-#EXTINF:-1 tvg-id="177" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Mas vistos",Cine Accion Sagas
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/160.m3u8
-
-#EXTINF:-1 tvg-id="177" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Mas vistos",Cine Ficcion/Fantasia 1
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/168.m3u8
-
-#EXTINF:-1 tvg-id="177" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Mas vistos",Cine Ficcion/Fantasia 2
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/167.m3u8
-
-#EXTINF:-1 tvg-id="169" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Mas vistos",Cine Infantil
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/170.m3u8
-
-#EXTINF:-1 tvg-id="172" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Infantil Sagas 
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/172.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://fmh.la/img/logo_movies.png", FMH Movies
-http://38.211.145.109:8000/play/a042/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://fmh.la/img/logo_family.png", FMH Family
-http://38.211.145.109:8000/play/a046/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="281940" tvg-name="Cine Premium" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png", Cine Premium
-https://telco.apk-media.edge-apps.net/hls/d4bhf-fflam-b5fon-7kcff.m3u8
-
-#EXTINF:-1 tvg-id="232374" tvg-name="Cine Familar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc6pEKlp2kZH2pKqF5chstFSTwZy5H8P8sBw&s", Cine Familar
-https://telco.apk-media.edge-apps.net/hls/14nj5-o3nib-lfdgo-ha1ib.m3u8
-
-#EXTINF:-1 tvg-logo="", Movie Acces
-http://45.5.118.188:8000/play/a06g/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Nitro.svg/1920px-Nitro.svg.png", Nitro
-http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://cloverchannel.com/wp-content/uploads/2024/11/Clover_7.png.webp", Clover.co
-http://45.188.229.33:8000/play/a1ka/index.m3u8
-
-#EXTINF:-1 tvg-logo="", Max Prime
-http://190.211.172.203:4000/play/a0xu/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://megacable.com.mx/images/canales/thumbs/458_multicinema_imagen_1718839802.png", Multicinema
-http://200.229.147.210:9999/play/a05k/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multipremier-mediano.png", Multipremier.pe
-http://24.152.54.30:8085/play/a042/index.m3u8
-
-#EXTINF:-1 tvg-logo="", Cine Prime
-http://190.61.114.186:8000/play/a04u/index.m3u8
-
-#EXTINF:-1 tvg-logo="", AVI
-http://181.78.121.15:8000/play/a00f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_5SWgu8sXFUNWQ3La5CDUbHGTTwpS6aRPfHuRFmAnhB5O-6xZNNGIMNdx&s=10", Rewinds
-http://201.187.96.54:8000/play/104
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Cinema_Platino_%282025%29.png/revision/latest/scale-to-width-down/340?cb=20251024020326", Cinema Platino
-http://181.78.15.155:9800/play/a00e
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="232409" tvg-name="TN.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/todo_notcias-mediano.png", TN.ar
@@ -1037,6 +950,48 @@ https://live1-ott.izzigo.tv/15/out/u/dash/SKY-LIVE-EVENT-7-HD/default.mpd
 https://live1-ott.izzigo.tv/13/out/u/dash/SKY-LIVE-EVENT-8-HD/default.mpd
 
 
+
+#EXTINF:-1 tvg-id="1099" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Mas vistos",Cine 2024
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1099.m3u8
+
+#EXTINF:-1 tvg-id="1159" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Mas vistos",Cine 2025
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1159.m3u8
+
+#EXTINF:-1 tvg-id="1159" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Mas vistos",Cine 2026
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1180.m3u8
+
+#EXTINF:-1 tvg-id="163" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Comedia 1
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/162.m3u8
+
+#EXTINF:-1 tvg-id="163" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Comedia 2
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/164.m3u8
+
+#EXTINF:-1 tvg-id="176" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Romance 1
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/178.m3u8
+
+#EXTINF:-1 tvg-id="176" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Romance 2
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/179.m3u8
+
+#EXTINF:-1 tvg-id="169" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Mas vistos",Cine Accion
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/158.m3u8
+
+#EXTINF:-1 tvg-id="177" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Mas vistos",Cine Accion Sagas
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/160.m3u8
+
+#EXTINF:-1 tvg-id="177" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Mas vistos",Cine Ficcion/Fantasia 1
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/168.m3u8
+
+#EXTINF:-1 tvg-id="177" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Mas vistos",Cine Ficcion/Fantasia 2
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/167.m3u8
+
+#EXTINF:-1 tvg-id="169" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Mas vistos",Cine Infantil
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/170.m3u8
+
+#EXTINF:-1 tvg-id="172" tvg-logo="http://i.tvcluboficial.com/cine247.png" group-title="Cine 24/7",Cine Infantil Sagas 
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/172.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/bfd3667cda89eb146170ffc51eb6021c.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Accion
 http://mundo2.pro/live/iker12/iker12/317104.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/30b5e165c2cb5c2ff8ddf5a78107f9fb.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Adam Sandler
@@ -1049,8 +1004,6 @@ http://mundo2.pro/live/iker12/iker12/317107.ts
 http://mundo2.pro/live/iker12/iker12/317108.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/4e42e34a6da0498328641a287c97b8fc.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Batman (Saga de Nolan)
 http://mundo2.pro/live/iker12/iker12/317109.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/2d2c6a8269650a412e43615d796d436b.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Cantinflas
-http://mundo2.pro/live/iker12/iker12/317110.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/44265d5fa194c0ecab7de1c6a3d2a900.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Cincuenta Sombras
 http://mundo2.pro/live/iker12/iker12/317111.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/7c9d91ecb61667b5897647c99979b54d.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Cinema Latino
@@ -1099,8 +1052,6 @@ http://mundo2.pro/live/iker12/iker12/317132.ts
 http://mundo2.pro/live/iker12/iker12/317133.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/8a389ace3ae049cadf0a84b793a4a8f8.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | La era de hielo
 http://mundo2.pro/live/iker12/iker12/317134.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/924caf606afab98501bec613c6c4783f.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Las leyendas de México
-http://mundo2.pro/live/iker12/iker12/317135.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/bdd4296056f5c5e006ff0b64fed0890a.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Los Juegos del Hambre
 http://mundo2.pro/live/iker12/iker12/317136.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/aa1f3ed99b5b46d0cded24f0cb235754.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | MARVEL
@@ -1111,8 +1062,7 @@ http://mundo2.pro/live/iker12/iker12/317138.ts
 http://mundo2.pro/live/iker12/iker12/317139.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/12b995313f5b88341586f8f3c3054546.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Navidad
 http://mundo2.pro/live/iker12/iker12/317140.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/c2d21fd22f6af29fe3a7e58b5747a9c6.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Pedro Infante
-http://mundo2.pro/live/iker12/iker12/317141.ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/4611f0f268b34ec2b767fd5844cf783f.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Peliculas Subtituladas
 http://mundo2.pro/live/iker12/iker12/317142.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/c2bdade64ebb4e5023d662829fbc7102.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Peliculas Subtituladas ||
@@ -1157,64 +1107,54 @@ http://mundo2.pro/live/iker12/iker12/317157.ts
 http://mundo2.pro/live/iker12/iker12/317112.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://daleplaypro.com:8080/images/1101ff95c5bd5fb6a2528002ae896226.png" group-title="♐ 24/7 PELICULAS ♐",24/7 l RETROcine TV
 http://mundo2.pro/live/iker12/iker12/93104.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/c0d54ec651ce52076790641f5e909ee9.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Action Movies (ENG)
-http://mundo2.pro/live/iker12/iker12/317083.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Adventure Movies
-http://mundo2.pro/live/iker12/iker12/317084.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Animation Movies
-http://mundo2.pro/live/iker12/iker12/317085.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Comedy Movies
-http://mundo2.pro/live/iker12/iker12/317086.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/a442e86f8c0a054032686f811c50c7f6.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Disney Classics (ENG)
-http://mundo2.pro/live/iker12/iker12/317087.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Documentary Movies
-http://mundo2.pro/live/iker12/iker12/317088.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Drama Movies
-http://mundo2.pro/live/iker12/iker12/317089.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/15e1baa29c68919926ed2a17fa4a4aee.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Dreamworks Movies (ENG)
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/15e1baa29c68919926ed2a17fa4a4aee.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Dreamworks Movies (ENG)
-http://mundo2.pro/live/iker12/iker12/317090.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Family Movies
-http://mundo2.pro/live/iker12/iker12/317091.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Fantasy Movies
-http://mundo2.pro/live/iker12/iker12/317092.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Harry Potter Movies
-http://mundo2.pro/live/iker12/iker12/317093.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Animation Movies
-http://mundo2.pro/live/iker12/iker12/317094.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Horror Movies
-http://mundo2.pro/live/iker12/iker12/317095.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Marvel Movies
-http://mundo2.pro/live/iker12/iker12/317096.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Mistery Movies
-http://mundo2.pro/live/iker12/iker12/317097.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/0b48468c1501561a7580652f2dd6497d.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Pixar Movies (ENG)
-http://mundo2.pro/live/iker12/iker12/317098.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Religion Movies
-http://mundo2.pro/live/iker12/iker12/317099.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Romance Movies
-http://mundo2.pro/live/iker12/iker12/317100.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Science Fiction Movies
-http://mundo2.pro/live/iker12/iker12/317101.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Suspense Movies
-http://mundo2.pro/live/iker12/iker12/317102.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.pro:80/images/b767cabd22effcd69db08c94ad59eb9c.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Toy Story
-http://mundo2.pro/live/iker12/iker12/317157.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.pro:80/images/8f0cbeb1c76d9357e9b4d95f813eae72.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Cine infantil
-http://mundo2.pro/live/iker12/iker12/317112.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://daleplaypro.com:8080/images/1101ff95c5bd5fb6a2528002ae896226.png" group-title="♐ 24/7 PELICULAS ♐",24/7 l RETROcine TV
-http://mundo2.pro/live/iker12/iker12/93104.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/c0d54ec651ce52076790641f5e909ee9.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Action Movies (ENG)
-http://mundo2.pro/live/iker12/iker12/317083.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Adventure Movies
-http://mundo2.pro/live/iker12/iker12/317084.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Animation Movies
-http://mundo2.pro/live/iker12/iker12/317085.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Comedy Movies
-http://mundo2.pro/live/iker12/iker12/317086.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/a442e86f8c0a054032686f811c50c7f6.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Disney Classics (ENG)
-http://mundo2.pro/live/iker12/iker12/317087.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Documentary Movies
-http://mundo2.pro/live/iker12/iker12/317088.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://mundo2.vip:8080/images/07350e71c33c6a3fbce91a58aa0a4a9b.png" group-title="♐ 24/7 PELICULAS ♐",24/7 | Drama Movies
-http://mundo2.pro/live/iker12/iker12/317089.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://fmh.la/img/logo_movies.png", FMH Movies
+http://38.211.145.109:8000/play/a042/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://fmh.la/img/logo_family.png", FMH Family
+http://38.211.145.109:8000/play/a046/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="281940" tvg-name="Cine Premium" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png", Cine Premium
+https://telco.apk-media.edge-apps.net/hls/d4bhf-fflam-b5fon-7kcff.m3u8
+
+#EXTINF:-1 tvg-id="232374" tvg-name="Cine Familar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc6pEKlp2kZH2pKqF5chstFSTwZy5H8P8sBw&s", Cine Familar
+https://telco.apk-media.edge-apps.net/hls/14nj5-o3nib-lfdgo-ha1ib.m3u8
+
+#EXTINF:-1 tvg-logo="", Movie Acces
+http://45.5.118.188:8000/play/a06g/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Nitro.svg/1920px-Nitro.svg.png", Nitro
+http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://cloverchannel.com/wp-content/uploads/2024/11/Clover_7.png.webp", Clover.co
+http://45.188.229.33:8000/play/a1ka/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Max Prime
+http://190.211.172.203:4000/play/a0xu/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://megacable.com.mx/images/canales/thumbs/458_multicinema_imagen_1718839802.png", Multicinema
+http://200.229.147.210:9999/play/a05k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multipremier-mediano.png", Multipremier.pe
+http://24.152.54.30:8085/play/a042/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Cine Prime
+http://190.61.114.186:8000/play/a04u/index.m3u8
+
+#EXTINF:-1 tvg-logo="", AVI
+http://181.78.121.15:8000/play/a00f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_5SWgu8sXFUNWQ3La5CDUbHGTTwpS6aRPfHuRFmAnhB5O-6xZNNGIMNdx&s=10", Rewinds
+http://201.187.96.54:8000/play/104
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Cinema_Platino_%282025%29.png/revision/latest/scale-to-width-down/340?cb=20251024020326", Cinema Platino
+http://181.78.15.155:9800/play/a00e
+
+
+
+
+
+
+
