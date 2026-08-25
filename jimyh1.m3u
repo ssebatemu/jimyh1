@@ -463,6 +463,57 @@ https://live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd
 
 
 
+#EXTINF:-1 tvg-logo="https://fmh.la/img/logo_movies.png", FMH Movies
+http://38.211.145.109:8000/play/a042/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://fmh.la/img/logo_family.png", FMH Family
+http://38.211.145.109:8000/play/a046/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="281940" tvg-name="Cine Premium" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png", Cine Premium
+https://telco.apk-media.edge-apps.net/hls/d4bhf-fflam-b5fon-7kcff.m3u8
+
+#EXTINF:-1 tvg-id="232374" tvg-name="Cine Familar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc6pEKlp2kZH2pKqF5chstFSTwZy5H8P8sBw&s", Cine Familar
+https://telco.apk-media.edge-apps.net/hls/14nj5-o3nib-lfdgo-ha1ib.m3u8
+
+#EXTINF:-1 tvg-logo="", Movie Acces
+http://45.5.118.188:8000/play/a06g/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Nitro.svg/1920px-Nitro.svg.png", Nitro
+http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://cloverchannel.com/wp-content/uploads/2024/11/Clover_7.png.webp", Clover.co
+http://45.188.229.33:8000/play/a1ka/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Max Prime
+http://190.211.172.203:4000/play/a0xu/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://megacable.com.mx/images/canales/thumbs/458_multicinema_imagen_1718839802.png", Multicinema
+http://200.229.147.210:9999/play/a05k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multipremier-mediano.png", Multipremier.pe
+http://24.152.54.30:8085/play/a042/index.m3u8
+
+#EXTINF:-1 tvg-logo="", Cine Prime
+http://190.61.114.186:8000/play/a04u/index.m3u8
+
+#EXTINF:-1 tvg-logo="", AVI
+http://181.78.121.15:8000/play/a00f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_5SWgu8sXFUNWQ3La5CDUbHGTTwpS6aRPfHuRFmAnhB5O-6xZNNGIMNdx&s=10", Rewinds
+http://201.187.96.54:8000/play/104
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Cinema_Platino_%282025%29.png/revision/latest/scale-to-width-down/340?cb=20251024020326", Cinema Platino
+http://181.78.15.155:9800/play/a00e
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="232409" tvg-name="TN.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/todo_notcias-mediano.png", TN.ar
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 
@@ -1112,47 +1163,6 @@ http://mundo2.pro/live/iker12/iker12/93104.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://fmh.la/img/logo_movies.png", FMH Movies
-http://38.211.145.109:8000/play/a042/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://fmh.la/img/logo_family.png", FMH Family
-http://38.211.145.109:8000/play/a046/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="281940" tvg-name="Cine Premium" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png", Cine Premium
-https://telco.apk-media.edge-apps.net/hls/d4bhf-fflam-b5fon-7kcff.m3u8
-
-#EXTINF:-1 tvg-id="232374" tvg-name="Cine Familar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc6pEKlp2kZH2pKqF5chstFSTwZy5H8P8sBw&s", Cine Familar
-https://telco.apk-media.edge-apps.net/hls/14nj5-o3nib-lfdgo-ha1ib.m3u8
-
-#EXTINF:-1 tvg-logo="", Movie Acces
-http://45.5.118.188:8000/play/a06g/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Nitro.svg/1920px-Nitro.svg.png", Nitro
-http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://cloverchannel.com/wp-content/uploads/2024/11/Clover_7.png.webp", Clover.co
-http://45.188.229.33:8000/play/a1ka/index.m3u8
-
-#EXTINF:-1 tvg-logo="", Max Prime
-http://190.211.172.203:4000/play/a0xu/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://megacable.com.mx/images/canales/thumbs/458_multicinema_imagen_1718839802.png", Multicinema
-http://200.229.147.210:9999/play/a05k/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/multipremier-mediano.png", Multipremier.pe
-http://24.152.54.30:8085/play/a042/index.m3u8
-
-#EXTINF:-1 tvg-logo="", Cine Prime
-http://190.61.114.186:8000/play/a04u/index.m3u8
-
-#EXTINF:-1 tvg-logo="", AVI
-http://181.78.121.15:8000/play/a00f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_5SWgu8sXFUNWQ3La5CDUbHGTTwpS6aRPfHuRFmAnhB5O-6xZNNGIMNdx&s=10", Rewinds
-http://201.187.96.54:8000/play/104
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Cinema_Platino_%282025%29.png/revision/latest/scale-to-width-down/340?cb=20251024020326", Cinema Platino
-http://181.78.15.155:9800/play/a00e
 
 
 
