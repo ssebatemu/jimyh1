@@ -1,15 +1,8 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/argentina.xml,https://www.open-epg.com/files/uruguay.xml,https://www.open-epg.com/files/mexico2.xml,https://www.open-epg.com/files/colombia2.xml,https://www.open-epg.com/files/peru.xml"
 
 
-#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1621.png" group-title="DEPORTES", ESPN
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Origin="https://webclient.antinaplayplus.com.ar"
-#KODIPROP:inputstream.adaptive.stream_headers=referer="https://webclient.antinaplayplus.com.ar"
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd
+#EXTINF:-1, 1
+https://cdn.prepro.cvattv.com.ar/ds5x3ppfiuk96/out/v1/TNTSeries3/SA_Live_dash_enc/TNTSeries.mpd
 
 #EXTINF:-1 tvg-id="230937" tvg-name="America.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina-mediano.png", America.ar
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
