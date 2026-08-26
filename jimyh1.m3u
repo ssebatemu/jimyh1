@@ -909,6 +909,10 @@ https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a
 #KODIPROP:inputstream.adaptive.license_key=41121cea7a3d49a78c9496d1b0d919e4:de048d4c2870b8d53961aaeac1804947
 https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DAZN F1
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/374.m3u8
+
+
 #EXTINF:-1 group-title="VIP Mexico", Sky Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
