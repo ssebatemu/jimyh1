@@ -554,7 +554,7 @@ https://live1-ott.izzigo.tv/13/out/u/dash/CNN-EN-ESPANOL-SD/default.mpd
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8?hdnea=st%3D1780609158~exp%3D1780616358~acl%3D%2F%2A~hmac%3D948e22c7b30ca551a5b9085b41dc6d35883579e3446d046118368888513e8877&PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="281934" tvg-name="TV Globo.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png/revision/latest?cb=20160114164123&path-prefix=es", TV Globo.ar
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+https://live.mediapro.com.br/hls/bh-globo/index.m3u8
 
 #EXTINF:-1 tvg-id="232505" tvg-name="Dw Español.ar" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/deutsche_welle-mediano.png", Dw Español.ar
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
