@@ -653,6 +653,7 @@ https://cdn.sensa.com.ar/live/eds/America/live_dash_cld/America.mpd?|referer=htt
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 
 #EXTINF:-1 tvg-id="312720" tvg-name="America TV 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina-mediano.png", America.ar
+https://cdn.cvattv.com.ar/live/c4eds/America_PY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/America_PY.mpd
 https://cdn.cvattv.com.ar/live/c4eds/A24_PY/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/A24_PY.mpd
 
 #EXTINF:-1 tvg-id="312887" tvg-name="Tv Publica" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/television_publica_argentina-mediano.png", TVPublica.ar
